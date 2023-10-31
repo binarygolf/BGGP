@@ -112,7 +112,7 @@ Forth is a programming language. It is used in surprising places.
 
 | Author    | Date       | Size | Notes |
 | --------- | ---------- | ---- | ----- |
-| MaeMiller | 2023-08-31 | 349  |       |
+| MaeMiller 👑| 2023-08-31 | 349  |       |
 ### HTML
 
 |Author|Date|Size|Notes|
@@ -133,13 +133,13 @@ While this is technically not a "file" in the traditional sense, it's useful to 
 
 | Author | Date | Size | Notes |
 | ------ | ---- | ---- | ----- |
-|13x1|2023-09-08|102|
+|13x1 👑|2023-09-08|102|
 
 #### NodeJS
 
 | Author | Date | Size | Notes |
 | ------ | ---- | ---- | ----- |
-|13x1|2023-09-08|42|Node.js REPL with underscore variable|
+|13x1 👑|2023-09-08|42|Node.js REPL with underscore variable|
 |13x1|2023-09-08|43|Node.js REPL without underscore variable|
 |13x1|2023-09-08|44|Node.js Script|
 |13x1|2023-09-08|135|Node.js Server|
@@ -216,7 +216,7 @@ Python is a high level programming language.
 
 |Author|Date|Size|Notes|
 |---|---|---|---|
-|nopcorn|2023-09-01|42|
+|nopcorn 👑|2023-09-01|42|
 |Flash ANG|2023-07-31|45|py2 only|
 |retr0id|2023-09-07|46|
 |bitrake|2023-09-12|49|
@@ -242,7 +242,7 @@ sudo apt install python3.10
 
 |Author|Date|Size|Notes|
 |---|---|---|---|
-|kaze|2023-08-14|113|python3.6|
+|kaze 👑|2023-08-14|113|python3.6|
 |Ajabep|2023-09-05|131|python2.0|
 |int0x80|2023-06-24|195|python3.10|
 |acron1ks|2023-07-07|204|python2.7|
@@ -253,7 +253,7 @@ This is a BIOS application that runs in QEMU.
 
 |Author|Date|Size|Notes|
 |---|---|---|---|
-|endofunky|2023-08-30|65536|
+|endofunky 👑|2023-08-30|65536|
 
 ### Rizin Script
 
@@ -261,7 +261,7 @@ These are scripts you can run in the rizin debugger.
 
 |Author|Date|Size|Notes|
 |---|---|---|---|
-|ert|2023-09-08|252|
+|ert 👑|2023-09-08|252|
 ### Ruby
 Ruby is a high level programming language with an emphasis on programming productivity and simplicity.
 
@@ -357,7 +357,7 @@ Each file combination used by a given polyglot entry is treated as a distinct fi
 
 |Author|Date|Size|
 |---|---|---|
-|mauke|2023-09-03|376|
+|mauke 👑|2023-09-03|376|
 
 ### Polyglot: COM, SH
 
@@ -381,7 +381,7 @@ Each file combination used by a given polyglot entry is treated as a distinct fi
 
 |Author|Date|Size|
 |---|---|---|
-|Ajabep|2023-09-08|167|
+|Ajabep 👑|2023-09-08|167|
 
 ### Polyglot: SH, Perl, Haskell
 
