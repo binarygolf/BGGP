@@ -1,0 +1,22 @@
+Date: 20230717
+---BEGIN BGGP4 ENTRY---
+Name or handle: XfavataX
+Contact Info: markfavata@gmail.com
+Website, twitter, other online presence: Mastodon: @xfavatax@haunted.computer 
+Target File Type: HTML
+SHA256 Hash: 01b6dcc2ebb4baac1e192a1681c0824c6c6bb3d29c6859bb5d9a8587ab79143f
+Target Environment: Tested on macOS, various Linux flavors and Windows 10/11 with Firefox results in a download of a file named 4.
+Any additional info?: Using a browser other than Firefox may result in a file extension of txt or html being added to the downloaded file. Received addition inspiration from @eater@cijber.social after initial submission.
+Link to PoC video, screenshot, or console output, if any: https://mfavata.github.io/BGGP4
+Link to writeup, if any: https://mfavata.github.io/BGGP4
+File contents (base64 encoded please): 
+PGEgZG93bmxvYWQ9IjQiIGlkPSJmIj40PHNjcmlwdD5mLmhyZWY9J2RhdGE6LCcrZi5vdXRlckhU
+TUw7Zi5jbGljaygpOzwvc2NyaXB0PjwvYT4=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 83
+Note: works as-is
+---END VERIFICATION---
+

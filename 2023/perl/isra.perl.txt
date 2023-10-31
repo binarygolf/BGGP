@@ -1,0 +1,89 @@
+Date: 20230629
+Name or handle: isra
+Contact Info: isra@fastmail.net
+Website, twitter, other online presence: https://isra.cl
+Target File Type: Perl script
+SHA256 Hash: 4644baa458eb89a747c30d6195800d34006d3ae2ad522790f5acf4ea15e4a8e3
+Target Environment (How do we run the file?): perl -MFile::Copy=cp -l064 bggp.pl
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+
+% perl -MFile::Copy=cp -l064 bggp.pl                                    
+4                                                                                                                                                                                                                                             
+% sha256sum bggp.pl && sha256sum 4 
+4644baa458eb89a747c30d6195800d34006d3ae2ad522790f5acf4ea15e4a8e3  bggp.pl
+4644baa458eb89a747c30d6195800d34006d3ae2ad522790f5acf4ea15e4a8e3  4
+
+% cat bggp.pl && cat 4
+cp$0,4;print
+cp$0,4;print
+
+
+
+Link to writeup, if any: 
+File contents (base64 encoded please): 
+
+Y3AkMCw0O3ByaW50Cg==
+
+
+----------------------------------------------------------------------------//--
+Date: 20230703
+Hello, here's an updated version:
+
+Name or handle: isra
+Contact Info: isra@fastmail.net
+Website, twitter, other online presence: https://isra.cl
+Target File Type: Perl script
+SHA256 Hash: 3dbe9afbfa8bfe07cc9c724a3338fa8c645d74bad28f392777e476afc534d211
+Target Environment (How do we run the file?):
+
+two ways:
+
+1) normal:
+
+% perl -MFile::Copy=cp -s bggp.pl -_="cp\$0,4;print 4"
+
+2) obfustcated:
+
+perl -MFile::Copy=cp -s bggp.pl -_='42=~/42/;$o=sub{print$_[@+-2]};$l=chr($&+10);(sub{cp$0,$_[@+-2]})->($l);&$o(substr($&,$|++,$|))';
+
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+
+% cat bggp.pl
+eval
+
+% perl -MFile::Copy=cp -s bggp.pl -_="cp\$0,4;print 4"
+4
+
+% cat 4
+eval
+
+
+File contents (base64 encoded please): 
+
+ZXZhbAo=
+
+
+Cheers.
+----------------------------------------------------------------------------//--
+
+Date: 20230831
+
+Hi,
+
+A quick update on my last submission. The base64 encoded content should be:
+
+ZXZhbA==
+
+(I removed an unnecessary new line character)
+
+Mastodon Post: https://haunted.computer/@ilv@infosec.exchange/110986174137607122
+
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: 1bbd174404efbce95f1af489ef93f4aa0f4d55718f24c3504682216afa7b7fb1
+Score: 4
+Note: works as-is
+---END VERIFICATION---

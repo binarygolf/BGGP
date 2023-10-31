@@ -1,0 +1,19 @@
+Date: 20230814
+---BEGIN BGGP4 ENTRY---
+Name or handle: kaze
+Contact Info: contact@malcat.fr
+Website, twitter, other online presence: https://malcat.fr
+Target File Type: .pyc
+SHA256 Hash: ac882d007f42353593ca0027f51d7217620d7bdbb257da9f9cff2735a269ada4
+Target Environment (How do we run the file?): install python 3.6 x64 and rename the file 'a', then type: python a
+Any additional info?: Works on windows 10 using https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe
+Link to PoC video, screenshot, or console output, if any: https://i.imgur.com/mYxkKPl.png
+Link to writeup, if any:
+File contents (base64 encoded please): Mw0NCh4ypGQvAAAA4wAAAAAAAAAAAAAAAAMAAABAAAAAcxQAAABkAGUCZAKDAWwAagFkAWQCgwJTACkD6QAAAADaAWHaATQpA1oGc2h1dGls2gRjb3B52gVwcmludKkAKQApAPoA2gABAAAAcwAAAAA=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-30
+Score: 113
+Note: works as-is
+---END VERIFICATION---

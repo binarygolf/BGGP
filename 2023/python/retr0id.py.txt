@@ -1,0 +1,22 @@
+---BEGIN BGGP4 ENTRY---
+Name or handle: retr0id
+Contact Info: @retr0id@retr0.id
+Website, twitter, other online presence: https://www.da.vidbuchanan.co.uk/
+Target File Type: .py
+SHA256 Hash: 120a5a3669eadf0526988bcc9c151de19936b3cada3c33d2b83921d2e4eb0ece
+Target Environment (How do we run the file?): Tested in Python 3.10.12
+on Ubuntu 22.04, ought to work in most recent python versions in any
+environment.
+Any additional info?: N/A
+Link to PoC video, screenshot, or console output, if any: N/A
+Link to writeup, if any: N/A
+File contents (base64 encoded please):
+cHJpbnQoX19pbXBvcnRfXygic2h1dGlsIikuY29weShfX2ZpbGVfXywiNCIpKQ==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Submit Date: 2023-09-07
+Review Date: 2023-09-12
+Score: 46
+Note: works as-is
+---END VERIFICATION---

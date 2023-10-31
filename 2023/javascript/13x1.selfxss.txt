@@ -1,0 +1,19 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Lexi (13x1)
+Contact Info: tori@disroot.org (email), https://keybase.io/t0ri
+Website, twitter, other online presence: https://github.com/13x1 
+Target File Type: SelfXSS (javascript: URL)
+SHA256 Hash: e1ccc7be78fce2d1c16dfb9eee2fb08765811318e6365a2724dbcdf142e6ff58
+Target Environment (How do we run the file?): This one is a bit more complicated, because browsers have a selfXSS protection. You have to paste the URL, but it will delete the text "javascript:". You have to *manually type* that on the beginning of the URL and inside the btoa() call so it matches with the source again. Then just hit enter and enjoy the show. Also, you need to be on a website that doesn't block javascript: URLs via CSP, so I recommend running this on https://example.com/.
+Any additional info?: 102 bytes. Some browsers enforce a file ending in the file picker, but the actual name (as you can see in the screenshot) is 4.
+Link to PoC video, screenshot, or console output, if any: https://i.imgur.com/Nu01ffv.png
+Link to writeup, if any: https://github.com/13x1/bggp (not written yet, but will do at some point)
+File contents (base64 encoded please): amF2YXNjcmlwdDpjbGFzcyB4e3N0YXRpY3tkb2N1bWVudC53cml0ZWA8YSBpZD1hIGRvd25sb2FkPTQ+NGA7YS5jbGljayhhLmhyZWY9ImRhdGE6LGphdmFzY3JpcHQ6Iit4KX19
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 102
+Note: works as-is
+---END VERIFICATION---

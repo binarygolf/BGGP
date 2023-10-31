@@ -1,0 +1,19 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Lexi (13x1)
+Contact Info: tori@disroot.org (email), https://keybase.io/t0ri
+Website, twitter, other online presence: https://github.com/13x1 
+Target File Type: HTML file (served over HTTP)
+SHA256 Hash: d78c625ebd3d414af98eb960bf14aa8dc3795e950269e2d545bd4e1e2a656bd4
+Target Environment (How do we run the file?): Needs to run on a web server. file:// will not work. Tested with [`npx serve`](https://npm.im/serve).
+Any additional info?: 50 bytes. Some browsers enforce a file ending in the file picker, but the actual name (as you can see in the screenshot) is 4.
+Link to PoC video, screenshot, or console output, if any: https://i.imgur.com/5UzUx1D.png
+Link to writeup, if any: https://github.com/13x1/bggp (not written yet, but will do at some point)
+File contents (base64 encoded please): PGJvZHkgb25sb2FkPWEuY2xpY2soKT48YSBocmVmPSMgaWQ9YSBkb3dubG9hZD00PjQ=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 50
+Note: works as-is
+---END VERIFICATION---

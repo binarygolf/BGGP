@@ -1,0 +1,20 @@
+Date: 20230624
+---BEGIN BGGP4 ENTRY---
+Name or handle: tecknicaltom
+Contact Info: tecknicaltom@neg9.org
+Website, twitter, other online presence: InfoconDB.org twitter:tecknicaltom mastodon:@tecknicaltom@neg9.org
+Target File Type: Perl
+SHA256 Hash: e2b9fb128b4644d3284d8f00f3b3080748d7c75b4e049cfdf77722652e81e708
+Target Environment (How do we run the file?): any Linux system should run it fine
+Any additional info?: returns 4 as exit code
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): IyEvdXNyL2Jpbi9wZXJsCnVzZSBGaWxlOjpDb3B5O2V4aXQgNCpjb3B5JDAsNAo=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 47
+Note: works as-is
+---END VERIFICATION---
+

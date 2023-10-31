@@ -1,0 +1,19 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Lexi (13x1)
+Contact Info: tori@disroot.org (email), https://keybase.io/t0ri
+Website, twitter, other online presence: https://github.com/13x1
+Target File Type: AutoHotkey 1.1 script
+SHA256 Hash: 634cb98275b315fc45dfd00b83f69ba53c99f7e40dccde99608c1a05161b3fea
+Target Environment (How do we run the file?): Double-click the file in Explorer with AutoHotkey 1.1 installed
+Any additional info?: 38 bytes. Do NOT compile it, run it as a script (the default). Also, using AHK 1.1 instead of 2 because I can't be bothered to update autohotkey on my windows box.
+Link to PoC video, screenshot, or console output, if any: https://i.imgur.com/y3OhL8m.png
+Link to writeup, if any: https://github.com/13x1/bggp (not written yet, but will do at some point)
+File contents (base64 encoded please): RmlsZUNvcHksJUFfU2NyaXB0RnVsbFBhdGglLDQKTXNnQm94LDQ=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: gilda
+Review Date: 2023-10-30
+Score: 38
+Note: works as-is
+---END VERIFICATION---

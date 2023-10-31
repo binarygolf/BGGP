@@ -1,0 +1,28 @@
+Date: 20230816
+---BEGIN BGGP4 ENTRY---
+Name or handle:
+mirusu400
+Contact Info:
+mirusu400 @ naver.com
+Website, twitter, other online presence:
+https://github.com/mirusu400
+Target File Type:
+Authotkey (ahk)
+SHA256 Hash:
+28da0ce9bbe844a39c5a17369e9d2e88d21a813f398a56d1b3f928811ce40387
+Target Environment (How do we run the file?):
+Windows w/ Autohotkey 1.1.xx.xx Install
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+https://drive.google.com/file/d/1NLi_Piw6W2_k2s81hAxS2mdoD-Svsggr/view?usp=sharing
+Link to writeup, if any:
+I copied the file through the FileCopy command.
+File contents (base64 encoded please):
+ZmlsZWNvcHksJUFfU2NyaXB0TmFtZSUsNA==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: gilda
+Review Date: 2023-10-30
+Score: 25
+Note: works, but doesn't print or display 4
+---END VERIFICATION---

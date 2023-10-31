@@ -1,0 +1,22 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Aleteoryx
+Contact Info: bggp4@aleteoryx.me
+Website, twitter, other online presence: https://aleteoryx.me
+Target File Type: .html
+SHA256 Hash: 256704a9a03349d982e7e9a99346e830abd41ce94cb0910cd6290ef8d4b59ad7
+Target Environment (How do we run the file?): open in a web browser. that's it.
+Any additional info?: this could, in theory, be about 8 bytes smaller, but the browser-native apis for getting HTML content add extra formatting, and i feel like it would be cheating to submit something that only outputs an *equivalent* file, as opposed to a properly identical one.
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: -
+File contents (base64 encoded please): PGJvZHkgaWQ9ImIiIG9ubG9hZD0iYS5ocmVmPSdkYXRhOmFwcGxpY2F0aW9uL287YmFzZTY0LCcr
+YnRvYShiLm91dGVySFRNTCk7YS5jbGljaygpO2IuaW5uZXJIVE1MPSc0JyI+PGEgaWQ9ImEiIGRv
+d25sb2FkPSI0Ij48L2E+CjwvYm9keT4=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/15/23
+SHA256: 256704a9a03349d982e7e9a99346e830abd41ce94cb0910cd6290ef8d4b59ad7
+Score: 137
+Note: works as-is, doesn't even use javascript!
+---END VERIFICATION---

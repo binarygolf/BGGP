@@ -1,0 +1,36 @@
+Date: 20230824
+---BEGIN BGGP4 ENTRY---
+Name or handle: @seeinglogic (Mark Griffin)
+Contact Info: seeinglogic@undaunted.dev 
+Website, twitter, other online presence: seeinglogic.com / @seeinglogic on Twitter, etc
+Target File Type: VSCode workspace file
+SHA256 Hash: fb9359ba831385411710209ad297c0fb27fe1a7c5bb7fa0f41f8c6a1047de231
+Target Environment (How do we run the file?): Step 1. Open with VSCode: either via click/right-click on the file, or from VSCode do "File" > "Open Workspace from File..." and select the file. Step 2. At the "Do you trust the authors of the files in this workspace?" prompt, select "Yes, I trust the authors". Step 3. Wait ~1 second for a terminal to pop and run the command that copies the file and prints the number 4.
+Any additional info?: 140 characters in length. Tested on Windows 11 and Ubuntu 22.04 with VSCode version: 1.81.1.
+Link to PoC video, screenshot, or console output, if any: https://drive.google.com/file/d/1c71LQz78UMYlyHl8gLJOxhGkF2gBH4UO
+Link to writeup, if any: Coming soon, will send an updated submission with link unless you tell me otherwise.
+File contents (base64 encoded please): eyJmb2xkZXJzIjpbeyJwYXRoIjoiLiJ9XSwidGFza3MiOnsidGFza3MiOlt7ImxhYmVsIjoieCIs
+InR5cGUiOiJzaGVsbCIsImNvbW1hbmQiOiJjcCB4KiA0IDsgZWNobyA0IiwicnVuT3B0aW9ucyI6
+eyJydW5PbiI6ImZvbGRlck9wZW4ifX1dfX0=
+---END BGGP4 ENTRY---
+
+Date: 20230901
+ ---BEGIN BGGP4 ENTRY---
+Name or handle: @seeinglogic (Mark Griffin) 
+Contact Info: seeinglogic@undaunted.dev 
+Website, twitter, other online presence: seeinglogic.com / @seeinglogic on Twitter, etc 
+Target File Type: VSCode workspace file 
+SHA256 Hash: 549982318c91252257391f5b74d87e39eb968a5dd86458b84bbc6b9739d1a3ca 
+Target Environment (How do we run the file?): Step 1. Open with VSCode: either via click/right-click on the file, or from VSCode do "File" > "Open Workspace from File..." and select the file. Step 2. At the "Do you trust the authors of the files in this workspace?" prompt, select "Yes, I trust the authors". Step 3. Wait ~1 second for a terminal to pop and run the command that copies the file and prints the number 4.
+ Any additional info?: 136 characters in length. Tested on Windows 11 and Ubuntu 22.04 with VSCode version: 1.81.1. 
+Link to PoC video, screenshot, or console output, if any: https://drive.google.com/file/d/1u5r4qzjesmP80yfqxVW7F0hsDSiS240s 
+Link to writeup, if any: https://seeinglogic.com/posts/bggp4-writeup/ 
+File contents (base64 encoded please): eyJmb2xkZXJzIjpbeyJwYXRoIjoiLiJ9XSwidGFza3MiOnsidGFza3MiOlt7ImxhYmVsIjoieCIs InR5cGUiOiJzaGVsbCIsImNvbW1hbmQiOiJjcCB4KiA0O2xzIDQiLCJydW5PcHRpb25zIjp7InJ1 bk9uIjoiZm9sZGVyT3BlbiJ9fV19fQ==
+---END BGGP4 ENTRY---  
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: 549982318c91252257391f5b74d87e39eb968a5dd86458b84bbc6b9739d1a3ca
+Score: 136
+Note: works, file must be named "x.code-workspace"
+---END VERIFICATION---

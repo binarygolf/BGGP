@@ -1,0 +1,19 @@
+Date: 20230709
+---BEGIN BGGP4 ENTRY---
+Name or handle: Ricardo C.
+Contact Info:
+Website, twitter, other online presence: https://twitter.com/astreuzz or astreuzz on Discord
+Target File Type: Ruby (.rb)
+SHA256 Hash: 92aaa32378031aa485e291f2158d2198bbbec012859f02a8dba21cc5e4dca075
+Target Environment (How do we run the file?): The script was tested in Arch Linux and Windows 10 using Ruby version 3.0.5p211, not more than that.
+Any additional info?: Nope
+Link to PoC video, screenshot, or console output, if any: https://imgur.com/a/MRX5Qik
+Link to writeup, if any:
+File contents (base64 encoded please): SU8ud3JpdGUoKHAgPzQpLElPLnJlYWQoJDApKQ==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 28
+Note: Works as-is
+---END VERIFICATION---

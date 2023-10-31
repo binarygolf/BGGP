@@ -1,0 +1,33 @@
+Date: 20230627
+---BEGIN BGGP4 ENTRY---
+Name or handle: FlierMate
+
+Contact Info: bookhanming@outlook.com
+
+Website, twitter, other online presence: https://twitter.com/fliermate
+
+Target File Type: ELF64 (Linux)
+
+SHA256 Hash:
+30a37367e57fe1dddb6d577ecb64a6175e06c460c9303cbd704fd79eec1a6fe1
+
+Target Environment (How do we run the file?):
+Runs under Linux 64-bit or WSL
+You can name the program as any filename (e.g. "bggp")
+Just run the program as usual by typing "./bggp", for example
+(No special instruction on how to run the program)
+
+Any additional info?:
+It is a 290-byte ELF64 with one program header.
+It prints "4" in terminal and quits with exit code 4.
+
+Link to PoC video, screenshot, or console output, if any:
+Link to FASM source code:
+https://gist.github.com/Flier-Mate/d7c7c3e1aa2eb017c2464ccfc0c4e297
+
+Link to writeup, if any:
+
+File contents (base64 encoded please):
+f0VMRgIBAQMAAAAAAAAAAAIAPgABAAAAeABAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAOAABAEAAAAAAAAEAAAAHAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAIgEAAAAAAAAiAQAAAAAAAAAQAAAAAAAAQVhfMfa4AgAAAA8FiQWLAAAAuFUAAABIjT2HAAAAvrwBAAAPBYkFdgAAALoBAAAASI01ZQAAAIs9YAAAADHADwWD+AB0GInCSI01TQAAAIs9TAAAALgBAAAADwXrzYs9OQAAALgDAAAADwWLPTAAAAC4AwAAAA8FugIAAABIjTUjAAAAvwEAAAC4AQAAAA8FvwQAAAC4PAAAAA8FAAAAAAAAAAAANAA0CgA=
+
+---END BGGP4 ENTRY---

@@ -1,0 +1,19 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Lexi (13x1)
+Contact Info: tori@disroot.org (email), https://keybase.io/t0ri
+Website, twitter, other online presence: https://github.com/13x1 
+Target File Type: Data URL
+SHA256 Hash: 04dd40482b96ccd11aabf925468e484706bd373b6f6af4fa0ef8fd4a530eb513
+Target Environment (How do we run the file?): Paste it into your browser URL. Tested on latest Chromium.
+Any additional info?: 82 bytes. Some browsers enforce a file ending in the file picker, but the actual name (as you can see in the screenshot) is 4.
+Link to PoC video, screenshot, or console output, if any: https://i.imgur.com/pXozc8T.png
+Link to writeup, if any: https://github.com/13x1/bggp (not written yet, but will do at some point)
+File contents (base64 encoded please): ZGF0YTp0ZXh0L2h0bWwsPGJvZHkgb25sb2FkPWEuY2xpY2soYS5ocmVmPSdkYXRhOiwnK2xvY2F0aW9uKT48YSBpZD1hIGRvd25sb2FkPTQ+NA==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 82
+Note: works as-is
+---END VERIFICATION---

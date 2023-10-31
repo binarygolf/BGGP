@@ -1,0 +1,19 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Lexi (13x1)
+Contact Info: tori@disroot.org (email), https://keybase.io/t0ri
+Website, twitter, other online presence: https://github.com/13x1 
+Target File Type: Shebang only (with subshell spawning)
+SHA256 Hash: dce727be0d94549180f2b22e75b3120d196c725a65fa9dd90d75019df21acd6f
+Target Environment (How do we run the file?): chmod +x [file] && ./[file]
+Any additional info?: 33 bytes. The whole file is *just* a shebang. Assuming that `sh`, `bash` and the GNU coreutils are present, running on Arch Linux (which has /bin/env).
+Link to PoC video, screenshot, or console output, if any: https://i.imgur.com/ordxc0C.png
+Link to writeup, if any: https://github.com/13x1/bggp (not written yet, but will do at some point)
+File contents (base64 encoded please): IyEvYmluL2VudiAtU3NoIC1jICdjcCAkMCA0O2xzIDQn
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 33
+Note: works as-is
+---END VERIFICATION---

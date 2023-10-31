@@ -1,0 +1,23 @@
+Date: 20230623
+---BEGIN BGGP4 ENTRY---
+Name or handle: CyberChords
+Contact Info: https://twitter.com/CyberChords
+Website, twitter, other online presence: https://twitter.com/CyberChords
+Target File Type: python (py)
+SHA256 Hash: e622b0f40120fd0ec8af763621592fdcc748d47f846dad04244a76585b8881bd
+Target Environment (How do we run the file?): python <filename>.py 
+Any additional info?: Tested on python 3.9.16 and python 2.7.18
+Link to PoC video, screenshot, or console output, if any: https://github.com/djsan15/bgf/blob/main/pyt/screenshot.png
+Link to writeup, if any: Will publish one at https://github.com/djsan15/bgf/blob/main/pyt/writeup.md
+File contents (base64 encoded please): 
+b3BlbignNCcsJ3cnKS53cml0ZShvcGVuKF9fZmlsZV9fKS5yZWFkKCkpO3ByaW50KDQp
+
+
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 51
+Note: works as-is
+---END VERIFICATION---
+

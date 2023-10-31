@@ -1,0 +1,21 @@
+Date: 20230703
+---BEGIN BGGP4 ENTRY---
+Name or handle: Gilda
+Contact Info: email/twitter
+Website, twitter, other online presence: @DrFurfagMD - Twitter
+Target File Type: autoit3
+SHA256 Hash: 063941fde8d7304f3e36a399ff49d6c9ea1c7b0772d876bb6bee39937e26921a
+Target Environment (How do we run the file?): https://www.autoitscript.com/site/autoit/downloads/ Windows probably any version (10 tested) Can just double click to run when au3 is installed as a file handler, or AutoIT.exe C:/Path/filename.au3
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any: https://gist.github.com/0xGilda/5434c5f483ea3537dd274b76ce4cf3e4
+Link to writeup, if any:
+File contents (base64 encoded please): 
+Q29uc29sZVdyaXRlKEZpbGVDb3B5KEBTY3JpcHRGdWxsUGF0aCwgIi5cNC5hdTMiLDEpKyIzIik=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: 063941fde8d7304f3e36a399ff49d6c9ea1c7b0772d876bb6bee39937e26921a
+Score: 56
+Note: works as-is
+---END VERIFICATION---

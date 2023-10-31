@@ -1,0 +1,20 @@
+Date: 20230625
+Name or handle: bitRAKE
+Contact Info: bitRAKE@gmail.com
+Website, twitter, other online presence: https://github.com/bitRAKE
+Target File Type: VBScript
+SHA256 Hash: 6a087eb55a32036545aea8673fbae16dfd47bbc155f8dd6100bb0ae7bab5de19
+Target Environment (How do we run the file?): <double-click> is the easiest, or
+cscript ".vbs"
+Any additional info?: name the file ".vbs" - only an extension!
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):
+Q3JlYXRlT2JqZWN0KCJTY3JpcHRpbmcuRmlsZVN5c3RlbU9iamVjdCIpLkNvcHlGaWxlICIudmJzIiwiNCIKTXNnQm94IDQ=
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/15/23
+SHA256: 6a087eb55a32036545aea8673fbae16dfd47bbc155f8dd6100bb0ae7bab5de19
+Score: 71
+Note: works as-is
+---END VERIFICATION---

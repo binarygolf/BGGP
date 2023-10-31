@@ -1,0 +1,20 @@
+Date: 20230907
+---BEGIN BGGP4 ENTRY---
+Name or handle: Aleteoryx
+Contact Info: bggp4@aleteoryx.me
+Website, twitter, other online presence: https://aleteoryx.me
+Target File Type: .php
+SHA256 Hash: 8c51198bfdde10d29172dc1f7cfe751ecad7a5d6cacb811b912ba6148894ec5d
+Target Environment (How do we run the file?): requires PHP >= 5.4, unless you want to fiddle with config opts.
+Any additional info?: -
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: -
+File contents (base64 encoded please): PD89IDQ7Y29weSgkYXJndlswXSw0KSA/Pg==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 25
+Note: The sha256 is of the base64-encoded data (echo 'PD89IDQ7Y29weSgkYXJndlswXSw0KSA/Pg=='|sha256sum), but otherwise the submission is valid and works.
+---END VERIFICATION---
+

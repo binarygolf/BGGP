@@ -1,0 +1,20 @@
+Date: 20230628
+---BEGIN BGGP4 ENTRY---
+Name or handle: Jonathan Bar Or ("JBO")
+Contact Info: jonathanbaror@gmail.com
+Website, twitter, other online presence: @yo-yo-yo-jbo
+Target File Type: shell script
+SHA256 Hash: ad6c2b2967f2d63aa51b95ff58d91488627f23d3eab622e590fb6680ec32f9f7
+Target Environment (How do we run the file?): Linux over bash. File should live alone in its own directory.
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any: 
+File contents (base64 encoded please): IyEKY3AgKiA0CmVjaG8gNA==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 16
+Note: works as-is
+---END VERIFICATION---
+

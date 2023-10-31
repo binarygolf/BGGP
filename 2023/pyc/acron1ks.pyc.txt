@@ -1,0 +1,15 @@
+Date: 20230707
+Name or handle: acron1ks
+Contact Info: raclesdv@gmail.com
+Website, twitter, other online presence: https://twitter.com/collector0x18
+Target File Type: pyc
+SHA256 Hash: 8f740f15a14698aa521831515f6b55acd915e0c5d0012d98b485d5fc3373beec
+Target Environment (How do we run the file?): python2 task.pyc
+Any additional info?: I think the size of my file is too large for this task :)
+File contents (base64 encoded please): A/MNCtvEpmRjAAAAAAAAAAAEAAAAQAAAAHMuAAAAZAAAR0hlAABkAQBkAgCDAgBqAQBlAABlAgBkAwCDAgBqAwCDAACDAQABZAQAUygFAAAAaQQAAAB0AQAAADR0AQAAAHd0AQAAAHJOKAQAAAB0BAAAAG9wZW50BQAAAHdyaXRldAgAAABfX2ZpbGVfX3QEAAAAcmVhZCgAAAAAKAAAAAAoAAAAAHMJAAAALi90YXNrLnB5dAgAAAA8bW9kdWxlPgEAAABzAgAAAAUA
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 204
+Note: works as-is
+---END VERIFICATION--- 

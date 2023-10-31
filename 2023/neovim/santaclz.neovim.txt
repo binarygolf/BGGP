@@ -1,0 +1,38 @@
+Date: 20230624
+---BEGIN BGGP4 ENTRY---
+Name or handle: santaclz
+
+Contact Info: rabit0110115@gmail.com
+
+Website, twitter, other online presence: https://twitter.com/santaclzz
+ 
+Target File Type: neovim script
+
+SHA256 Hash: 18b645e3b8a8933a9326693d71cda731e70f1313de7b089bb18da55a38a3209e
+
+Target Environment (How do we run the file?):
+$ nvim -s bggp.vim
+(tested on NVIM v0.10.0-dev)
+
+Any additional info?:
+Before running the script, ensure that there is no file named '4', otherwise the script will fail.
+
+Link to PoC video, screenshot, or console output, if any:
+[nya@neko binarygolf ]$ nvim -s bggp.vim
+[nya@neko binarygolf ]$ echo $?
+4
+[nya@neko binarygolf ]$ sha256sum 4 bggp.vim
+18b645e3b8a8933a9326693d71cda731e70f1313de7b089bb18da55a38a3209e  4
+18b645e3b8a8933a9326693d71cda731e70f1313de7b089bb18da55a38a3209e  bggp.vim
+
+Writeup:
+This script will open itself in neovim with :e, then it will save the buffer to file 4 and exit with status 4.
+ 
+File contents (base64 encoded please): OmUgYmdncC52aW18dzR8Y3E0Cg==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 19
+Note: works as-is
+---END VERIFICATION---

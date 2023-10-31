@@ -1,0 +1,20 @@
+Date: 20230623
+---BEGIN BGGP4 ENTRY---
+Name or handle: mattpass
+Contact Info: @mattpass (Twitter)
+Website, twitter, other online presence: mattpass.com
+Target File Type: Shell
+SHA256 Hash: 0645c3dd225ef0acd1de9ee2a5456c037834dbb6849e77b3e5b5889c07a19a83
+Target Environment (How do we run the file?): Bash
+Any additional info?: Put content into file named 3. The number "4" is output at end of output
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: -
+File contents (base64 encoded please): Y3AgMyA0fGNhdCA0
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: 0645c3dd225ef0acd1de9ee2a5456c037834dbb6849e77b3e5b5889c07a19a83
+Score: 12
+Note: works as-is
+---END VERIFICATION---

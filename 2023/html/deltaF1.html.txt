@@ -1,0 +1,23 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: DeltaF1
+Contact Info:
+Website, twitter, other online presence: github.com/DeltaF1
+Target File Type: HTML
+SHA256 Hash: b8d4b1c14935933bd1877e3adfcb644303e721febfc30f66b7ad76a28216417b
+Target Environment (How do we run the file?): Open in Firefox
+Any additional info?: Opening in Chrome produces an output file with incorrect filename (4.txt). This can be corrected with a size penalty but Chrome gets upset about file:// domains anyway so screw that.
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):
+PGJvZHkgb25sb2FkPSJmZXRjaCgnJykudGhlbihyPT5yLmJsb2IoKSkudGhlbihiPT57ZG9jdW1l
+bnQuYm9keS5pbm5lckhUTUw9YDxhIGhyZWY9JHtVUkwuY3JlYXRlT2JqZWN0VVJMKGIuc2xpY2Uo
+KSl9IGlkPWEgZG93bmxvYWQ9ND40YDthLmNsaWNrKCl9KSI+Cg==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 151
+Note: works as-is
+---END VERIFICATION---
+

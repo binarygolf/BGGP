@@ -1,0 +1,20 @@
+Date: 20230706
+---BEGIN BGGP4 ENTRY---
+Name or handle: Maki
+Contact Info: email: maki@uefi.re; discord: poprdi; twitter: delcon_maki
+Website, twitter, other online presence: https://twitter.com/delcon_maki 
+Target File Type: GIF&PHP
+SHA256 Hash: c05479b8a4f341d6e4693e1cf61a6ef7622ff2c828f46b2270f85b8e871477f5
+Target Environment (How do we run the file?): `php bggp.gif `
+Any additional info?: That is one gif and one php.
+Link to PoC video, screenshot, or console output, if any: https://asciinema.org/a/OBDb6ZQZxdREIvz9eDVnAaVx2
+Link to writeup, if any: 
+File contents (base64 encoded please): R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOwo8P3BocCBjb3B5KCJi
+Z2dwLmdpZiIsIjQiKTtleGl0KDQpOz8+Cg==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 82
+Note: works as-is
+---END VERIFICATION---

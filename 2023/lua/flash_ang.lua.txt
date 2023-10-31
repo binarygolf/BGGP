@@ -1,0 +1,36 @@
+Date: 20230731
+---BEGIN BGGP4 ENTRY---
+Name or handle: Flash ANG
+
+Contact Info: flash_ang@hotmail.com
+
+Website, twitter, other online presence: N/A
+twitter https://twitter.com/flash_ang
+
+Target File Type: lua
+
+SHA256 Hash:
+f58f3043d725da8dfd5fa1c013ecc7ad8268e492429aecdde9eee0157162b499
+
+Target Environment (How do we run the file?):
+use lua interpreter
+
+Any additional info?:
+change from 'print(4)' to 'ls 4'
+
+Link to PoC video, screenshot, or console output, if any:
+attach lua file and screenshot.
+
+Link to writeup, if any: N/A
+
+File contents (base64 encoded please):
+b3MuZXhlY3V0ZSgnY3AgJy4uYXJnWzBdLi4nIDQmbHMgNCcp
+
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 36
+Note: works as-is
+---END VERIFICATION---
+

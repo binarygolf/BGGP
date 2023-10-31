@@ -1,0 +1,26 @@
+Date: 20230831
+---BEGIN BGGP4 ENTRY---
+Name or handle: Mae Miller
+Contact Info: @0x4d6165@tech.lgbt on fediverse
+Website, twitter, other online presence: https://wanderingwires.gay
+Target File Type: forth
+SHA256 Hash: 5f75b01f96da0469f57a0723b6b16e8c1531c807dd9a4a8b5d4f45725c1b4705
+Target Environment (How do we run the file?): any forth (e.g. gforth)
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):
+cyIgZ29sZi40dGgiICByL28gb3Blbi1maWxlIHRocm93IFZhbHVlIGZkLWluCnMiIDQiIHcvbyBj
+cmVhdGUtZmlsZSB0aHJvdyBWYWx1ZSBmZC1vdXQKCjEwMjQgQ09OU1RBTlQgbWF4LWxpbmUKQ1JF
+QVRFIGxpbmUtYnVmZmVyIG1heC1saW5lIDMgKyBBTExPVAoKOiBjb3B5LWZpbGUgKCAtLSApCiAg
+YmVnaW4KICAgICAgbGluZS1idWZmZXIgbWF4LWxpbmUgZmQtaW4gcmVhZC1saW5lIHRocm93CiAg
+d2hpbGUKICAgICAgbGluZS1idWZmZXIgc3dhcCBmZC1vdXQgd3JpdGUtbGluZSB0aHJvdwogIHJl
+cGVhdCA7CmNvcHktZmlsZQpmZC1pbiBjbG9zZS1maWxlIHRocm93CmZkLW91dCBjbG9zZS1maWxl
+IHRocm93Cg==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 349
+Note: works as-is, run like `gforth golf.4th`
+---END VERIFICATION---

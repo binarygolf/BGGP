@@ -1,0 +1,20 @@
+Date: 20230727
+---BEGIN BGGP4 ENTRY---
+Name or handle: dtmsecurity
+Contact Info: dtm@dtm.uk
+Website, twitter, other online presence: https://dtm.uk/
+Target File Type: Makefile
+SHA256 Hash: 08368daf26adca5af2708dbaf1ca69ff535a43fe92c1dbfb1aedbfa971a1b433
+Target Environment (How do we run the file?): Tested on OS X
+Any additional info?: Save as Makefile and 'make'.
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):  NDogTWFrZWZpbGUKCUBjcCAkPCA0O2xzIDQ=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 26
+Note: works as-is
+---END VERIFICATION---
+

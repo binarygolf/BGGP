@@ -1,0 +1,29 @@
+Date: 2023-08-31
+Original Post: https://haunted.computer/@barubary@infosec.exchange/110986713906520525
+@binarygolf #bggp4 I made one that's unreasonably long (209 bytes), but it is a three language polyglot (#sh, #perl, #haskell):
+
+[ q ] #_=q{-]];system<<""
+cp $0 4;echo 4
+
+#-};(s,t)=("[ q ] #_=q{-]];system<<\"\"\ncp $0 4;echo 4\n\n#-};(s,t)=",";main=writeFile\"4\"(s++show(s,t)++t)>>print 4\n");main=writeFile"4"(s++show(s,t)++t)>>print 4
+Validation:
+
+$ rm 4; sh bggp && sha1sum *
+4
+e54d85c64fcc224fb20b9b7e2f787d0f8c8f51d7  4
+e54d85c64fcc224fb20b9b7e2f787d0f8c8f51d7  bggp
+$ rm 4; perl bggp && sha1sum *
+4
+e54d85c64fcc224fb20b9b7e2f787d0f8c8f51d7  4
+e54d85c64fcc224fb20b9b7e2f787d0f8c8f51d7  bggp
+$ rm 4; runhaskell bggp && sha1sum *
+4
+e54d85c64fcc224fb20b9b7e2f787d0f8c8f51d7  4
+e54d85c64fcc224fb20b9b7e2f787d0f8c8f51d7  bggp
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-18
+SHA256: 30f78727109e9ab20ea1f5de20483e67f0415834fffeb6c72a6a970749423b03
+Score: 209
+Note: Not submitted in the proper format, but I was able to verify the entry matches the SHA1 in the example runs (e54d85c64fcc224fb20b9b7e2f787d0f8c8f51d7). Works in all 3 languages.
+---END VERIFICATION---

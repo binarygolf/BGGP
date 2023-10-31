@@ -1,0 +1,41 @@
+Date: 20230831
+---BEGIN BGGP4 ENTRY---
+Name or handle: Tobias "endofunky" Svensson
+Contact Info: root@fuzzed.org
+Website, twitter, other online presence: @endofunky / @aa55@mastodon.social
+Target File Type: ELF64
+SHA256 Hash: 1f56c2e9f9dfa28aa458d8e6a14507544f0d71bce3956e7a6cdb21f3f2482a5b
+Target Environment (How do we run the file?):
+
+% uname -m -s -r
+Linux 6.4.10 x86_64
+
+% file ./elf64
+./elf64: ELF, unknown class 176
+
+test % ./elf64
+
+test % echo $?
+4
+
+test % sha256sum ./elf64 ./4
+1f56c2e9f9dfa28aa458d8e6a14507544f0d71bce3956e7a6cdb21f3f2482a5b ./elf64
+1f56c2e9f9dfa28aa458d8e6a14507544f0d71bce3956e7a6cdb21f3f2482a5b ./4
+
+Any additional info?: 112 bytes - violates a lot of the spec but works on my kernel (see above).
+
+Link to PoC video, screenshot, or console output, if any: https://fuzzed.org/misc/bggp4/elf64.png
+Link to writeup, if any: None, I think the ELF64 thing has been beaten to death by now. But source is on GitHub: https://github.com/endofunky/bggp4-elf64/blob/master/elf64.asm
+File contents (base64 encoded please):
+
+% cat ./elf64 | base64
+f0VMRrAIZrs0EP7FzYDrGAIAPgABAAAABBAAAAAAAAA4AAAAAAAAAJOD4AS1ELJwzYDrNDQAOAAB
+AAAABQAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAHAAAAAAAAAAcAAAAAAAAABmuAEAswTNgA==
+
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 112
+Note: Works on kernel 6.4, might need CONFIG_IA32_EMULATION
+---END VERIFICATION---

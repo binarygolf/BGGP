@@ -1,0 +1,19 @@
+Date: 20230708
+---BEGIN BGGP4 ENTRY---
+Name or handle: R3tr074
+Contact Info: discord: r3tr074 | twitter: @r3tr074 | email: r@retr0.zip
+Website, twitter, other online presence: https://retr0.zip/about.html
+Target File Type: C script
+SHA256 Hash: 32ceb5604a3abbe08425c49a23447318893112cd4dd0b210190f9b0f914a79b4
+Target Environment (How do we run the file?): On any Linux with TCC (tiny c compiler), I'm test and develop in Ubuntu docker (`docker run --privileged -v $(pwd):/work -it ubuntu sh -c 'apt update && apt install -y tcc ; cd /work && ./bggp.c ; echo $? ; sha256sum *'`)
+Any additional info?: I used the tcc -run feature from TCC for creating a smallest C script.
+Link to PoC video, screenshot, or console output, if any: https://asciinema.org/a/YR9RvYDzQ3fJWTVKix4IdRpUT
+Link to writeup, if any:
+File contents (base64 encoded please): IyEvYmluL3RjYyAtcnVuCmludCBtYWluKGludCBjLGNoYXIqKmEpe2NoYXIgYnVmWzEyNV07b3BlbihhWzBdLDApO29wZW4oIjQiLDY1LDYpO3JlYWQoMyxidWYsMTI1KTt3cml0ZSg0LGJ1ZiwxMjUpO3JldHVybiA0O30=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-25
+Score: 125
+Note: works as-is
+---END VERIFICATION---

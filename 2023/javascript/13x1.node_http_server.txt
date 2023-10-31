@@ -1,0 +1,19 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Lexi (13x1)
+Contact Info: tori@disroot.org (email), https://keybase.io/t0ri
+Website, twitter, other online presence: https://github.com/13x1 
+Target File Type: Node.js web server
+SHA256 Hash: eee7a4625817bae89cded966a6db513e027635b7c704f19142d6b8c81dd93e4c
+Target Environment (How do we run the file?): Run `node [file]` and go to localhost:4 in a web browser, and it downloads a file called 4. Tested on Chromium.
+Any additional info?: 135 bytes. Displays 4 (or $4 to be precise) in the error message. You might need root to run this on port 4, but had to use a short port for those sweet sweet saved bytes.
+Link to PoC video, screenshot, or console output, if any: https://i.imgur.com/L07cTRk.png
+Link to writeup, if any: https://github.com/13x1/bggp (not written yet, but will do at some point)
+File contents (base64 encoded please): Y2xhc3MgY3tzdGF0aWN7cmVxdWlyZSgnaHR0cCcpLmNyZWF0ZVNlcnZlcigocSxzKT0+cy5zZXRIZWFkZXIoJ0NvbnRlbnQtRGlzcG9zaXRpb24nLCdhdHRhY2htZW50O2ZpbGVuYW1lPTQnKS5lbmQoJycrYykrJDQpLmxpc3Rlbig0KX19
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 135
+Note: works as-is
+---END VERIFICATION---

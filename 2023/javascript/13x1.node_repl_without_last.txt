@@ -1,0 +1,19 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Lexi (13x1)
+Contact Info: tori@disroot.org (email), https://keybase.io/t0ri
+Website, twitter, other online presence: https://github.com/13x1 
+Target File Type: Node.js REPL without _ (underscore) variable
+SHA256 Hash: afdaaf6bf08a595782cd1b696217f7af1f65924cc8b24eaa454ba535a6c744b7
+Target Environment (How do we run the file?): Either paste it directly into a Node.js REPL, or run `node -i < source.js` (-i: interactive/REPL mode)
+Any additional info?: 43 bytes. Similar to the other submission, but this does NOT abuse the _ (last expression) function of the Node.js REPL. See https://nodejs.org/api/repl.html#assignment-of-the-_-underscore-variable for more.
+Link to PoC video, screenshot, or console output, if any: https://i.imgur.com/F0I7bjg.png
+Link to writeup, if any: https://github.com/13x1/bggp (not written yet, but will do at some point)
+File contents (base64 encoded please): Y2xhc3MgY3tzdGF0aWN7ZnMud3JpdGVGaWxlU3luYygnNCcsYys0KX19NA==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 43
+Note: works as-is
+---END VERIFICATION---

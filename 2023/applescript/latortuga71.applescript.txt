@@ -1,0 +1,23 @@
+Date: 20230624
+---BEGIN BGGP4 ENTRY---
+Name or handle: latortuga71
+Contact Info: calonso@attact.io
+Website, twitter, other online presence: @latortuga71 twitter
+Target File Type: compiled applescript file
+SHA256 Hash: 16d503a5d54a9a841c709045cb9ec09f37c9d6d00f8e08f80e3093b31df1cf84
+Target Environment (How do we run the file?): (you need a mac i guess ) osascript tiny.bin
+Any additional info?: it doesnt call bash etc. applescript only solution
+Link to PoC video, screenshot, or console output, if any: https://github.com/latortuga71/tiny_manzana
+
+Link to writeup, if any:
+File contents (base64 encoded please):
+
+RmFzZFVBUyAxLjEwMS4xMA4AAAAED/////4AAQACAf//AAAB//4AAA4AAQAADxAAAgAD//0AAwAEAf/9AAAQAAMAAf/8Cv/8ABguYWV2dG9hcHBudWxsAACAAAAAkAAqKioqDgAEAAcQ//v/+v/5//gABQAG//cK//sAGC5hZXZ0b2FwcG51bGwAAIAAAACQACoqKioB//oAAAH/+QAAAv/4AAAQAAUAABAABgAH//YAB//1//T/8//y//EK//YABApjYXBwDgAHAAGxAAgRAAgADABGAGkAbgBkAGUAcgP/9QAECv/0AAQKZmlsZQr/8wAYLmVhcnNmZmRyYWxpcwAAAAAAACAAYWZkcgr/8gAYLmNvcmVjbG9uKioqKgAAAAAAAJAAKioqKgr/8QAECnBuYW0R//cAGSng4S8SABLiKuMpagwABC9qDAAF5ixGVQ9hc2NyAAEADPre3q0=
+
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-25
+Score: 350
+Note: works as-is
+---END VERIFICATION---

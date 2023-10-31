@@ -1,0 +1,23 @@
+Date: 20230724
+---BEGIN BGGP4 ENTRY---
+Name or handle: 01
+Contact Info: You know where to find me.
+Website, twitter, other online presence: N/A
+Target File Type: Zip of COM file and source
+SHA256 Hash: fb2ab1dee5cdc08b3e3c71efe8aca387ea9c860d2a4a1f6bb6e47f72aec2ac8e
+Target Environment (How do we run the file?): Will run on *most* commercial DOS (PC-DOS, MS-DOS, DR-DOS). Tested in Dosbox and MS-DOS 6
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):
+
+UEsDBBQAAAAAAFuG9lYwzJTOFQAAABUAAAAIAAAAR09MRi5DT000AIvWkbQ8zSGTtECxFc0huARMzSFQSwMEFAAAAAgAkGX4VlXEeZcEAQAA9QEAAAgAAABnb2xmLmFzbW1Ry2qEMBTdB/IPh9lWi05d2ZWN8QFqwKStu2Jp2grWGcRCP78x6gzIZJFccl73JsCyVK4KjlQUCROl6/mUvCneKINInpa8UpSsTERSPpccTIaW4sRbwbdCrsVVI+rUnr7nZZRQIlVUq3DBG1EjKhwYyHIekXS9HtofjUNwWDileEHcOJA5Vk51GtzzaZza915f4Nn+fnVlWYrI3LHmlmIOZRa9BkSZgwe2NSHOerCd4LsdPnq98PJK4ehnu4ynnUtwGeV17CaNz73NTGRmZpEkkiskeQXXdo87HG8kWWMTFDAvyKwx/+smjHr6HYdu+EJAiTEJd9LlD3kVS0rMDvvslPwDUEsBAhQAFAAAAAAAW4b2VjDMlM4VAAAAFQAAAAgAAAAAAAAAAAAgAAAAAAAAAEdPTEYuQ09NUEsBAhQAFAAAAAgAkGX4VlXEeZcEAQAA9QEAAAgAAAAAAAAAAQAgAAAAOwAAAGdvbGYuYXNtUEsFBgAAAAACAAIAbAAAAGUBAAAAAA==
+
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: 6e7dc9f23e90ebe226c22bd2c853ddcd08cc222bcc9517583f94c93a9766b36f
+Score: 21
+Note: SHA256 of COM file
+---END VERIFICATION---

@@ -1,0 +1,20 @@
+Date: 20230801
+---BEGIN BGGP4 ENTRY---
+Name or handle: hed0x
+Contact Info: hed0x@linuxmail.org
+Website, twitter, other online presence: http://hed0x.github.io
+Target File Type: COM
+SHA256 Hash: 99622d24b81ec6ec663669a00679e8fd02cba2400d2ce1893420122622ec336d
+Target Environment (How do we run the file?): DOSBox
+Any additional info?: No.
+Link to PoC video, screenshot, or console output, if any: N/A.
+Link to writeup, if any: http://hed0x.github.io/txt/bggp4/binary-golf-2023.txt
+File contents (base64 encoded please): jMiO2I7AvgABv8AHuQAE/POktA6wNM0QujABtDzNIYnDuTYAugABtEDNIbQ+zSHDNC5DT00A
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: 99622d24b81ec6ec663669a00679e8fd02cba2400d2ce1893420122622ec336d
+Score: 54
+Note: works as-is
+---END VERIFICATION---

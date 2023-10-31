@@ -1,0 +1,22 @@
+Date: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Aleteoryx
+Contact Info: bggp4@aleteoryx.me
+Website, twitter, other online presence: https://aleteoryx.me
+Target File Type: .html
+SHA256 Hash: 99530c7313296c4a71caa46885420af58f39dba5b99884dde1bced81bc055de1
+Target Environment (How do we run the file?): open in a web browser. "output" is the file saved by clicking the 4.
+Any additional info?: uses some finnicky syntax, only tested in chromium.
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: -
+File contents (base64 encoded please): PCFkb2N0eXBlIGh0bWw+PGJvZHkgb25sb2FkPSJhLmhyZWY9J2RhdGE6YXBwbGljYXRpb24vb2N0
+ZXQtc3RyZWFtO2Jhc2U2NCwnK2J0b2EoJyZsdDshZG9jdHlwZSBodG1sJmd0OycrZG9jdW1lbnQu
+Ym9keS5vdXRlckhUTUwpIj48YSBpZD1hIGRvd25sb2FkPTQ+NDwvYT48L2JvZHk+
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/15/23
+SHA256: 99530c7313296c4a71caa46885420af58f39dba5b99884dde1bced81bc055de1
+Score: 162
+Note: works as-is
+---END VERIFICATION---

@@ -1,0 +1,20 @@
+Date: 20230723
+---BEGIN BGGP4 ENTRY---
+Name or handle: tecknicaltom
+Contact Info: tecknicaltom@neg9.org
+Website, twitter, other online presence: InfoconDB.org twitter:tecknicaltom mastodon:@tecknicaltom@neg9.org
+Target File Type: x86-64 Linux ELF
+SHA256 Hash: b8861333fad5726d0ef35e0852e3d408bf94c1c29b9333c0ef7fc3c7b327f2ae
+Target Environment (How do we run the file?): should run on any 64bit Linux
+Any additional info?: This is the next iteration of my previous submission (139 bytes)
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): f0VMRgIBNAAvYmluL2NwAAIAPgD/wOsiFBAAAAAAAABAAAAAAAAAAEiNNCT/yma/CBCwO+s6OAABAP/H/8LrGAEAAAAFAAAAAAAAAAAAAAAAEAAAAAAAAGa+BhAPBevIgQAAAAAAAACBAAAAAAAAAIk8JGbHRCQQBhBIiVQkGA8F
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-18
+SHA256: b8861333fad5726d0ef35e0852e3d408bf94c1c29b9333c0ef7fc3c7b327f2ae
+Score: 129
+Notes: Segfault on Fedora+kernel 6.1, but eventually got it to work on Ubuntu 20.04, kernel 5.15.0
+---END VERIFICATION--- 

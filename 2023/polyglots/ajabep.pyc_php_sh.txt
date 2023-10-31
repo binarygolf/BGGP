@@ -1,0 +1,25 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Ajabep ( @ajabep@infosec.exchange )
+Contact Info: ajabep@tutanota.com or this email
+Website, twitter, other online presence: https://gitlab.com/ajabep /
+https://ajabep.lesbienn.es / @ajabep@infosec.exchange
+Target File Type: polyglot [ PYC + PHP + Shell (DASH) ]
+SHA256 Hash: f80410ba7bc339e67b2bb5360847dbd1af78426224543dac8dad73b33d8db097
+Target Environment (How do we run the file?): To run the file, please,
+use Python 3.6 (docker image "python:3.6" is perfect). You may also
+run it with PHP (tested on PHP 7.4.33, thus, should work, at least for
+PHP >=7; Theoretically, should works from PHP4, but didn't test it
+yet.). Or even the most basic shell in any Linux
+("0.5.11+git20200708+dd9ef66-5" on a debian oldstable, idk the real
+version number 🤷‍♀️).
+Any additional info?: The writeup will take a bit of time to be
+written (I have to refill my mental energy and health before). I'll
+publish it on the URI bellow ASAP.
+Link to PoC video, screenshot, or console output, if any: Not yet.
+Link to writeup, if any:
+https://ajabep.lesbienn.es/blog/BGGP4-writeup-polyglot (I'll fill this
+page ASAP)
+File contents (base64 encoded please):
+Mw0NCiM8P3BocCAjYwAAAAAAAAAAAAAAAA0vKgBAAAAAcxIAAABkAAQAbABqAWQBZQJkAmQEgwQpBWkAAAAAegcvYmluL3NoegItY3oZDWNvcHkoX19maWxlX18sIDQpO2Bsc2A/PnoUCmVjaG8gYGNwIC12ICQwIDRgOyMpA1oCb3NaBWV4ZWNsWghfX2ZpbGVfXykAKQApAHoAegABAAAAcwAAAAA=
+---END BGGP4 ENTRY---

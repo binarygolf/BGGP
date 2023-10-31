@@ -1,0 +1,29 @@
+Date: 20230901
+---BEGIN BGGP4 ENTRY---
+Name or handle: koorogi
+Contact Info: koorogi@koorogi.info
+Mastodon: https://hachyderm.io/@koorogi
+Target File Type: COM
+SHA256 Hash: cb36e96f533cc389b4660909334ec8a90f0e163c78a81becbabc12c0e9185d1c
+Target Environment (How do we run the file?):
+MS-DOS, but known to work in dosbox.
+Name the file to end with '.com' and run from DOS prompt.
+No arguments or special setup is necessary.
+
+Any additional info?:
+Terminates with exit code of 4. Confirming this is a pain in DOS.
+Run these commands at the DOS prompt immediately after the program to
+verify that the exit code is at least 4, but is not at least 5:
+
+if errorlevel 5 echo exit code was at least 5
+if errorlevel 4 echo exit code was at least 4
+
+File contents (base64 encoded please): NACJ8q08AEAETK1Zrc0hk7EU6/g=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: cb36e96f533cc389b4660909334ec8a90f0e163c78a81becbabc12c0e9185d1c
+Score: 20
+Note: works as-is
+---END VERIFICATION---

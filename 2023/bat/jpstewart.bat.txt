@@ -1,0 +1,13 @@
+Date: 20230623
+---BEGIN BGGP4 ENTRY---
+Name or handle: J.P. Stewart
+Contact Info: jp@jpstewart.org
+Website, twitter, other online presence: https://mastodon.social/@jpsays
+Target File Type: bat
+SHA256 Hash: 0931734B50F5E7379202B98F6B421ED297DF2CEA806248F8EDF16D99235EB2CF
+Target Environment (How do we run the file?): Windows Console (verified on build 22621.1848)
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: https://jpsfiles.s3.amazonaws.com/poc.jpg
+Link to writeup, if any: 
+File contents (base64 encoded please): QHR5cGUgJX5mMD40JmVjaG8gNA==
+---END BGGP4 ENTRY---

@@ -1,0 +1,20 @@
+Date: 20230711
+---BEGIN BGGP4 ENTRY---
+Name or handle:  remy
+Contact Info: whisper "webassembly" to yourself 3 times in the mirror and I will appear
+Website, twitter, other online presence: https://remyhax.xyz/ / https://twitter.com/_mattata / https://infosec.exchange/@_mattata
+Target File Type: HTML
+SHA256 Hash: fcb22540b841665742bedbb8dfdd7349557eefee57505bf08ccb1c8f32362a79
+Target Environment (How do we run the file?): Chromium 114.0.5735.133 (or any modern desktop web browser) 
+Any additional info?: Copy of itself will appear in designated browser's Downloads folder
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): PGJvZHkvPjxzY3JpcHQ+ZD1kb2N1bWVudDtlPWQuY3JlYXRlRWxlbWVudCgnYScpO3M9J3NldEF0dHJpYnV0ZSc7aT0naW5uZXJIVE1MJztlW3NdKCdocmVmJywnZGF0YTphcHBsaWNhdGlvbi9vOywnKyc8Ym9keS8+JytkLmJvZHlbaV0pO2QuYm9keVtpXT00O2Vbc10oJ2Rvd25sb2FkJyw0KTtlLmNsaWNrKCk8L3NjcmlwdD4=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/15/23
+SHA256: fcb22540b841665742bedbb8dfdd7349557eefee57505bf08ccb1c8f32362a79
+Score: 185
+Note: works as-is
+---END VERIFICATION---

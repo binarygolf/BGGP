@@ -1,0 +1,31 @@
+Date: 20230903
+---BEGIN BGGP4 ENTRY---
+Name or handle: mauke
+Contact Info: lukasmai.403@gmail.com
+Website, twitter, other online presence: https://github.com/mauke
+Target File Type: sh
+SHA256 Hash: ce66470e18f3579ac7665d2a660da03089cd89698b57c5e900e8ba608bb394ee
+Target Environment (How do we run the file?):
+Any unix-ish environment; run with 'sh' (or 'bash').
+
+... however, the file must be named 'eval printf>4 \$0;ls 4' (the single
+quotes are not part of the name, but shell syntax). So:
+
+$ sh 'eval printf>4 \$0;ls 4'
+4
+$
+
+Any additional info?:
+Yeah, I'm cheating. What of it?
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: -
+File contents (base64 encoded please):
+JDA=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: ce66470e18f3579ac7665d2a660da03089cd89698b57c5e900e8ba608bb394ee
+Score: 2
+Note: works as-is, CHEATER!
+---END VERIFICATION---

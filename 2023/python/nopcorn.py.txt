@@ -1,0 +1,19 @@
+---BEGIN BGGP4 ENTRY---
+Name or handle: Max C-M // nopcorn
+Contact Info: max.courchesne@gmail.com
+Website, twitter, other online presence: @const@infosec.exchange (mastodon)
+Target File Type: .py
+SHA256 Hash: 48dcc30d7320f934986dcf8d4fecbd184397897f977e82c855831fd286bf834c
+Target Environment (How do we run the file?): "python3 bggp4.py"
+Any additional info?: "4" printed in stack trace from div by zero
+Link to PoC video, screenshot, or console output, if any: https://infosec.exchange/@const/110993258038983818
+Link to writeup, if any: Too simple
+File contents (base64 encoded please): ZnJvbSBzaHV0aWwgaW1wb3J0Kgpjb3B5KF9fZmlsZV9fLCc0Jyk7NC8w
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Submit Date: 2023-09-01
+Review Date: 2023-09-11
+Score: 42
+Note: The division by 0 causes a 4 in the output, which technically meets the requirements of the challenge.
+---END VERIFICATION---

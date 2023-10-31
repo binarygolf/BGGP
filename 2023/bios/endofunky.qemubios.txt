@@ -1,0 +1,62 @@
+Date: 20230830
+---BEGIN BGGP4 ENTRY---
+Name or handle: Tobias "endofunky" Svensson
+
+Contact Info: root@fuzzed.org
+
+Website, twitter, other online presence:
+
+Twitter: @endofunky
+Mastodon: @aa55@mastodon.social
+
+Target File Type: QEMU BIOS ROM
+
+SHA256 Hash: cb774c63ab561678c09f5435ab973f2c4138d9b9d9a66344247a3af88677a0e3
+
+Target Environment (How do we run the file?):
+
+% qemu-img create hdd.img 69120
+Formatting 'hdd.img', fmt=raw size=69120
+
+% qemu-system-i386 -drive file=hdd.img,format=raw -bios bios.rom
+
+% sudo mount -o loop hdd.img /mnt
+
+% sha256sum /mnt/4 bios.rom
+
+cb774c63ab561678c09f5435ab973f2c4138d9b9d9a66344247a3af88677a0e3 /mnt/4
+cb774c63ab561678c09f5435ab973f2c4138d9b9d9a66344247a3af88677a0e3 bios.rom
+
+Any additional info?:
+
+Minimum size supported by QEMU for BIOS ROM images (65536 bytes).
+
+Link to PoC video, screenshot, or console output, if any: See above.
+
+Link to writeup, if any:
+
+Included in the NASM source: https://github.com/endofunky/bggp4/blob/master/bios.asm
+
+File contents (base64 encoded please):
+
+% cat ./bios.rom | gzip | base64
+
+H4sIAAAAAAAAA+3XT0gUURzA8d9vx03NdnZDJETKEYTqEm506CC0SuihQ0sZSZeELkbQgn/w0mGr
+gxFhnTp1EOwUQUIGMyNtQwZ5MTp08Cidtqwp0lT69xrXTRQ6Fnr4fpgfv/d77/He7zKHN996p72z
+M3vkUMdpiVWoaEqGZUUlJTH5Iy8Hj0dK+5ySjrau9OEop4OZ1NOzVx4nvAaZqJ1JTeiTYzOpxfmf
+Xb0X+53ou5wbcHpzQ87Aaj2U67vU3yTYNs48WDFGMhLvkcq8VI9KTSCJOUmK7na0NqN1Pbonr/Wj
+2hDo3jltlFiTEzPJrW4b/0z5hy7ZvGJFoVvREgAAAP4jS5Ninz+ZvdaVf9YobWuT9+zbBzJ3vTFT
+qjLxpBGNWRXxHZVV1TtrdiXsZJusPwJMOZlyZcqTRtbDbFjZmMs2nfOX3BLcbP7U8St4uzKVNv5n
+zZ7yl/VDc9XA93PdnuhC7npRB99Pfftxa3pk1hUdee0/t9wLEvovLC8uBbGLk8Z/Y3n1UojbxUfG
+f2V51VLYZxfHTGG/7QeWVycfb0yHD8PoluVxJ/SnrXQQtofh6sg1sjb8ou5wdOqCuiphS+Avauh/
+jWJJw/GWqKfQrYxuk2K3cfOSXipmjSujI8FkQgqtdtp4VbJw/+rLo3picDF6I1cAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAALBdvZu1N9W/AW1Tj14AAAEA
+
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-30
+Score: 65536
+Note: works as-is
+---END VERIFICATION---

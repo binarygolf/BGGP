@@ -1,0 +1,20 @@
+Date: 20230624
+Name or handle: int0x80
+Contact Info: dualcoremusic@dualcoremusic.com
+Website, twitter, other online presence: @int0x80 on Twitter, BlueSky, Mastodon
+Target File Type: Python
+SHA256 Hash: 593adf63a01069b463694041d7fa48ef862eeaed27fab84edc8ff727de6f0b87
+Target Environment (How do we run the file?): python3 int0x80.py
+Any additional info?: N/A
+Link to PoC video, screenshot, or console output, if any: N/A
+Link to writeup, if any: N/A
+File contents (base64 encoded please): 
+
+aW1wb3J0IG9zLHN5cwpvcy5zeXN0ZW0oZidjcCB7c3lzLmFyZ3ZbMF19IDQnKQpwcmludCgnNCcpCg==
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 58
+Note: works as-is
+---END VERIFICATION---
+

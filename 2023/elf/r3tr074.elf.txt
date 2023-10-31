@@ -1,0 +1,20 @@
+Date: 20230708
+---BEGIN BGGP4 ENTRY---
+Name or handle: R3tr074
+Contact Info: discord: r3tr074 | twitter: @r3tr074 | email: r@retr0.zip
+Website, twitter, other online presence: https://retr0.zip/about.html
+Target File Type: ELF
+SHA256 Hash: 7afbfc59098ed7c3790e805b5a5293247ee1db155a8d1e5c94312187bf59af4a
+Target Environment (How do we run the file?): On any Linux, I'm test and develop in Ubuntu docker (`docker run --privileged -v $(pwd):/work -it ubuntu sh -c 'cd /work && ./bggp ; echo $? ; sha256sum *'`)
+Any additional info?: I managed to reduce the size of the elf to 158 bytes
+Link to PoC video, screenshot, or console output, if any: https://asciinema.org/a/IKX3IXK5UWvQlji6B2dawIXjA
+Link to writeup, if any:
+File contents (base64 encoded please): f0VMRgIBAQCwAjH2ajzrGAIAPgABAAAACBAAAAAAAAA6AAAAAAAAAL+OEAAADwVqA+sfAEAAOAABAAEAAAAHAAAAAAAAAAAAAAAAEAAAAAAAAIPGQWoG6xmQngAAAAAAAACeAAAAAAAAABAAAAAAAAAAsAKDxw9aDwUxwIn+sp5fDwUxwLAB/8cPBVgPBS9wcm9jL3NlbGYvZXhlADQ=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-18
+SHA256: 7afbfc59098ed7c3790e805b5a5293247ee1db155a8d1e5c94312187bf59af4a 
+Score: 158
+Notes: Had significant issues getting it to run, but eventually got it to work on Ubuntu 20.04 (not docker), kernel 5.15.0
+---END VERIFICATION---

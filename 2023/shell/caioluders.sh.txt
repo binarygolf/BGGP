@@ -1,0 +1,27 @@
+Date: 20230701
+---BEGIN BGGP4 ENTRY---
+Name or handle: caioluders
+Contact Info: caioluders@gmail.com
+Website, twitter, other online presence: https://twitter.com/caioluders/ ; https://lude.rs/
+Target File Type: SH
+SHA256 Hash: beca5ad2f45ef12741d86f6a3c4795130fc062864ab9dbe7a2a40376b51d451a
+Target Environment (How do we run the file?): 
+Must be run in a folder with only the script
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+# ./bggp.sh
+4
+# sha256sum *
+beca5ad2f45ef12741d86f6a3c4795130fc062864ab9dbe7a2a40376b51d451a  4
+beca5ad2f45ef12741d86f6a3c4795130fc062864ab9dbe7a2a40376b51d451a  bggp.sh
+Link to writeup, if any: 
+File contents (base64 encoded please): 
+Y3AgKiA0O2xzIDQ=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 11
+Note: Works as-is, make sure you follow the instructions
+---END VERIFICATION---
+

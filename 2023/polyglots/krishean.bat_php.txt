@@ -1,0 +1,20 @@
+Date: 20230907
+---BEGIN BGGP4 ENTRY---
+Name or handle: Krishean
+Contact Info: krishean@gmail.com
+Website, twitter, other online presence: https://tech.lgbt/@krishean
+Target File Type: Windows Batch/PHP
+SHA256 Hash: 4c40880f0b80e2a6047c668d8da87aa864886d92154dc358af02649cea3d88c5
+Target Environment (How do we run the file?): Windows Command Prompt: call bggp.bat, PHP: php -r "ob_start();include 'bggp.bat';"
+Any additional info?: Detailed instructions are included in the writeup, brief instructions here: https://tech.lgbt/@krishean/110987834755387535
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://github.com/krishean/bggp4
+File contents (base64 encoded please): QGVjaG8gb2ZmDQp0eXBlICUwPjQmJmVjaG8uNCYmZXhpdCAvYiA0DQo8P3BocCBvYl9lbmRfY2xlYW4oKTtjb3B5KF9fRklMRV9fLCI0Iik7ZWNobyAiNFxuIjtkaWUoNCk7
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/15/23
+SHA256: 4c40880f0b80e2a6047c668d8da87aa864886d92154dc358af02649cea3d88c5
+Score: 99
+Note: works as-is
+---END VERIFICATION---

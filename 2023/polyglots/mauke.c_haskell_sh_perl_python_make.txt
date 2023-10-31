@@ -1,0 +1,72 @@
+Date: 20230903
+---BEGIN BGGP4 ENTRY---
+Name or handle: mauke
+Contact Info: lukasmai.403@gmail.com
+Website, twitter, other online presence: https://github.com/mauke
+Target File Type: (polyglot) c + haskell + sh + perl + python + make
+SHA256 Hash: 898c5bed7a00f08f7460c69bb7e50d469835a9367a4aa6f3b6e31388ccd28d0f
+Target Environment (How do we run the file?):
+I only tested it on Linux, but it should run on anything that has an
+execve() syscall and cp/ls executables, which is most any unix-ish
+system. You'll need a C compiler (cc), a Haskell compiler (I only tested
+with ghc 9), sh, perl, python3, and GNU make. Due to (Haskell) reasons,
+the file name should end with '.lhs'; I used 'bggp.lhs' for testing.
+The C and Haskell versions are compiled to a native executable, which
+then copies itself; the other versions are interpreted and copy the
+source file.
+
+[c]
+$ rm 4; cc -xc bggp.lhs && ./a.out && sha256sum a.out 4
+4
+9cd4c82a481e74a5ca6b03c934528e9ffc2fee0379169e75ada694e8a329c036 a.out
+9cd4c82a481e74a5ca6b03c934528e9ffc2fee0379169e75ada694e8a329c036 4
+(Instead of using '-xc' to force interpretation as C code, you can also
+rename the file to 'bggp.c'.)
+
+[haskell]
+$ rm 4; ghc -package process bggp.lhs && ./bggp && sha256sum bggp 4
+4
+16dc5a4a77f1f968652910d19dd1f39203ab327a0b2b733311ec1c09c7b1686e bggp
+16dc5a4a77f1f968652910d19dd1f39203ab327a0b2b733311ec1c09c7b1686e 4
+
+[sh]
+$ rm 4; sh bggp.lhs && sha256sum bggp.lhs 4
+4
+898c5bed7a00f08f7460c69bb7e50d469835a9367a4aa6f3b6e31388ccd28d0f bggp.lhs
+898c5bed7a00f08f7460c69bb7e50d469835a9367a4aa6f3b6e31388ccd28d0f 4
+
+[perl]
+$ rm 4; perl bggp.lhs && sha256sum bggp.lhs 4
+4
+898c5bed7a00f08f7460c69bb7e50d469835a9367a4aa6f3b6e31388ccd28d0f bggp.lhs
+898c5bed7a00f08f7460c69bb7e50d469835a9367a4aa6f3b6e31388ccd28d0f 4
+
+[python]
+$ rm 4; python3 bggp.lhs && sha256sum bggp.lhs 4
+4
+898c5bed7a00f08f7460c69bb7e50d469835a9367a4aa6f3b6e31388ccd28d0f bggp.lhs
+898c5bed7a00f08f7460c69bb7e50d469835a9367a4aa6f3b6e31388ccd28d0f 4
+
+[make]
+$ rm 4; make -f bggp.lhs && sha256sum bggp.lhs 4
+4
+898c5bed7a00f08f7460c69bb7e50d469835a9367a4aa6f3b6e31388ccd28d0f bggp.lhs
+898c5bed7a00f08f7460c69bb7e50d469835a9367a4aa6f3b6e31388ccd28d0f 4
+
+Any additional info?:
+Did you know that 'ls 4' is shorter than 'echo 4'? I didn't and it took
+me a while to realize.
+Yes, that is a literal Ctrl-D control character in line 3. It could be
+replaced by __END__ to get a printable version, but that's six bytes
+longer.
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: -
+File contents (base64 encoded please):
+ICNpbmNsdWRlPHN0ZGlvLmg+CiAjaW5jbHVkZTx1bmlzdGQuaD4vKlwKdGVzdCA6cS0xaWYr
+MGVsc2UnJycnOyMtO2V4ZWM8PCIiBFwKY3AgJDAgNDtleGVjIGxzIDQKNDokKE1BS0VGSUxF
+X0xJU1QpO0BjcCAkPCA0O2xzIDQKZGVmaW5lIHgKCj5pbXBvcnQgR0hDLkVudmlyb25tZW50
+O2ltcG9ydCBTeXN0ZW0uUHJvY2VzczttYWluPWRvIHA6XzwtZ2V0RnVsbEFyZ3M7Y2FsbFBy
+b2Nlc3MiY3AiW3AsIjQiXTtwcmludCA0CgoqLwppbnQgbWFpbihpbnQgYyxjaGFyKip2KXtw
+dXRzKCI0Iik7ZXhlY2xwKCJjcCIsImNwIiwqdiwiNCIsKGNoYXIqKTApO30vKgplbmRlZiAj
+JycnO2ltcG9ydCBvcztvcy5zeXN0ZW0oZiJjcCB7X19maWxlX199IDQ7bHMgNCIpIyovCg==
+---END BGGP4 ENTRY---

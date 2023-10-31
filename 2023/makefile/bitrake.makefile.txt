@@ -1,0 +1,18 @@
+Date: 20230625
+Name or handle: bitRAKE
+Contact Info: bitRAKE@gmail.com
+Website, twitter, other online presence: https://github.com/bitRAKE
+Target File Type: Makefile
+SHA256 Hash: df5377cb6c6d1a8f13720e17f39277cd37b8dc38951a009c53fba186a38ee621
+Target Environment (How do we run the file?): make
+Any additional info?: make is assumed to be on shell search path
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):
+NDoKCWNwIE1ha2VmaWxlIDQKCWVjaG8gNA==
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 25
+Note: works as-is
+---END VERIFICATION---

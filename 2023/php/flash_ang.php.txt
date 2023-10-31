@@ -1,0 +1,35 @@
+Date: 20230625
+---BEGIN BGGP4 ENTRY---
+Name or handle: Flash ANG
+
+Contact Info: flash_ang@hotmail.com
+
+Website, twitter, other online presence:
+twitter https://twitter.com/flash_ang
+
+Target File Type: php
+
+SHA256 Hash:
+401629810f4770d4336e5cb95fb0da80d4fd6a33341f93b9886e85b38129f5c3
+
+Target Environment (How do we run the file?):
+use php cgi or web server.
+note: web server must have write permission on that folder.
+
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+attach source file and screenshot
+
+Link to writeup, if any: N/A
+
+File contents (base64 encoded please):
+PD9waHAgY29weShfX2ZpbGVfXywnNCcpO2VjaG8oNCk/Pg==
+
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 34
+Note: works as-is
+---END VERIFICATION---
+

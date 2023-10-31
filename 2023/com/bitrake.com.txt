@@ -1,0 +1,20 @@
+Date: 20230630
+Name or handle: bitRAKE
+Contact Info: bitRAKE@gmail.com
+Website, twitter, other online presence: https://github.com/bitRAKE
+Target File Type: DOS COM
+SHA256 Hash: 9ed13637ce6a75b4051d052bab0173b30e6e3ab60cfb691fabc4ace6c0d66152
+Target Environment (How do we run the file?): BGGP4.COM
+Any additional info?: This program returns an error code of 4.
+(It will work in DOSBox-X or a real DOS.)
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):
+NAA8EkAETFZarK2Iwc0hk+v4
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: 9ed13637ce6a75b4051d052bab0173b30e6e3ab60cfb691fabc4ace6c0d66152
+Score: 18
+Note: SHA of COM file
+---END VERIFICATION---

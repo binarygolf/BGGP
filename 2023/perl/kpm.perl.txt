@@ -1,0 +1,20 @@
+Date: 20230825
+---BEGIN BGGP4 ENTRY---
+Name or handle: kpm
+Contact Info: kpm@linux.pl
+Website, twitter, other online presence: @kpm@bsd.network
+Target File Type: perl
+SHA256 Hash: 86baaa2e04a856b76b53bc0014ce2abf91633d6e3684ee9f971d7d038e24e66e
+Target Environment (How do we run the file?): perl -Mfeature+say 4.pl
+Any additional info?: i'm not too proud of this.
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): c2F5IDQ7YGNwICQwIDRgCg==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: 86baaa2e04a856b76b53bc0014ce2abf91633d6e3684ee9f971d7d038e24e66e
+Score: 16
+Note: works as-is
+---END VERIFICATION---

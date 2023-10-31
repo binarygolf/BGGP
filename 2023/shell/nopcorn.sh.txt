@@ -1,0 +1,20 @@
+Date: 20230901
+---BEGIN BGGP4 ENTRY---
+Name or handle: Max C-M // nopcorn
+Contact Info: max.courchesne@gmail.com
+Website, twitter, other online presence: @const@infosec.exchange (mastodon)
+Target File Type: .sh
+SHA256 Hash: e20b08dd83d157f6caf661680d995a40a1d796e8bdf64753144c48b89ae025ca
+Target Environment (How do we run the file?): "bash bggp4.sh"
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: https://infosec.exchange/@const/110993115034998996
+Link to writeup, if any: Too simple
+File contents (base64 encoded please): Y3AgLXYgJDAgNA==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: e20b08dd83d157f6caf661680d995a40a1d796e8bdf64753144c48b89ae025ca
+Score: 10
+Note: works as-is
+---END VERIFICATION---

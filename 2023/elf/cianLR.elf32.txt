@@ -1,0 +1,14 @@
+Date: 20230627
+---BEGIN BGGP4 ENTRY---
+Name or handle: CianLR
+Contact Info: cian.ruane1@gmail.com
+Website, twitter, other online presence: twitter.com/cianlr
+Target File Type: ELF 32-bit
+SHA256 Hash: 9066f4ab52161d1e07b353b4aa40b4bd1a32632a7481439e94f87cd3708e4388
+Target Environment (How do we run the file?): Linux environment, see repo
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: github.com/CianLR/bggp4/
+Link to writeup, if any: TBD
+File contents (base64 encoded please):
+f0VMRgEBAQA0CjQAsULrFAIAAwABAAAADIAECCwAAAAAAAAAam7rEDQAIAABAAAAAAAAAACABAiwBesQbgAAAG4AAAAFAAAAABAAALsKgAQIZrr9Ac2AjUv2icNasATNgLICsQizAbAEzYBIzYA=
+---END BGGP4 ENTRY---

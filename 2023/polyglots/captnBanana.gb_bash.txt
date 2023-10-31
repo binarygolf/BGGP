@@ -1,0 +1,19 @@
+Date: 20230805
+---BEGIN BGGP4 ENTRY---
+Name or handle: @CaptnBanana
+Contact Info: https://twitter.com/captnbanana
+Website, twitter, other online presence: bananamafia.dev
+Target File Type: gb/bash polyglot
+SHA256 Hash: 05181c0720793a938224b3acf523cd8b74710fb995033182680b5ba920eb2215
+Target Environment (How do we run the file?): This is a GameBoy/Bash Polyglot. You need the Gearboy GB emulator (https://github.com/drhelius/Gearboy) installed. Then just run the file like: bash cool.gb. In the end, it should run and display a 4 in the emulator while having replicated on disk.
+Any additional info?: No
+Link to PoC video, screenshot, or console output, if any: No
+Link to writeup, if any: bananamafia.dev/binarygolf23 (coming soon)
+File contents (base64 encoded please): IyEvYmluL3NoCmNwICQwIDQ7Z2VhcmJveSAkMCAjAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgICAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/wD/AP8A/wD/AP8A/wD/AIAAgACAAIAAgACAAIAAgMNQAQDO7WZmzA0ACwNzAIMADAANAAgRH4iJAA7czG7m3d3Zmbu7Z2NuDuzM3dyZn7u5Mz4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5/22PgDqJv8+BPpE//6Q2lcBPgDqQP8R4AAhAJABIAAaIhMLeLHCbQERAAAhAJgB4AAaIhMLeLHCfwE+gepA/w==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 397
+Note: works as-is
+---END VERIFICATION---

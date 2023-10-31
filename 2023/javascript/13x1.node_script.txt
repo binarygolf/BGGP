@@ -1,0 +1,19 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Lexi (13x1)
+Contact Info: tori@disroot.org (email), https://keybase.io/t0ri
+Website, twitter, other online presence: https://github.com/13x1 
+Target File Type: Node.js script file
+SHA256 Hash: fc9518426041e8683fdbdc2225e4ed34b8e96603b607dde10c26b99fb3916dc4
+Target Environment (How do we run the file?): Plain old node. Just `node [filename]`.
+Any additional info?: 44 bytes. Displays 4 (or $4 to be precise) in the error message.
+Link to PoC video, screenshot, or console output, if any: https://i.imgur.com/2gYPAqn.png
+Link to writeup, if any: https://github.com/13x1/bggp (not written yet, but will do at some point)
+File contents (base64 encoded please): cmVxdWlyZSgnZnMnKS5jb3B5RmlsZShfX2ZpbGVuYW1lLCI0IixfPT4kNCk=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 44
+Note: works as-is
+---END VERIFICATION---

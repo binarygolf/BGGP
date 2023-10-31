@@ -1,0 +1,25 @@
+Date: 20230702
+---BEGIN BGGP4 ENTRY---
+Name or handle: bob
+Contact Info: bob@bin.cx,
+Website, twitter, other online presence: @cheeseanddope on twitter and mastodon, @bob.bin.cx on bsky
+Target File Type: html and javascript
+SHA256 Hash: a8953625562b55fad264780ce48ab2bdf936f7b6783813bea6822413f45208a7
+Target Environment (How do we run the file?): web browser, internet at (live!) bin.cx/nope.html or locally via file:///
+Any additional info?: About six hours spent all told with initial iterations, then the trimming down. I'm sure there is a better way.
+Link to PoC video, screenshot, or console output, if any: 4, haha jk https://github.com/broketech/binary.golf.2023/nope.html, or raw dog at bin.cx/nope.html
+Link to writeup, if any: will be at https://github.com/broketech/binary.golf.2023/writeup.md "soon". going to take a stab at other file types.
+File contents (base64 encoded please):
+---BEGIN BASE64 ENTRY---
+PGJvZHk+NDxzY3JpcHQ+eD1kb2N1bWVudDtkPXguYm9keS5vdXRlckhUTUw7dD14LmNyZWF0ZUVs
+ZW1lbnQoImEiKTt0LmhyZWY9J2RhdGE6eG1sL3BsYWluLCcrZW5jb2RlVVJJQ29tcG9uZW50KGQr
+IlxuIik7dC5kb3dubG9hZD0nNCc7dC5jbGljaygpPC9zY3JpcHQ+PC9ib2R5Pgo=
+---END BASE64 ENTRY---
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/15/23
+SHA256: a8953625562b55fad264780ce48ab2bdf936f7b6783813bea6822413f45208a7
+Score: 161
+Note: works as-is
+---END VERIFICATION---

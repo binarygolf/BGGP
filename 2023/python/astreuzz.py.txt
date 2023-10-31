@@ -1,0 +1,19 @@
+Date: 20230709
+---BEGIN BGGP4 ENTRY---
+Name or handle: Ricardo C.
+Contact Info:
+Website, twitter, other online presence: https://twitter.com/astreuzz or astreuzz on Discord
+Target File Type: Python (.py)
+SHA256 Hash: 2e0f4c0019ae49a73137431608737b8ef16fd5e02dc3eb91f2391a74aba05027
+Target Environment (How do we run the file?): The script was tested in Arch Linux and Windows 10 using Python version 3.11.3, not more than that.
+Any additional info?: Nope
+Link to PoC video, screenshot, or console output, if any: https://pbs.twimg.com/media/F0kgJQIXsAAYGFZ?format=jpg&name=medium
+Link to writeup, if any:
+File contents (base64 encoded please): byxwLGY9b3BlbixwcmludCwnNCc7cChmKTtwKCpvKF9fZmlsZV9fLCdyJyksZmlsZT1vKGYsJ3cnKSxlbmQ9Jycp
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 66
+Note: works as-is
+---END VERIFICATION---
+

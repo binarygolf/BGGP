@@ -1,0 +1,20 @@
+Date: 20230624
+---BEGIN BGGP4 ENTRY---
+Name or handle: timpoiko
+Contact Info: https://twitter.com/timpoiko
+Website, twitter, other online presence:
+Target File Type: perl script
+SHA256 Hash: 456d6e6489ba07aa65648ce2808d5a621b4f549a8019fd9578ea7b581e8d5f3a
+Target Environment (How do we run the file?): perl foo.pl
+Any additional info?: This entry does not utilize backtics. I think that this is shortest possible pure perl implementation
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): IyEvdXJzL2Jpbi9wZXJsIC0wCm9wZW4gMCwkMDtvcGVuIEIsIj40IjtwcmludCBCIDwwPjtwcmludCA0
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 60
+Note: works as-is
+---END VERIFICATION---
+

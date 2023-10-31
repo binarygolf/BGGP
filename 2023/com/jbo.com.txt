@@ -1,0 +1,20 @@
+Date: 20230628
+---BEGIN BGGP4 ENTRY---
+Name or handle: Jonathan Bar Or ("JBO")
+Contact Info: jonathanbaror@gmail.com
+Website, twitter, other online presence: @yo-yo-yo-jbo
+Target File Type: COM
+SHA256 Hash: e8e465e6da20701d0d452584c42e9f1ce0bf297f909c5e970b9967d37f1ac4b2
+Target Environment (How do we run the file?): Can now with DOSBox well. Prints to screen and exits with only 22 bytes!
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any: https://github.com/yo-yo-yo-jbo/binary_golf_com
+File contents (base64 encoded please): uhUBkbRbzSGTsRaH1rRAzSGszSnDNA==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: e8e465e6da20701d0d452584c42e9f1ce0bf297f909c5e970b9967d37f1ac4b2
+Score: 22
+Note: works as-is in DOSBOX 0.74 (no console)
+---END VERIFICATION---

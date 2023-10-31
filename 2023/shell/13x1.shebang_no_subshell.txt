@@ -1,0 +1,19 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: Lexi (13x1)
+Contact Info: tori@disroot.org (email), https://keybase.io/t0ri
+Website, twitter, other online presence: https://github.com/13x1 
+Target File Type: Shebang only (without subshell spawning)
+SHA256 Hash: 0196ff3b228266bbfcda2a7b7e7f9667c318add94a44642f5fb516cd89d422e0
+Target Environment (How do we run the file?): chmod +x [file] && ./[file]
+Any additional info?: 45 bytes. The whole file is *just* a shebang, *without spawning any subshells*. Assuming that the GNU coreutils are present, running on Arch Linux (which has /bin/env). Also, this produces a file called x04, which is 4 in hexadecimal. I read through all man pages and even parts of the coreutils source code, and to my knowledge it's impossible to get "4" without a subshell, but hex 4 is possible, so I am submitting this.
+Link to PoC video, screenshot, or console output, if any: https://i.imgur.com/vKcn9yf.png
+Link to writeup, if any: https://github.com/13x1/bggp (not written yet, but will do at some point)
+File contents (base64 encoded please): IyEvYmluL2VudiAtU3NwbGl0IC0tdmVyYm9zZSAtLWhleC1zdWZmaXhlcz00
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 45
+Note: works as-is
+---END VERIFICATION---

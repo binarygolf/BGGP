@@ -1,0 +1,20 @@
+Date: 20230711
+---BEGIN BGGP4 ENTRY---
+Name or handle: T0k1To
+Contact Info: 
+Website, twitter, other online presence: @euT0k1To at Twitter
+Target File Type: ASCII text/NimScript
+SHA256 Hash: 29492781312f5c79d764b62218dcc805969c950e2f37d5a1b50c83f976918f98
+Target Environment (How do we run the file?): Any systems that supports nim
+Any additional info?: No
+Link to PoC video, screenshot, or console output, if any: https://twitter.com/euT0k1To/status/1678936502489829377
+Link to writeup, if any: 
+File contents (base64 encoded please): ZWNobyA0O3dyaXRlRmlsZSAiNCIscmVhZEZpbGUgY3VycmVudFNvdXJjZVBhdGgK
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/15/23
+SHA256: 29492781312f5c79d764b62218dcc805969c950e2f37d5a1b50c83f976918f98
+Score: 48
+Note: works as-is
+---END VERIFICATION---

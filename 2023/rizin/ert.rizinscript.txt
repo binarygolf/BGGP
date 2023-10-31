@@ -1,0 +1,52 @@
+DATE: 20230908
+---BEGIN BGGP4 ENTRY---
+Name or handle: ert
+Contact Info: mail@ert.plus
+Website, twitter, other online presence: https://twitter.com/ert_plus
+Target File Type: rizin script
+SHA256 Hash: 0dbf8f241bfc5bf541e322bf6897796e0412c5ad56749cb38700240d698edfa6
+Target Environment (How do we run the file?):
+rizin -i mybggp4entry.rz
+simple as
+Tested on rizin v0.6.1 and v0.7.0 (git head)
+Doesn't work if a file named 4 already exists in the current directory.
+For ease of testing,
+host $ vagrant init archlinux/archlinux
+host $ vagrant up
+host $ vagrant ssh
+guest $ sudo pacman -Syu
+guest $ sudo pacman -S rizin
+guest $ rizin -i mybggp4entry.rz
+Any additional info?:
+Wanted to do a fully generative quine, without using some features of rizin that felt like cheating (shell commands, redirection, etc). Could not get rid of annoying errors and warnings, but those go to stderr, so for cleaner output run rizin -i mybggp4entry.rz 2>/dev/null
+Had a fun time doing this! Wish I could have golf'd this one more or do another submission but that's just a testament to how awesome this challenge is - I just want more (or I guess for golf, I just want less). Thanks for organizing <3
+Link to PoC video, screenshot, or console output, if any:
+[vagrant@archlinux bggp4]$ ls
+entry.rz
+[vagrant@archlinux bggp4]$ sha256sum entry.rz
+0dbf8f241bfc5bf541e322bf6897796e0412c5ad56749cb38700240d698edfa6 entry.rz
+[vagrant@archlinux bggp4]$ base64 -w0 entry.rz && echo
+bysgNApyIDMwMAp3IDZmMmIyMDM0MGE3MjIwMzMzMDMwMGE3NzIwMGE3Nzc4NjYyMDM0MjA0MDIwMzEzNjM4MGE3NzY1NmUyMDMxMzYzODIwNDAyMDMxMzgzMTBhNzc2Njc4MjAzMTM4MzEyMDMxMzYzODBhNzIyZDIwMzEzNjM4MGE3MjJkMjAzMTM4MzUyMDQwMjAzMjM1MzIwYTcwNzIyMDMxMjA0MDIwMzMwYTcxMjEyMQp3eGYgNCBAIDE2OAp3ZW4gMTY4IEAgMTgxCndmeCAxODEgMTY4CnItIDE2OApyLSAxODUgQCAyNTIKcHIgMSBAIDMKcSEh
+[vagrant@archlinux bggp4]$ rizin -v
+rizin 0.6.1 @ linux-x86-64
+[vagrant@archlinux bggp4]$ rizin -i entry.rz
+/usr/share/rizin/magic/archive, 139: Warning: New continuation level 2 is more than one larger than current level 0
+4
+[vagrant@archlinux bggp4]$ sha256sum entry.rz 4
+0dbf8f241bfc5bf541e322bf6897796e0412c5ad56749cb38700240d698edfa6 entry.rz
+0dbf8f241bfc5bf541e322bf6897796e0412c5ad56749cb38700240d698edfa6 4
+[vagrant@archlinux bggp4]$ rm 4
+[vagrant@archlinux bggp4]$ rizin -i entry.rz 2>/dev/null && echo
+4
+[vagrant@archlinux bggp4]$ sha256sum entry.rz 4
+0dbf8f241bfc5bf541e322bf6897796e0412c5ad56749cb38700240d698edfa6 entry.rz
+0dbf8f241bfc5bf541e322bf6897796e0412c5ad56749cb38700240d698edfa6 4
+Link to writeup, if any: N/A
+File contents (base64 encoded please): bysgNApyIDMwMAp3IDZmMmIyMDM0MGE3MjIwMzMzMDMwMGE3NzIwMGE3Nzc4NjYyMDM0MjA0MDIwMzEzNjM4MGE3NzY1NmUyMDMxMzYzODIwNDAyMDMxMzgzMTBhNzc2Njc4MjAzMTM4MzEyMDMxMzYzODBhNzIyZDIwMzEzNjM4MGE3MjJkMjAzMTM4MzUyMDQwMjAzMjM1MzIwYTcwNzIyMDMxMjA0MDIwMzMwYTcxMjEyMQp3eGYgNCBAIDE2OAp3ZW4gMTY4IEAgMTgxCndmeCAxODEgMTY4CnItIDE2OApyLSAxODUgQCAyNTIKcHIgMSBAIDMKcSEh
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-28
+Score: 252
+Note: works as-is
+---END VERIFICATION---

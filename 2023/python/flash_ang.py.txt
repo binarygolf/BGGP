@@ -1,0 +1,35 @@
+Date: 20230731
+---BEGIN BGGP4 ENTRY---
+Name or handle: Flash ANG
+
+Contact Info: flash_ang@hotmail.com
+
+Website, twitter, other online presence: N/A
+
+Target File Type: python
+
+SHA256 Hash:
+3cdb25ac747684405641db00acb327cf1955ad59a4b782e996aa0c0bd5decd98
+
+Target Environment (How do we run the file?):
+use python interpreter
+
+Any additional info?:
+change from 'echo 4' to 'ls 4'
+
+Link to PoC video, screenshot, or console output, if any:
+attach source file (rename to txt) and screenshot
+
+Link to writeup, if any: N/A
+
+File contents (base64 encoded please):
+aW1wb3J0IG9zO29zLnN5c3RlbSgnY3AgJytfX2ZpbGVfXysnIDQmbHMgNCcp
+
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 45
+Note: Works in py2, error in py3 ("ls: cannot access '4': No such file or directory", even though the file exists. possibly a race condition)
+---END VERIFICATION---
+

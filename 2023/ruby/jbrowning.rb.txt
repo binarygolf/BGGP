@@ -1,0 +1,20 @@
+Date: 20230822
+---BEGIN BGGP4 ENTRY---
+Name or handle: jbrowning
+Contact Info: jeff@jkbrowning.com
+Website, twitter, other online presence: https://jbrowning.org
+Target File Type: Ruby
+SHA256 Hash: 07fa6ea96d3011740b314a57439c7e2444fa328cc5c406812f17be265545e3c3
+Target Environment (How do we run the file?): ruby filename.rb
+Any additional info?: Nope
+Link to PoC video, screenshot, or console output, if any: Nope
+Link to writeup, if any: Nope
+File contents (base64 encoded please): YGNwICN7JDB9IDRgO3AgNA==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 16
+Note: works as-is
+---END VERIFICATION---
+

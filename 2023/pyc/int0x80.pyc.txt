@@ -1,0 +1,20 @@
+Date: 20230624
+Name or handle: int0x80
+Contact Info: dualcoremusic@dualcoremusic.com
+Website, twitter, other online presence: @int0x80 on Twitter, BlueSky, Mastodon
+Target File Type: pyc
+SHA256 Hash: c10d7ad96e1308b035560b0d415b83c8c127b4564b1bc95d04850c3df33ec041
+Target Environment (How do we run the file?): python3 x.cpython-310.opt-2.pyc
+Any additional info?: N/A
+Link to PoC video, screenshot, or console output, if any: N/A
+Link to writeup, if any: N/A
+File contents (base64 encoded please): 
+
+bw0NCgAAAAD2q5dkOgAAAOMAAAAAAAAAAAAAAAAAAAAABQAAAEAAAABzNAAAAGQAZAFsAFoAZABkAWwBWgFlAKACZAJlAWoDZAAZAJsAZAOdA6EBAQBlBGQEgwEBAGQBUwApBekAAAAATnoDY3AgegIgNNoBNCkF2gJvc9oDc3lz2gZzeXN0ZW3aBGFyZ3baBXByaW50qQByCAAAAHIIAAAA+gYuL3gucHnaCDxtb2R1bGU+AQAAAHMGAAAAEAAYAQwB
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-30
+Score: 195
+Note: works as-is
+---END VERIFICATION---

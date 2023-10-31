@@ -1,0 +1,20 @@
+Date: 20230625
+---BEGIN BGGP4 ENTRY---
+Name or handle: tecknicaltom
+Contact Info: tecknicaltom@neg9.org
+Website, twitter, other online presence: InfoconDB.org twitter:tecknicaltom mastodon:@tecknicaltom@neg9.org
+Target File Type: Makefile
+SHA256 Hash: 5aa51531c4ba5830af763387ab82afb99cb72fbe36453e1ba7c69f836981f5ca
+Target Environment (How do we run the file?): GNU Make for sure, but possibly any other make
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): YToKCUBjcCAkKE1BS0VGSUxFX0xJU1QpIDQ7ZWNobyA0Cg==
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 34
+Note: works as-is
+---END VERIFICATION---
+

@@ -1,0 +1,22 @@
+Date: 20230630
+---BEGIN BGGP4 ENTRY---
+Name or handle: dtmsecurity
+Contact Info: dtm@dtm.uk
+Website, twitter, other online presence: https://dtm.uk/
+Target File Type: .sh
+SHA256 Hash: ba516f1a18c5af46e469fb0a64c032563fbaedf421b6fc7bc04a67eae1616a2d
+Target Environment (How do we run the file?): Tested on OS X and Ubuntu
+Any additional info?: n/a
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):  Y3AgJDAgNDtscyA0
+---END BGGP4 ENTRY---
+
+confirm that this is the same as https://rap.sh/Shell_Script_Golf
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 12
+Note: works as-is, matches the blogpost
+---END VERIFICATION---
+

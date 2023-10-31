@@ -1,0 +1,19 @@
+Date: 20230626
+Name or handle: bitRAKE
+Contact Info: bitRAKE@gmail.com
+Website, twitter, other online presence: https://github.com/bitRAKE
+Target File Type: LUA script
+SHA256 Hash: 70ec629d316522c2d638e5c806385b24c417106e31f59f32d5b1fee51c7f83ee
+Target Environment (How do we run the file?): lua bggp4.lua
+Any additional info?: lua 5.4 is on my path and I'm in the target directory
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):
+aW8ub3BlbigiNCIsIndiIik6d3JpdGUoaW8ub3BlbihhcmdbMF0sInJiIik6cmVhZCgiKmEiKSkKcHJpbnQoNCk=
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 65
+Note: works as-is
+---END VERIFICATION---
+

@@ -1,0 +1,19 @@
+Date: 20230625
+Name or handle: bitRAKE
+Contact Info: bitRAKE@gmail.com
+Website, twitter, other online presence: https://github.com/bitRAKE
+Target File Type: PY
+SHA256 Hash: 3b2af3e4b6afcada302c78b7d49f20bdbc4136982c9644012c5d0dd1d4dfffad
+Target Environment (How do we run the file?): python bggp.py
+Any additional info?: python 3.11 is in my environment, and I'm in the target directory
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):
+aW1wb3J0IHNodXRpbCBhcyBzCnMuY29weTIoX19maWxlX18sJzQnKQpwcmludCg0KQ==
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2023-09-12
+Score: 49
+Note: works as-is
+---END VERIFICATION---
+

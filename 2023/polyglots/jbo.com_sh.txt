@@ -1,0 +1,20 @@
+Date: 20230629
+---BEGIN BGGP4 ENTRY---
+Name or handle: Jonathan Bar Or ("JBO")
+Contact Info: jonathanbaror@gmail.com
+Website, twitter, other online presence: @yo-yo-yo-jbo
+Target File Type: Polyglot: COM + shell script
+SHA256 Hash: cbc7ea5b5009ce512d3ce0474141870ac980c98fab1eb91de9f12f42c28d1566
+Target Environment (How do we run the file?): DOSBox for COM, bash for shell script.
+Any additional info?: Shell script has to run alone in its own directory.
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any: https://github.com/yo-yo-yo-jbo/binary_golf_com
+File contents (base64 encoded please): IyEKY3AJKgk0fGV4aXQgNAAKI5G6DwG0W80hk7Eph9a0QM0hrM0pzSA=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/13/23
+SHA256: cbc7ea5b5009ce512d3ce0474141870ac980c98fab1eb91de9f12f42c28d1566
+Score: 41
+Note: works as-is (com and sh)
+---END VERIFICATION---

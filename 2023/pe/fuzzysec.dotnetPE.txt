@@ -1,0 +1,14 @@
+This was not realy an entry but kinda was
+
+DATE: 2023-06-26
+
+https://knifecoat.com/Posts/Writing+Small+.NET+PE's
+
+https://twitter.com/FuzzySec/status/1673182992901230594
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2023-10-30
+Score: 1548
+Note: works as-is
+---END VERIFICATION---

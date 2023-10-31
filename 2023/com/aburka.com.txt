@@ -1,0 +1,28 @@
+DATE: 20230910
+---BEGIN BGGP4 ENTRY---
+Name or handle: Alex Burka
+Contact Info: email bggp@alexburka.com
+Website, twitter, other online presence: Mastodon @aburka@hachyderm.io
+Target File Type: COM (MS-DOS executable)
+SHA256 Hash: f041db85a0e2dce43c7e7d26887d3eff5c80da130831912f7d9aca10fcd1d494
+Target Environment (How do we run the file?): DOSBox https://www.dosbox.com/
+Any additional info?: @cvtsi2sd@hachyderm.io gave me the tip to save 1 byte by replacing MOV BX, AX with XCHG AX, BX.
+Instructions to run:
+1. Create a directory -- say, $HOME/bggp. Name the file BGGP.COM in this directory.
+2. Run DOSBOX. In the prompt, run `MOUNT B: ~/bggp`, then `B:` to change to that drive.
+3. Run the program: `BGGP`.
+4. As shown in the screenshot, you may verify that the program returned 4 by running the command `IF ERRORLEVEL 4 IF NOT ERRORLEVEL 5 ECHO success`.
+5. I don't think there is a diff tool built in to DOSBox, but you can verify that BGGP.COM and 4 are identical outside of DOSBox.
+
+Link to PoC video, screenshot, or console output, if any: https://hachyderm.io/@aburka/111044948527136574
+Link to writeup, if any: Thread for original 28-byte entry starts here: https://hachyderm.io/@aburka/111044736381403631. Source code and explanation are in the thread.
+File contents (base64 encoded please): Mcm6GQG0PM0hk7kbALoAAbRAzSG4BEzNITQA
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: eatscrayon
+Review Date: 9/12/23
+Score: 21
+Note: Update from 20230911 They got it to 21 bytes https://haunted.computer/@aburka@hachyderm.io/111044736349567055 and https://hachyderm.io/@aburka/111049653725842075 has the code
+---END VERIFICATION---
+
+

@@ -1,0 +1,29 @@
+---BEGIN BGGP4 ENTRY---
+Name or handle: @caioluders
+Contact Info: caioluders@gmail.com
+Website, twitter, other online presence: https://twitter.com/caioluders/ ; https://lude.rs/
+Target File Type: Python
+SHA256 Hash: 209a11d8e0c8744d5811329e3e0c471af7560edf9b8564d05d0eaea1a508a2e4
+Target Environment (How do we run the file?):
+python3
+Any additional info?:
+Use this entry if the other Python one is not acceptable
+Link to PoC video, screenshot, or console output, if any: 
+
+> python3 bggp.py
+4
+> shasum -a 256 *
+209a11d8e0c8744d5811329e3e0c471af7560edf9b8564d05d0eaea1a508a2e4  4
+209a11d8e0c8744d5811329e3e0c471af7560edf9b8564d05d0eaea1a508a2e4  bggp.py
+
+File contents (base64 encoded please): 
+b3BlbignNCcsJ3cnKS53cml0ZShvcGVuKF9fZmlsZV9fKS5yZWFkKHByaW50KDQpKSk=
+---END BGGP4 ENTRY---
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Submit Date: 2023-07-01
+Review Date: 2023-09-11
+Score: 50
+Note: Works as is
+---END VERIFICATION---
+
