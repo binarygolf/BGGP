@@ -261,7 +261,7 @@ These are scripts you can run in the rizin debugger.
 
 |Author|Date|Size|Notes|
 |---|---|---|---|
-|ert 👑|2023-09-08|252|
+|ert 👑|2023-09-08|252|Also a quine!|
 ### Ruby
 Ruby is a high level programming language with an emphasis on programming productivity and simplicity.
 
