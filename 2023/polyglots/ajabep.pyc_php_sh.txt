@@ -17,9 +17,7 @@ Any additional info?: The writeup will take a bit of time to be
 written (I have to refill my mental energy and health before). I'll
 publish it on the URI bellow ASAP.
 Link to PoC video, screenshot, or console output, if any: Not yet.
-Link to writeup, if any:
-https://ajabep.lesbienn.es/blog/BGGP4-writeup-polyglot (I'll fill this
-page ASAP)
+Link to writeup, if any: https://ajabep.lesbienn.es/blog/posts/2023/BGGP4-writeup-pyc/
 File contents (base64 encoded please):
 Mw0NCiM8P3BocCAjYwAAAAAAAAAAAAAAAA0vKgBAAAAAcxIAAABkAAQAbABqAWQBZQJkAmQEgwQpBWkAAAAAegcvYmluL3NoegItY3oZDWNvcHkoX19maWxlX18sIDQpO2Bsc2A/PnoUCmVjaG8gYGNwIC12ICQwIDRgOyMpA1oCb3NaBWV4ZWNsWghfX2ZpbGVfXykAKQApAHoAegABAAAAcwAAAAA=
 ---END BGGP4 ENTRY---
