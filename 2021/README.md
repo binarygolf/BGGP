@@ -2,7 +2,7 @@
 
 This was the second annual Binary Golf Grand Prix, which took place June 18th - September 17th 2021.
 
-Challenge Announcement and Rules: https://n0.lol/bggp/2021/
+Challenge Announcement and Rules: https://binary.golf/2/
 
 This page will be updated as writeups and other resources come in!
 
