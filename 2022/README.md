@@ -1,4 +1,4 @@
-The [Third Annual Binary Golf Grand Prix](https://tmpout.sh/bggp/3/) took place from June 17th 2022 until September 2nd 2022. 
+The [Third Annual Binary Golf Grand Prix](https://binary.golf/3/) took place from June 17th 2022 until September 2nd 2022. 
 
 ## Goal
 
