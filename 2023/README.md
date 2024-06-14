@@ -1,4 +1,4 @@
-![](https://binary.golf/art/4/BGGP4_logo_trans_x4.png)
+![](https://binary.golf/4/art/BGGP4_logo_trans_x4.png)
 
 # Binary Golf Grand Prix 4: Replicate
 
@@ -16,7 +16,8 @@ The targets were diverse this year, with a variety of tricks, hacks, and system 
 The Binary Golf Association would like to thank everyone who participated in BGGP4! We appreciate your patience as we scale this so we can keep it a fun, free, community event. Special shoutouts go to tmp.0ut, the Haunted Computer Club, PoC||GTFO, Phrack, and everyone else up doing weird stuff to their files.
 
 Links:
-- The official BGGP repo now lives here: https://github.com/binarygolf/bggp 
+- The official BGGP repo now lives here: https://github.com/binarygolf/bggp
+- BGGP4 Website: https://binary.golf/4/
 - Website: https://binary.golf/
 - Mastodon: https://haunted.computer/@binarygolf
 - Twitter: https://twitter.com/binarygolf
@@ -314,8 +315,9 @@ UEFI Apps are executables that run on UEFI firmware. They are responsible for lo
 
 |Author|Date|Size|Notes|
 |---|---|---|---|
-|ic3qu33n 👑|2023-09-10|1480|Uses qemu
-|ytvwld|2023-07-10|7680|Uses uefi-run
+| netspooky | 2024-03-01|420| Submitted after the challenge ended |
+|ic3qu33n 👑|2023-09-10|1480|Uses qemu |
+|ytvwld|2023-07-10|7680|Uses uefi-run |
 
 ### VBScript
 VBScript is a scripting language developed by Microsoft that is modeled on Visual Basic.
