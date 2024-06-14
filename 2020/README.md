@@ -1,6 +1,6 @@
 # BGGP 2020
 
-This was the first annual Binary Golf Grand Prix, which took place June 22nd - August 28th 2020. The goal was to create a binary that executed the same backwards as it did forwards. See https://n0.lol/bggp/ for more details!
+This was the first annual Binary Golf Grand Prix, which took place June 22nd - August 28th 2020. The goal was to create a binary that executed the same backwards as it did forwards. See [https://n0.lol/bggp/](https://binary.golf/1/) for more details!
 
 The entries were as follows:
 
