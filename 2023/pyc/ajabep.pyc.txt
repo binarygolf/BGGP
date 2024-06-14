@@ -13,9 +13,7 @@ interpreter, you may compile by yourself, or use the Docker image
 Any additional info?: I'll try to publish all the writeup before the
 8th, but I cannot be sure.
 Link to PoC video, screenshot, or console output, if any: None currently
-Link to writeup, if any:
-https://ajabep.lesbienn.es/blog/BGGP4-writeup-pyc (I fill this page
-ASAP)
+Link to writeup, if any:https://ajabep.lesbienn.es/blog/posts/2023/BGGP4-writeup-pyc/
 File contents (base64 encoded please):
 h8YNCgAAAABjAAAABwMAR1NzIQAAAGQAAGsAAGkCAARrAQBpAwAEBGoDABlkAACDAgBkAABHUygBAAAAcwEAAAA0KAQAAABzBgAAAHNodXRpbHMDAAAAc3lzcwQAAABjb3B5cwQAAABhcmd2KAAAAABzAAAAAHMAAAAAAQBzAAAAAAA=
 ---END BGGP4 ENTRY---
