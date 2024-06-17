@@ -25,3 +25,5 @@ Link to writeup, if any:
 File contents (base64 encoded please): 
 ---END BGGPx---
 ```
+
+If this is an update to an existing entry, please include a link to your entry. Reminder that authors can only update an entry once during BGGP.
