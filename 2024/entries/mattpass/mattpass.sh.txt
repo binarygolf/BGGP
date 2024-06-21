@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 21st June 2024
+BGGP Challenge Number: 5
+Author: mattpass
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @mattpass (X)
+Target File Type: Shell
+File Size: 7 bytes
+SHA256 Hash: d9e749b833d4a27149ceecabdc15af44e56c58dddd3ce259a3eed3e26b3ff43f
+Target Environment (How do we run the file?): Any Linux OS, save in `x.sh`, run `chmod +x x.sh`, then `./x.sh https://binary.golf/5/5`
+Any additional info?: Seems too obvious, but am sure someone will cover Shell in < 7 bytes :D
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): Y3VybCAkMQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-21
+SHA256: d9e749b833d4a27149ceecabdc15af44e56c58dddd3ce259a3eed3e26b3ff43f
+Score: 4089
+Note: Works as is, passes the url from the command line
+---END VERIFICATION---
