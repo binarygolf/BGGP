@@ -2,6 +2,14 @@
 
 These are the entries for BGGP5! 
 
+### HTML
+
+HyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser. 
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 80 | [mattpass](./mattpass/mattpass.html.txt) 👑 | .html | | |
+
 ### Portable Executable (PE)
 
 Portable Executables are an exectuable format used in Windows and other platforms. There are different types of PEs which are noted. These are treated as distinct from the UEFI App category even though PEs can run on UEFI. See UEFI App for more info.
