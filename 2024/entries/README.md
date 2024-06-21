@@ -11,3 +11,9 @@
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 399 | [kspalaiologos](./kspalaiologos/kspalaiologos.pe.txt) 👑 | PE | | |
+
+### Ruby
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 51 | [demon-i386](./demon-i386/demon-i386.rb.txt) 👑 | .rb | | Entry loads the 'net/http' library via the -r argument |
