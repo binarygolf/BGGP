@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 06/21/2024
+BGGP Challenge Number: 5
+Author: demon-i386 (Pedro Silva)
+Contact Info (Optional): contact_demon@protonmail.com
+Online Presence (Website/Social Media): Twitch: https://twitch.tv/demon_0x2a | X: https://x.com/demon_i386
+Target File Type: Ruby
+File Size: 51B
+SHA256 Hash: d264d819a3f6ba3c8f2cd3da31fb6f816a885b5cb4e18c9a592601667744d9b7
+Target Environment (How do we run the file?): OS is Ubuntu 22.04, needs at least ruby 3.0.2p107 | ruby -r'net/http' filename
+Any additional info?: Run with ( ruby -r'net/http' filename )
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): cHV0cyBOZXQ6OkhUVFAuZ2V0KFVSSSgnaHR0cHM6Ly9iaW5hcnkuZ29sZi81LzUnKSkK
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-21
+SHA256: d264d819a3f6ba3c8f2cd3da31fb6f816a885b5cb4e18c9a592601667744d9b7
+Score: 4045
+Note: Tested on Kali 2023.4
+---END VERIFICATION---
