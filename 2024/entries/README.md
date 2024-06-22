@@ -52,7 +52,8 @@ Shell scripts can be invoked in numerous ways, so we have categories for both ty
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 7 | [mattpass](./mattpass/mattpass.sh.txt) 👑 | .sh | | Passes the url via command line argument |
+| 2 | [jbo](jbo/jbo.sh.txt) 👑 | .sh | | Passes the entire command via arguments, needs curl in path |
+| 7 | [mattpass](./mattpass/mattpass.sh.txt) | .sh | | Passes the url via command line argument |
 
 #### Runs Without Arguments
 
