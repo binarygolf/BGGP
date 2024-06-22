@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-22
+BGGP Challenge Number: 5
+Author: VVX7
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @VVX7@haunted. computer
+Target File Type: .pl
+File Size: 7
+SHA256 Hash: ed45129ef1ca41def2d94a20567edf1e0412df4c0aeea0237672bff93f9b351b
+Target Environment (How do we run the file?): Ubuntu 22. The file must be named `'use LWP::Simple;getprint`printf Imh0dHA6Ly9iaW5hcnkuZ29sZi81LzUiCg==|base64 -d`'`. Run with `perl 'use LWP::Simple;getprint`printf Imh0dHA6Ly9iaW5hcnkuZ29sZi81LzUiCg==|base64 -d`'`.
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): ZXZhbCQwCg==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-22
+SHA256: ed45129ef1ca41def2d94a20567edf1e0412df4c0aeea0237672bff93f9b351b
+Score: 4089
+Note: works as is
+---END VERIFICATION---
