@@ -1,0 +1,24 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-22
+BGGP Challenge Number: 5
+Author: mauke
+Contact Info (Optional): 
+Online Presence (Website/Social Media): 
+Target File Type: perl
+File Size: 8
+SHA256 Hash: 655c9ba3695bf6f8696ce4e402d078ad29406791c583963817ea7b42dbdb5972
+Target Environment (How do we run the file?): perl thefile 'use LWP::Simple;getprint"http://binary.golf/5/5"'
+Any additional info?: Might need to install libwww-perl and liblwp-protocol-https-perl (Debian) or equivalent on other systems.
+  If you're on Windows, you may have to swap quotes and add a space thus: perl thefile "use LWP::Simple;getprint 'http://binary.golf/5/5'"
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): ZXZhbCBwb3A=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-22
+SHA256: 655c9ba3695bf6f8696ce4e402d078ad29406791c583963817ea7b42dbdb5972
+Score: 4088
+Note: works as is
+---END VERIFICATION---
