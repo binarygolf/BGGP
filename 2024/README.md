@@ -21,9 +21,16 @@ HyperText Markup Language is the standard markup language for documents designed
 
 Perl is a high level programming language that was intended to be a general purpose scripting language for Unix systems.
 
+#### Runs With CLI Arguments
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 18 | [vvx7](./entries/vvx7/vvx7.pl.txt) 👑 | .pl | | Uses command line arguments and environment variables |
+
+#### Runs Without CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 47 | [mauke](./entries/mauke/mauke.pl.txt) 👑 | .pl | | |
 
 ### Portable Executable (PE)
 
