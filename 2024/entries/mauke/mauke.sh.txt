@@ -1,0 +1,26 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-22
+BGGP Challenge Number: 5
+Author: mauke
+Contact Info (Optional): 
+Online Presence (Website/Social Media): 
+Target File Type: sh
+File Size: 19
+SHA256 Hash: afadae2fda102fa76fa6d5cd15824a20163600cdd4c84c744108917ac5df212c
+Target Environment (How do we run the file?): Run with sh or bash on any unixy system.
+  Needs the LWP tools with SSL support installed.
+  On Debian, `sudo apt install libwww-perl liblwp-protocol-https-perl` should do it.
+  If you've brewed your own perl, try `cpan LWP LWP::Protocol::https`.
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): R0VUIGJpbmFyeS5nb2xmLzUvNQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-22
+SHA256: afadae2fda102fa76fa6d5cd15824a20163600cdd4c84c744108917ac5df212c
+Score: 4077
+Note: Works as is, need the perl LWP tools per instructions
+---END VERIFICATION---
