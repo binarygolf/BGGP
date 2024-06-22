@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: June 22, 2024
+BGGP Challenge Number: 5
+Author: nephryte
+Contact Info (Optional): 
+Online Presence (Website/Social Media): 
+Target File Type: ps1
+File Size: 22 Bytes
+SHA256 Hash: F20278F6FA3668DDEC457CE7D319846F781D210534A72E58FF6F7A6D7B23CD95
+Target Environment (How do we run the file?): Open in PowerShell
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): aXdyIGJpbmFyeS5nb2xmLzUvNXxmYw==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: riesha
+Review Date: 2024-06-22
+SHA256: F20278F6FA3668DDEC457CE7D319846F781D210534A72E58FF6F7A6D7B23CD95
+Score: 4074
+Note: Works as is
+---END VERIFICATION---
