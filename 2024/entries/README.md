@@ -10,6 +10,14 @@ HyperText Markup Language is the standard markup language for documents designed
 |--------|------|-----------|---------|------|
 | 80 | [mattpass](./mattpass/mattpass.html.txt) 👑 | .html | | |
 
+### Perl
+
+Perl is a high level programming language that was intended to be a general purpose scripting language for Unix systems.
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 18 | [vvx7](vvx7/vvx7.pl.txt) 👑 | .pl | | Uses command line arguments and environment variables |
+
 ### Portable Executable (PE)
 
 Portable Executables are an exectuable format used in Windows and other platforms. There are different types of PEs which are noted. These are treated as distinct from the UEFI App category even though PEs can run on UEFI. See UEFI App for more info.
