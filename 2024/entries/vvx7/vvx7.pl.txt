@@ -1,0 +1,24 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-21
+BGGP Challenge Number: 5
+Author: VVX7
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @VVX7@haunted.computer
+Target File Type: Perl
+File Size: 18 bytes
+SHA256 Hash: 101f4cfaa6dc032d4e4062c4a50a711879f55f658faa4a29f5ee27fe5166a612
+Target Environment (How do we run the file?): macOS 14.5. open a terminal and paste in this little guy  `PERL_LWP_SSL_VERIFY_HOSTNAME=0 perl -MLWP::Simple bggp5.perl "https://binary.golf/5/5"`
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): Z2V0cHJpbnQoJEFSR1ZbMF0p
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-21
+SHA256: 101f4cfaa6dc032d4e4062c4a50a711879f55f658faa4a29f5ee27fe5166a612
+Score: 4078
+Note: works as is, file must be named bggp5.perl
+---END VERIFICATION---
+
