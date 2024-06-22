@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 06/21/2024
+BGGP Challenge Number: 5
+Author: yael
+Contact Info (Optional): 
+Online Presence (Website/Social Media): [https:// | gemini://] yael.moe
+Target File Type: HTML
+File Size: 95B
+SHA256 Hash: 148e204437fd24b1150e68902394c30488357fa4bfb375881299c16b12b4cd07
+Target Environment (How do we run the file?): Any modern browser with javascript enabled
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): PHNjcmlwdD5mZXRjaChgaHR0cHM6Ly9iaW5hcnkuZ29sZi81LzVgKS50aGVuKHI9PnIudGV4dCgpKS50aGVuKGQ9PmRvY3VtZW50LndyaXRlKGQpKTwvc2NyaXB0Pg==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: m33ls
+Review Date: 2024-06-22
+SHA256: 148e204437fd24b1150e68902394c30488357fa4bfb375881299c16b12b4cd07
+Score: 4096 - 95 = 4001
+Note: Tested in Firefox 126.0
+---END VERIFICATION---
