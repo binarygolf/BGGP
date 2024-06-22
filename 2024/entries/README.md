@@ -59,4 +59,7 @@ Shell scripts can be invoked in numerous ways, so we have categories for both ty
 
 #### Runs Without Arguments
 
-none yet!
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 11 | [oriel](./oriel/oriel.sh2.txt) 👑 | .sh | | Passes entire command in the file name and executes |
+
