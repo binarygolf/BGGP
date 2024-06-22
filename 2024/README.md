@@ -31,7 +31,8 @@ Perl is a high level programming language that was intended to be a general purp
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 47 | [mauke](./entries/mauke/mauke.pl.txt) 👑 | .pl | | |
+| 7 | [vvx7](./entries/vvx7/vvx7.pl2.txt) 👑 | .pl | | Executes code in the filename |
+| 47 | [mauke](./entries/mauke/mauke.pl.txt) | .pl | | |
 
 ### Portable Executable (PE)
 
