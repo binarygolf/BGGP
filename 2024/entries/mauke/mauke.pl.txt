@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-22
+BGGP Challenge Number: 5
+Author: mauke
+Contact Info (Optional): 
+Online Presence (Website/Social Media): 
+Target File Type: perl
+File Size: 47
+SHA256 Hash: cf765542316bdc470f896d59bc34d8dbb0dfd75c6869a10367de6a97bc6f3cae
+Target Environment (How do we run the file?): perl thefile
+Any additional info?: Might need to install libwww-perl and liblwp-protocol-https-perl (Debian) or equivalent on other systems.
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): dXNlIExXUDo6U2ltcGxlO2RpZSBnZXQiaHR0cDovL2JpbmFyeS5nb2xmLzUvNSI=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-22
+SHA256: cf765542316bdc470f896d59bc34d8dbb0dfd75c6869a10367de6a97bc6f3cae
+Score: 4049
+Note: works as is
+---END VERIFICATION---
