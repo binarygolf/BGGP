@@ -49,7 +49,7 @@ Ruby is a high level programming language with an emphasis on programming produc
 
 Shell scripts can be invoked in numerous ways, so we have categories for both types of entries.
 
-#### Runs With Arguments
+#### Runs With CLI Arguments
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
@@ -57,7 +57,7 @@ Shell scripts can be invoked in numerous ways, so we have categories for both ty
 | 5 | [oriel](./oriel/oriel.sh.txt) | .sh | | Passes part of the command in the file name, with arguments |
 | 7 | [mattpass](./mattpass/mattpass.sh.txt) | .sh | | Passes the url via command line argument |
 
-#### Runs Without Arguments
+#### Runs Without CLI Arguments
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
