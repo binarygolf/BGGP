@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-22
+BGGP Challenge Number: 5
+Author: oriel
+Contact Info (Optional): 
+Online Presence (Website/Social Media): 
+Target File Type: sh
+File Size: 11
+SHA256 Hash:  d291403efa7f23d657257317f0e13a59fb8f78e40dcef9a14e25001c799c2361
+Target Environment (How do we run the file?): Linux, curl in path. Filename must specifically be: curl -L binary.golf$(printf Lw==|base64 -d)5$(printf Lw==|base64 -d)5
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: https://github.com/binarygolf/BGGP/assets/58931978/16a5c9d0-99b2-4523-8f9e-5476db7832e4
+Link to writeup, if any: 
+File contents (base64 encoded please): c2ggLWMgIiQwIgo=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-22
+SHA256: d291403efa7f23d657257317f0e13a59fb8f78e40dcef9a14e25001c799c2361
+Score: 4085
+Note: works as is, file must be named per author instruction
+---END VERIFICATION---
