@@ -73,6 +73,14 @@ Python is a high-level, general-purpose programming language. Its design philoso
 
 Ruby is a high level programming language with an emphasis on programming productivity and simplicity.
 
+#### Runs With CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 27 | [vvx7](./entries/vvx7/vvx7.rb.txt) 👑 | .rb | | Entry loads open-uri via the -r argument, URL passed on command line |
+
+#### Runs Without CLI Arguments
+
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 51 | [demon-i386](./entries/demon-i386/demon-i386.rb.txt) 👑 | .rb | | Entry loads the 'net/http' library via the -r argument |
