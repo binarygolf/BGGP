@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-21
+BGGP Challenge Number: 5
+Author: Jonathan Bar Or ("JBO")
+Contact Info (Optional): @yo_yo_yo_jbo
+Online Presence (Website/Social Media): @yo_yo_yo_jbo
+Target File Type: py
+File Size: 46
+SHA256 Hash: 278bc90f81d6b5a6973cd51682b62fb79d357b2ed1222407c8fe20bd1e2e7d9c
+Target Environment (How do we run the file?): Any OS with Python + has curl in PATH (Windows, Linux, macOS would do).
+Any additional info?: ---
+Link to PoC video, screenshot, or console output, if any: ---
+Link to writeup, if any: ---
+File contents (base64 encoded please): aW1wb3J0IG9zO29zLnN5c3RlbSgiY3VybCAtTCBiaW5hcnkuZ29sZi81LzUiKQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-21
+SHA256: 278bc90f81d6b5a6973cd51682b62fb79d357b2ed1222407c8fe20bd1e2e7d9c
+Score: 4050
+Note: works as is
+---END VERIFICATION---
