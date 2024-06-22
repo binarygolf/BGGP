@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-22
+BGGP Challenge Number: 5
+Author: VVX7
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @VVX7@haunted.computer
+Target File Type: SVG
+File Size: 248B
+SHA256 Hash: 3278e28d21410669dea42ffa603bc48acd50888a94fc2fceac94bca0368559b3
+Target Environment (How do we run the file?): Open the file in a browser or SVG viewer.
+Any additional info?: The text will render under the toolbar. Select all and paste it somewhere.
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxzY3JpcHQ+ZmV0Y2goJ2h0dHA6Ly9iaW5hcnkuZ29sZi81LzUnKS50aGVuKHI9PnIudGV4dCgpKS50aGVuKHQ9Pnt2YXIgZT1kb2N1bWVudC5jcmVhdGVFbGVtZW50TlMoImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiwidGV4dCIpO2UudGV4dENvbnRlbnQ9dDtkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuYXBwZW5kQ2hpbGQoZSk7fSk8L3NjcmlwdD48L3N2Zz4=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-22
+SHA256: 3278e28d21410669dea42ffa603bc48acd50888a94fc2fceac94bca0368559b3
+Score: 3848
+Note: The request may be blocked due to CORS. Use firefox to view it and serve it from a web server to get it to work.
+---END VERIFICATION---
