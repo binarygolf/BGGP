@@ -33,6 +33,22 @@ Portable Executables are an exectuable format used in Windows and other platform
 |--------|------|-----------|---------|------|
 | 399 | [kspalaiologos](./entries/kspalaiologos/kspalaiologos.pe.txt) 👑 | PE | | |
 
+### PowerShell Script
+
+PowerShell scripts can be invoked in numerous ways, so we have categories for both types of entries.
+
+#### Runs With CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+|  |  |  | |  |
+
+#### Runs Without CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 22 | [nephryte](./entries/nephryte/nephryte.ps.txt) 👑 | .ps | |  |
+
 ### Python
 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. 
@@ -69,22 +85,6 @@ Shell scripts can be invoked in numerous ways, so we have categories for both ty
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 11 | [oriel](./entries/oriel/oriel.sh2.txt) 👑 | .sh | | Passes entire command in the file name and executes |
-
-
-### PowerShell Script
-
-PowerShell scripts can be invoked in numerous ways, so we have categories for both types of entries.
-
-#### Runs With CLI Arguments
-
-| Size | Author | File Type | Writeup | Note |
-|--------|------|-----------|---------|------|
-|  |  |  | |  |
-
-#### Runs Without CLI Arguments
-
-| Size | Author | File Type | Writeup | Note |
-|--------|------|-----------|---------|------|
-| 22 | [nephryte](./entries/nephryte/nephryte.ps.txt) 👑 | .ps | |  |
+| 19 | [mauke](./entries/mauke/mauke.sh.txt) | .sh | | Uses the perl LWP tools with SSL support |
 
 
