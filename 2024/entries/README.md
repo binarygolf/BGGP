@@ -17,7 +17,7 @@ Perl is a high level programming language that was intended to be a general purp
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 18 | [vvx7](vvx7/vvx7.pl.txt) 👑 | .pl | | Uses command line arguments and environment variables |
+| 18 | [vvx7](./vvx7/vvx7.pl.txt) 👑 | .pl | | Uses command line arguments and environment variables |
 
 ### Portable Executable (PE)
 
@@ -53,7 +53,8 @@ Shell scripts can be invoked in numerous ways, so we have categories for both ty
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 2 | [jbo](jbo/jbo.sh.txt) 👑 | .sh | | Passes the entire command via arguments, needs curl in path |
+| 2 | [jbo](./jbo/jbo.sh.txt) 👑 | .sh | | Passes the entire command via arguments, needs curl in path |
+| 5 | [oriel](./oriel/oriel.sh.txt) | .sh | | Passes part of the command in the file name, with arguments |
 | 7 | [mattpass](./mattpass/mattpass.sh.txt) | .sh | | Passes the url via command line argument |
 
 #### Runs Without Arguments
