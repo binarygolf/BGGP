@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024/6/22
+BGGP Challenge Number: 5
+Author: Aleteoryx
+Contact Info (Optional): -
+Online Presence (Website/Social Media): @admin@mk.aleteoryx.me
+Target File Type: Python 3
+File Size: 86 bytes
+SHA256 Hash: 185b577c021e19d3dae418c13e4a217f758ac0931ae659a988aceedc4a218f35
+Target Environment (How do we run the file?): Should work in any version of python 3
+Any additional info?: -
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: -
+File contents (base64 encoded please): aW1wb3J0IHVybGxpYi5yZXF1ZXN0IGFzIHIKcHJpbnQoci51cmxvcGVuKCdodHRwczovL2JpbmFyeS5nb2xmLzUvNScpLnJlYWQoKS5kZWNvZGUoKSk=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-22
+SHA256: 185b577c021e19d3dae418c13e4a217f758ac0931ae659a988aceedc4a218f35
+Score: 4010
+Note: works as is
+---END VERIFICATION---
