@@ -35,7 +35,7 @@ Portable Executables are an exectuable format used in Windows and other platform
 
 ### Python
 
-Python is a high level programming language.
+Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. 
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
