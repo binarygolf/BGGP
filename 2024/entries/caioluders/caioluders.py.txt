@@ -1,0 +1,19 @@
+---BEGIN BGGP5---
+Submit Date: 21/06/2024
+BGGP Challenge Number: 5
+Author: caioluders
+Online Presence (Website/Social Media):  @caioluders
+Target File Type: Python
+File Size: 64 bytes
+SHA256 Hash: d9d5c864afd2b89e04061a64e70efda4abb646c14cb0c725b9892ba5e908576e
+Target Environment (How do we run the file?): requests module installed
+File contents (base64 encoded please): ZnJvbSByZXF1ZXN0cyBpbXBvcnQgKjtwcmludChnZXQoImh0dHA6Ly9iaW5hcnkuZ29sZi81LzUiKS50ZXh0KQ==
+---END BGGP5---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-21
+SHA256: d9d5c864afd2b89e04061a64e70efda4abb646c14cb0c725b9892ba5e908576e
+Score: 4032
+Note: works as is
+---END VERIFICATION---
