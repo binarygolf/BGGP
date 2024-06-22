@@ -34,8 +34,9 @@ Python is a high level programming language.
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 46 | [jbo](jbo/jbo.py.txt) 👑 | .py | | |
-| 64 | [caioluders](caioluders/caioluders.py.txt) | .py | | |
+| 64 | [caioluders](caioluders/caioluders.py.txt) | .py | | Needs requests module installed |
 | 77 | [matteyeux](./matteyeux/matteyeux.py.txt) | .py | | |
+| 86 | [Aleteoryx](./Aleteoryx/Aleteoryx.py.txt) | .py | | Uses standard library only |
 
 ### Ruby
 
