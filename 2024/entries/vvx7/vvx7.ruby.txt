@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-21
+BGGP Challenge Number: 5
+Author: VVX7
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @VVX7@haunted.computer
+Target File Type: ruby
+File Size: 27B
+SHA256 Hash: ec358a2180b281ab3506ebe31606afd34a7d35bfeede6276a62c06069f523c2c
+Target Environment (How do we run the file?): macOS 14.5. In a terminal, run `ruby -r open-uri filename 'https://binary.golf/5/5'`
+Any additional info?: Arguments passed on command line.
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): cHV0cyBVUkkub3BlbihBUkdWWzBdKS5yZWFk
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: m33ls
+Review Date: 2024-06-23
+SHA256: ec358a2180b281ab3506ebe31606afd34a7d35bfeede6276a62c06069f523c2c
+Score: 4096 - 27 = 4069
+Note: Entry loads open-uri via the -r argument, URL passed on command line. Tested on Ubuntu 22.04.4 x86_64, with ruby 3.3.2
+---END VERIFICATION---
