@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-21
+BGGP Challenge Number: 5
+Author: Jonathan Bar Or (JBO)
+Contact Info (Optional): @yo_yo_yo_jbo
+Online Presence (Website/Social Media): @yo_yo_yo_jbo 
+Target File Type: sh
+File Size: 2
+SHA256 Hash: c1b43b36df09f0bf0e0612b54e90e47df2e8722dd90821b3b0613dc8a4f7d5f4
+Target Environment (How do we run the file?): Linux shell script relying on curl in $PATH. I saw people use command line arguments, so here are mine, run the following command: bash jbo.sh "curl https://binary.golf/5/5"
+Any additional info?: I think using environment variables or command line arguments is cheating, but what do I know. :)
+Link to PoC video, screenshot, or console output, if any: ---
+Link to writeup, if any: ---
+File contents (base64 encoded please): JDE=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2024-06-21
+SHA256: c1b43b36df09f0bf0e0612b54e90e47df2e8722dd90821b3b0613dc8a4f7d5f4
+Score: 4094
+Note: works as is, needs curl in path
+---END VERIFICATION---
