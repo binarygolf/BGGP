@@ -70,3 +70,21 @@ Shell scripts can be invoked in numerous ways, so we have categories for both ty
 |--------|------|-----------|---------|------|
 | 11 | [oriel](./entries/oriel/oriel.sh2.txt) 👑 | .sh | | Passes entire command in the file name and executes |
 
+
+### PowerShell Script
+
+PowerShell scripts can be invoked in numerous ways, so we have categories for both types of entries.
+
+#### Runs With CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+|  |  |  | |  |
+
+#### Runs Without CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 22 | [nephryte](./entries/nephryte/nephryte.ps.txt) 👑 | .ps | |  |
+
+
