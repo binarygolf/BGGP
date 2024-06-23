@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: June 22nd
+BGGP Challenge Number: 5
+Author: remy
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://twitter.com/_mattata
+Target File Type: Powershell (.ps1)
+File Size: 35 bytes
+SHA256 Hash: 1f4e7e2e0837779c064681b1da42c7bebd63ab3ab876b2e61861ee72359f0475
+Target Environment (How do we run the file?): Pretty much anything Windows 7 and above
+Any additional info?: `-useb ` is only necessary if Internet Explorer has runtime has never been initialized on a system. On a typical system, this allows shaving off an additional 5 bytes, but wont work "everywhere".
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): aXdyIC11c2ViIC1vIDUgYmluYXJ5LmdvbGYvNS81O2djIDUK
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-23
+SHA256: 1f4e7e2e0837779c064681b1da42c7bebd63ab3ab876b2e61861ee72359f0475
+Score: 4061
+Note: Verified on Windows 10 Pro 22H2
+---END VERIFICATION---
