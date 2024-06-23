@@ -42,7 +42,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 42 | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.php.txt) 👑 | .php | | |
+| 39 | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.php.txt) 👑 | .php | | Requires php.ini option `allow_url_include` to be enabled |
 
 ### Portable Executable (PE)
 
