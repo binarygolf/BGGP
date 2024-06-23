@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-22
+BGGP Challenge Number: 5
+Author: Krishean
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://tech.lgbt/@krishean
+Target File Type: AWK script (.awk)
+File Size: 88 bytes
+SHA256 Hash: e34bbfc868b8a7655aa443ce6366284d905b86abaa74d58fc58e8e7bab25809b
+Target Environment (How do we run the file?): Should work on Linux with awk and wget installed, chmod a+x the file and run with: ./filename.awk
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): IyEvdXNyL2Jpbi9hd2sgLWYKQkVHSU57c3lzdGVtKCJ3Z2V0IC1xIGh0dHBzOi8vYmluYXJ5LmdvbGYvNS81Iik7Z2V0bGluZSBhPCI1IjtwcmludCBhfQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-23
+SHA256: e34bbfc868b8a7655aa443ce6366284d905b86abaa74d58fc58e8e7bab25809b
+Score: 4008
+Note: Verified on Debian 12 and mawk 1.3.4
+---END VERIFICATION---
