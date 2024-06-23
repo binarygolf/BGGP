@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 22/06/2024
+BGGP Challenge Number: 5
+Author: Shai S.
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @theXappy (twitter)
+Target File Type: Powershell (.ps1)
+File Size: 88 bytes
+SHA256 Hash: 5742cdaa2ae111cd0335a3572ef93fcd59b8502f156f4369548e3a64b846a245
+Target Environment (How do we run the file?): Windows 7 and up. Might need to set `Set-ExecutionPolicy unrestricted` once to run powershell scripts.
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): W1N5c3RlbS5UZXh0LkVuY29kaW5nXTo6VVRGOC5HZXRTdHJpbmcoKEludm9rZS1XZWJSZXF1ZXN0ICJiaW5hcnkuZ29sZi81LzUiKS5Db250ZW50KQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-23
+SHA256: 5742cdaa2ae111cd0335a3572ef93fcd59b8502f156f4369548e3a64b846a245
+Score: 4008
+Note: Tested on Win10 Pro 22H2
+---END VERIFICATION---
