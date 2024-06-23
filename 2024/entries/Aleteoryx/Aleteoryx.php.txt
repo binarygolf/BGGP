@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024/22/6
+BGGP Challenge Number: 5
+Author: Aleteoryx
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @admin@mk.aleteoryx.me
+Target File Type: PHP
+File Size: 42 bytes
+SHA256 Hash: 3b5ed161bf775ba2b19e21765480922163ae44ff8557766c9c4aabe37481d04f
+Target Environment (How do we run the file?): Tested in PHP 8.3.8, should be good for a bunch of earlier versions
+Any additional info?: -
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: -
+File contents (base64 encoded please): PD9waHAgcmVhZGZpbGUoJ2h0dHBzOi8vYmluYXJ5LmdvbGYvNS81Jyk7
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: 0xNinja
+Review Date: 23/06/2024
+SHA256: 3b5ed161bf775ba2b19e21765480922163ae44ff8557766c9c4aabe37481d04f
+Score: 4054
+Note:
+---END VERIFICATION---
