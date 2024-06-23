@@ -63,6 +63,15 @@ HyperText Markup Language is the standard markup language for documents designed
 | 80 | [mattpass](./entries/mattpass/mattpass.html.txt) 👑 | .html | | |
 | 95 | [yael333](./entries/yael333/yael333.html.txt) | .html | | |
 
+### NodeJS
+
+Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.
+
+#### Runs With CLI Arguments
+| Size | Author                                    | File Type | Writeup | Note |
+|------|-------------------------------------------|-----------|---------|------|
+| 23   | [pr3y](./entries/pr3y/pr3y.nodejs.txt) 👑 | .js       | | Uses command line arguments to pass the url and code |
+
 ### Nmap
 
 The Nmap Scripting Engine (NSE) allows users to write (and share) simple scripts (using the Lua programming language ) to automate a wide variety of networking tasks.

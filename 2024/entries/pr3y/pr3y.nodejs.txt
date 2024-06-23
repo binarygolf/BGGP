@@ -1,0 +1,22 @@
+---BEGIN BGGPx---
+Submit Date: 22/6/2024
+BGGP Challenge Number: 5
+Author: pr3y
+Contact Info (Optional):
+Online Presence (Website/Social Media):
+Target File Type: js
+File Size: 23B
+SHA256 Hash: 7a0034fc83723ef0fb09c14b2a2c945adaab3966cb371ad451cb3888fc8f3d77
+Target Environment (How do we run the file?): save the file like 5.js and run with this argument `node 5.js "require('https').get('https://binary.golf/5/5', (r) => { r.setEncoding('utf8'); let x = ''; r.on('data', (chunk) => { x += chunk; }); r.on('end', () => { console.log(x); }); });"`
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): ZXZhbChwcm9jZXNzLmFyZ3ZbMl0pOwo=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-23
+Score: 4,073
+Note: Verified on Ubuntu 22 with nodejs v12.22.9
+---END VERIFICATION---
