@@ -1,0 +1,60 @@
+Without Commandline Arguments
+
+---BEGIN BGGPx---
+Submit Date: 22/06/2024 2PM gmt+2
+BGGP Challenge Number: 5
+Author: riesha
+Contact Info (Optional): 
+Online Presence (Website/Social Media): twitter @lysacht
+Target File Type: exs (Elixir script)
+File Size: 118 bytes
+SHA256 Hash: 3e5497f435f83e5a17b51a45df8276badb10252e7859bb26de04dc0fe039ce29
+Target Environment (How do we run the file?):  ```
+Erlang/OTP 26 [erts-14.2.1] [source] [64-bit] [smp:12:12] [ds:12:12:10] [async-threads:1] [jit:ns]
+
+Mix 1.15.7 (compiled with Erlang/OTP 24)```
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+![image](https://github.com/binarygolf/BGGP/assets/58556779/bcb9d1a0-f441-43e0-94b8-e009f9574167)
+
+Link to writeup, if any: 
+File contents (base64 encoded please): OmluZXRzLnN0YXJ0KCk7OnNzbC5zdGFydCgpO3tfLCB7XywgXywgYX19ID0gOmh0dHBjLnJlcXVlc3QoOmdldCwge35jImh0dHA6Ly9iaW5hcnkuZ29sZi81LzUiLCBbXX0sIFtdLCBbXSk7SU8ucHV0cyhhKQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-23
+SHA256: 3e5497f435f83e5a17b51a45df8276badb10252e7859bb26de04dc0fe039ce29
+Score: 3978
+Note: Verified on Debian 12 and Mix 1.14.0 (compiled with Erlang/OTP 24). Works as expected.
+---END VERIFICATION---
+
+With Commandline Arguments
+
+---BEGIN BGGPx---
+Submit Date: 22/06/2024 3pm
+BGGP Challenge Number: 5
+Author:  riesha
+Contact Info (Optional): 
+Online Presence (Website/Social Media):  twitter @lysacht
+Target File Type: elixir .exs
+File Size: 105
+SHA256 Hash: bb536affdafa28c33da30c9c698f6c614a626a5634219a08a2c8e1328b8613d9
+Target Environment (How do we run the file?): Erlang/OTP 26 [erts-14.2.1] [source] [64-bit] [smp:12:12] [ds:12:12:10] [async-threads:1] [jit:ns]
+
+Mix 1.15.7 (compiled with Erlang/OTP 24)
+Any additional info?: mix run --no-mis-exs file.exs https://binary.golf/5/5
+Link to PoC video, screenshot, or console output, if any: 
+![image](https://github.com/binarygolf/BGGP/assets/58556779/9c710d90-9f4a-4b76-b93f-352373984c65)
+
+Link to writeup, if any: 
+File contents (base64 encoded please): OmluZXRzLnN0YXJ0KCk7OnNzbC5zdGFydCgpO3tfLCB7XywgXywgYX19ID0gOmh0dHBjLnJlcXVlc3QoOmdldCwge1N5c3RlbS5hcmd2KCksIFtdfSwgW10sIFtdKTtJTy5wdXRzKGEp
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-23
+SHA256: bb536affdafa28c33da30c9c698f6c614a626a5634219a08a2c8e1328b8613d9
+Score: 3991
+Note: Verified on Debian 12 and Mix 1.14.0 (compiled with Erlang/OTP 24). Works as expected.
+---END VERIFICATION---
