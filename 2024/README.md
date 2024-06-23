@@ -38,6 +38,14 @@ Elixir is a dynamic, functional language that runs on the Erlang VM, known for c
 |--------|------|-----------|---------|------|
 | 118 | [riesha](./entries/riesha/riesha.exs.txt) 👑 | .exs | | |
 
+### Epub
+
+E-book file format standard by the International Digital Publishing Forum
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 725 | [vvx7](./entries/vvx7/vvx7.epub.txt) 👑 | .epub | [Writeup](https://vvx7.io/posts/2024/06/bggp5-epub/) | |
+
 ### HTML
 
 HyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser. 
