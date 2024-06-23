@@ -8,6 +8,21 @@ June 21 2024 to September 6 2024
 
 Here are the entries for this year
 
+### Elixir
+
+Elixir is a dynamic, functional language that runs on the Erlang VM, known for creating low-latency, distributed, and fault-tolerant systems.
+
+#### Runs With CLI Arguments
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 105 | [riesha](./entries/riesha/riesha.exs.txt) 👑 | .exs | | Passes domain in via commandline argument |
+
+#### Runs Without CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 118 | [riesha](./entries/riesha/riesha.exs.txt) 👑 | .exs | | |
+
 ### HTML
 
 HyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser. 
