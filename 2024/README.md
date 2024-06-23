@@ -23,6 +23,14 @@ AWK is a domain-specific language designed for text processing and typically use
 |--------|------|-----------|---------|------|
 | 88 | [krishean](./entries/krishean/krishean.awk.txt) 👑 | .awk | | |
 
+### CMake
+
+CMake is cross-platform, free, and open-source software for build automation, testing, packaging and installation of software by using a compiler-independent method.
+
+| Size | Author                                         | File Type | Writeup | Note |
+|------|------------------------------------------------|-----------|---------|------|
+| 283  | [0xca7](./entries/0xca7/0xca7.CMakeLists.txt) 👑 | .txt      | | |
+
 ### Elixir
 
 Elixir is a dynamic, functional language that runs on the Erlang VM, known for creating low-latency, distributed, and fault-tolerant systems.

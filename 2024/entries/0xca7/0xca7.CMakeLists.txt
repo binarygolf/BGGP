@@ -1,0 +1,28 @@
+---BEGIN BGGPx---
+Submit Date: 23 June 2024
+BGGP Challenge Number: 5
+Author: 0xca7
+Contact Info (Optional):
+Online Presence (Website/Social Media): 0xca7.github.io
+Target File Type: CMakeLists.txt
+File Size: 283 bytes
+SHA256 Hash: 27a46761d80b58565970b941d2f0e8f26626e4b3756705a0d121bb8271c0a0f2
+Target Environment (How do we run the file?): tested on Linux with cmake version 2.38.3 requires cmake >= 2.38
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any: https://0xca7.github.io/posts/bggp5/
+File contents (base64 encoded please):
+Y21ha2VfbWluaW11bV9yZXF1aXJlZChWRVJTSU9OIDMuMjgpCmluY2x1ZGUoRmV0Y2hDb250ZW50
+KQpGZXRjaENvbnRlbnRfRGVjbGFyZShiIFVSTCBodHRwczovL2JpbmFyeS5nb2xmLzUvNSBET1dO
+TE9BRF9OT19FWFRSQUNUIFRSVUUpCkZldGNoQ29udGVudF9NYWtlQXZhaWxhYmxlKGIpCmV4ZWN1
+dGVfcHJvY2VzcyAoQ09NTUFORCBiYXNoIC1jICJjYXQgX2RlcHMvYi1zdWJidWlsZC9iLXBvcHVs
+YXRlLXByZWZpeC9zcmMvNSIgT1VUUFVUX1ZBUklBQkxFIG8pCk1FU1NBR0UoSU5GTyAke299KQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-23
+SHA256: 27a46761d80b58565970b941d2f0e8f26626e4b3756705a0d121bb8271c0a0f2
+Score: 3818
+Note: Verified on Ubuntu 22 with cmake 3.29.3
+---END VERIFICATION---
