@@ -1,4 +1,28 @@
 ---BEGIN BGGPx---
+Submit Date: 2024/6/22
+BGGP Challenge Number: 5
+Author: Aleteoryx
+Contact Info (Optional): -
+Online Presence (Website/Social Media): @admin@mk.aleteoryx.me
+Target File Type: PHP
+File Size: 39 bytes
+SHA256 Hash: 5f2b5a19df7592f1ccbd13a57d08e1883eebdcf91b067b8648949170ab285ccf
+Target Environment (How do we run the file?): tested in PHP 8.3.8, should be good a ways back
+Any additional info?: Requires php.ini option `allow_url_include` to be enabled
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: -
+File contents (base64 encoded please): PD9waHAgaW5jbHVkZSdodHRwczovL2JpbmFyeS5nb2xmLzUvNSc7
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-23
+SHA256: 5f2b5a19df7592f1ccbd13a57d08e1883eebdcf91b067b8648949170ab285ccf
+Score: 4057
+Note: Tested on Kali 2024.3 Had to enable allow_uri_include in /etc/php/8.2/cli/php.ini, then worked as expected.
+---END VERIFICATION---
+
+---BEGIN BGGPx---
 Submit Date: 2024/22/6
 BGGP Challenge Number: 5
 Author: Aleteoryx
