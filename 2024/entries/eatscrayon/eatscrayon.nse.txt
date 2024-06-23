@@ -1,0 +1,24 @@
+---BEGIN BGGPx---
+Submit Date: 6/23/24
+BGGP Challenge Number: 5
+Author: eatscrayon
+Contact Info (Optional): 
+Online Presence (Website/Social Media): 
+Target File Type: nmap nse script
+File Size: 98
+SHA256 Hash: 519a6c515c7b135bc29795af361f763a66ebe8d45f6b1f3ba940ea28439f4db7
+Target Environment (How do we run the file?): Save as bggp5.nse then run:  nmap 127.0.0.1 -p 69 --script=bggp5
+Any additional info?: Test using Nmap 7.95
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): 
+aD1yZXF1aXJlImh0dHAiZnVuY3Rpb24gcHJlcnVsZSgpcj1oLmdldCgiYmluYXJ5LmdvbGYiLDQ0MywiLzUvNSIpcmV0dXJuIHIuYm9keSBlbmQgYWN0aW9uPXByZXJ1bGU=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-23
+SHA256: 519a6c515c7b135bc29795af361f763a66ebe8d45f6b1f3ba940ea28439f4db7
+Score: 3998
+Note: Tested on Kali 2024.3 with Nmap 7.94SVN. Works as expected.
+---END VERIFICATION---
