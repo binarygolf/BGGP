@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date:  23 June 2024
+BGGP Challenge Number: 5
+Author:  dtmsecurity
+Contact Info (Optional): https://x.com/dtmsecurity
+Online Presence (Website/Social Media):  dtmsecurity
+Target File Type:  .sh
+File Size:  13B
+SHA256 Hash:  ef1ff3b1a0961cb8b8e1f4cbcc463975395afebfa9e5f094f63a9f7e0f1f28af
+Target Environment (How do we run the file?):  Linux
+Any additional info?:  Just chmod +x it :)
+Link to PoC video, screenshot, or console output, if any:  n/a
+Link to writeup, if any:
+File contents (base64 encoded please):  Y3VybCAtTCA3Zi51aw==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-23
+SHA256: ef1ff3b1a0961cb8b8e1f4cbcc463975395afebfa9e5f094f63a9f7e0f1f28af
+Score: 4,083
+Note: Verified on Ubuntu 22
+---END VERIFICATION---
