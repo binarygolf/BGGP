@@ -55,6 +55,14 @@ HyperText Markup Language is the standard markup language for documents designed
 | 80 | [mattpass](./entries/mattpass/mattpass.html.txt) 👑 | .html | | |
 | 95 | [yael333](./entries/yael333/yael333.html.txt) | .html | | |
 
+### Nmap
+
+The Nmap Scripting Engine (NSE) allows users to write (and share) simple scripts (using the Lua programming language ) to automate a wide variety of networking tasks.
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 98 | [eatscrayon](./entries/eatscrayon/eatscrayon.nse.txt) 👑 | .nse | | nmap 127.0.0.1 -p 69 --script=bggp5 |
+
 ### Perl
 
 Perl is a high level programming language that was intended to be a general purpose scripting language for Unix systems.
