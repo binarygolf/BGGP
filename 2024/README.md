@@ -8,6 +8,21 @@ June 21 2024 to September 6 2024
 
 Here are the entries for this year
 
+### Awk
+
+AWK is a domain-specific language designed for text processing and typically used as a data extraction and reporting tool.
+
+#### Runs With CLI Arguments
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+|  |  |  | | |
+
+#### Runs Without CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 88 | [krishean](./entries/krishean/krishean.awk.txt) 👑 | .awk | | |
+
 ### Elixir
 
 Elixir is a dynamic, functional language that runs on the Erlang VM, known for creating low-latency, distributed, and fault-tolerant systems.
