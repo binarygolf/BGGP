@@ -34,6 +34,16 @@ Perl is a high level programming language that was intended to be a general purp
 | 7 | [vvx7](./entries/vvx7/vvx7.pl2.txt) 👑 | .pl | | Executes code in the filename |
 | 47 | [mauke](./entries/mauke/mauke.pl.txt) | .pl | | |
 
+### PHP
+
+PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
+
+#### Runs Without CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 42 | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.php.txt) 👑 | .php | | |
+
 ### Portable Executable (PE)
 
 Portable Executables are an exectuable format used in Windows and other platforms. There are different types of PEs which are noted. These are treated as distinct from the UEFI App category even though PEs can run on UEFI. See UEFI App for more info.
