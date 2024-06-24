@@ -80,6 +80,14 @@ The Nmap Scripting Engine (NSE) allows users to write (and share) simple scripts
 |--------|------|-----------|---------|------|
 | 98 | [eatscrayon](./entries/eatscrayon/eatscrayon.nse.txt) 👑 | .nse | | nmap 127.0.0.1 -p 69 --script=bggp5 |
 
+### ODS (OpenDocument Spreadsheet)
+
+The Open Document Spreadsheet (ODS) is an open, XML based file format for spreadsheets. 
+
+| Size | Author                                          | File Type | Writeup | Note |
+|------|-------------------------------------------------|-----------|---------|-----|
+| 720  | [koorogi](./entries/koorogi/koorogi.ods.txt) 👑 | .ods      | | |
+
 ### Perl
 
 Perl is a high level programming language that was intended to be a general purpose scripting language for Unix systems.

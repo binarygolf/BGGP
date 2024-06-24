@@ -1,0 +1,33 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-23
+BGGP Challenge Number: 5
+Author: Bobby Bingham
+Contact Info (Optional): koorogi@koorogi.info
+Online Presence (Website/Social Media): @koorogi@hachyderm.io
+Target File Type: ODS (OpenDocument Spreadsheet)
+File Size: 720 bytes
+SHA256 Hash: 708644cc8c899c1dd50e63ec11500ec768772de605e95ca62db4cc2905ff49ef
+Target Environment (How do we run the file?): Open in LibreOffice Calc (tested in version 24.2.4.2).  If prompted with a security warning that automatic update of external links has been disabled, click the "Allow Updating" button.  The content of the downloaded file should appear in cell A1.
+File contents (base64 encoded please):
+UEsDBBQAAgAIANeu11iItpQ3qAAAAAgBAAAVAAAATUVUQS1JTkYvbWFuaWZlc3QueG1sdY5BDoMg
+EEWvQmavtLuGiN31BO0BCIyVBAYCo9HbV01M2kW3P++//7v7EoOYsVSfSMO1vYBAssl5emt4PR/N
+De59Fw35ASuLjaaqYSqkkqm+KjIRq2KrUkZyyU4RidWBqbOldm3fDT5gg8RlFcMUQpMNjxokiIjO
+m4bXjBpMzsFbwz6RnMm1x0r7LW9rLmhcHREZ5D+tTcQ7vD35HWBcWG7pXpXnw/4DUEsDBBQAAgAI
+ANeu11jAp6YHOgEAACQDAAALAAAAY29udGVudC54bWyNUt1OgzAUfhXSC6MXUDVZYiqwO59AH6CU
+09Gk7cH2sMnb28EMY27Jrmg/vl9Cuf1xNttDiAZ9xV6KZ5aBV9gav6vY1+dH/sa2ddmiGhx4yhV6
+Ss8sqXys2BC8QBlNFF46iIKUwB78H11MNIFaGwViMp+Ru6WRRrtS0r1Kks1aqe+vm2SvrC7lQOgk
+GZVPNWJdngpls0HFppBcoR2cZwnV0hk7XuBH2TmQ9yGlBjIQk+SEHUxLXcU2xjNel/wUdCsx4GGJ
+OweXrHRbBx2BDsyuoysx/P/WBtsx2fUBZBs7AKpLmr3TYTUoo9kmv/JReCIvjVbMVe/FEqxNNI3B
+DVZWTItKoSucUQEjaioO0EQIe6Pg8eF7QHrviHrBeWO8DGOxQ6v5hm/md0/TzLMGyy2dVuP4PJhf
+/uv1L1BLAQIeAxQAAgAIANeu11iItpQ3qAAAAAgBAAAVAAAAAAAAAAEAAACkgQAAAABNRVRBLUlO
+Ri9tYW5pZmVzdC54bWxQSwECHgMUAAIACADXrtdYwKemBzoBAAAkAwAACwAAAAAAAAABAAAApIHb
+AAAAY29udGVudC54bWxQSwUGAAAAAAIAAgB8AAAAPgIAAAAA
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-23
+SHA256: 708644cc8c899c1dd50e63ec11500ec768772de605e95ca62db4cc2905ff49ef
+Score: 3376
+Note: Verified on Ubuntu 22.04.2 ARM64 with Libre Office 7.3.7.2
+---END VERIFICATION---
