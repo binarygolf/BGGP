@@ -63,6 +63,15 @@ HyperText Markup Language is the standard markup language for documents designed
 | 80 | [mattpass](./entries/mattpass/mattpass.html.txt) 👑 | .html | | |
 | 95 | [yael333](./entries/yael333/yael333.html.txt) | .html | | |
 
+### LaTeX
+
+LaTeX is a software system for typesetting documents. LaTeX markup describes the content and layout of the documents.
+
+#### Runs With CLI Arguments
+| Size | Author                                             | File Type | Writeup | Note                               |
+|------|----------------------------------------------------|-----------|---------|------------------------------------|
+| 66   | [luskabol](./entries/luskabol/luskabol.tex.txt) 👑 | .tex      | | Requires `--shell-escape` argument |
+
 ### NodeJS
 
 Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.

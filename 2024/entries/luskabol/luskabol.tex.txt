@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 06/24/2024
+BGGP Challenge Number: 5
+Author: Lucas Botelho
+Contact Info (Optional): @luskabol
+Online Presence (Website/Social Media): https://udp.re
+Target File Type: .tex
+File Size: 66 bytes
+SHA256 Hash: e7801f26581057748076a3256b67fdda9d39e38584d05ebfeadd51be0fb7a1f6
+Target Environment (How do we run the file?): `latex --shell-escape x.tex`
+Any additional info?: maybe you will need to press enter to see the response
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): XGJlZ2lue2RvY3VtZW50fQpcaW5wdXR7fCJjdXJsIGJpbmFyeS5nb2xmLzUvNSAtTCJ9ClxlbmR7ZG9jdW1lbnR9
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-24
+SHA256: e7801f26581057748076a3256b67fdda9d39e38584d05ebfeadd51be0fb7a1f6
+Score: 4030
+Note: Verified on Ubuntu 22.04.2 ARM64 with pdfTeX 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian)
+---END VERIFICATION---
