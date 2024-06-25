@@ -13,9 +13,9 @@ Here are the entries for this year
 AWK is a domain-specific language designed for text processing and typically used as a data extraction and reporting tool.
 
 #### Runs With CLI Arguments
-| Size | Author | File Type | Writeup | Note |
-|--------|------|-----------|---------|------|
-|  |  |  | | |
+| Size | Author                                        | File Type | Writeup | Note                                |
+|------|-----------------------------------------------|-----------|---------|-------------------------------------|
+| 34   | [bah](./entries/bah/bah.awk.txt) 👑 | .awk | | Runs an awk file via `-E` argument. |
 
 #### Runs Without CLI Arguments
 

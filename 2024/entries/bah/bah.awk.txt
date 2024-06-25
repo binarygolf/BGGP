@@ -1,0 +1,25 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-24
+BGGP Challenge Number: 5
+Author: bah
+Contact Info (Optional): bahorn in the BGGP discord.
+Online Presence (Website/Social Media): b.horn.uk
+Target File Type: AWK
+File Size: 34
+SHA256 Hash: fea77b17a6168355e6d98a6ff489dd471eebbe01a44f49e757489db0f18adecd
+Target Environment (How do we run the file?):
+`awk -E ./entry.awk  /etc/hostname`
+Linux, works on GNU awk and whatever version Alpine linux uses, just needs curl installed.
+Any additional info?: Just shelling out to curl. Turns out you don't need BEGIN{}, etc, as the code will run for each line passed (hense the use of /etc/hostname in the example, which has one line!)
+Link to PoC video, screenshot, or console output, if any: https://github.com/binarygolf/BGGP/assets/22912854/41b9845d-d82c-47a7-b60a-3908067ae6aa
+Link to writeup, if any:
+File contents (base64 encoded please): c3lzdGVtKCJjdXJsIC1MIGJpbmFyeS5nb2xmLzUvNSIpCg==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-24
+SHA256: fea77b17a6168355e6d98a6ff489dd471eebbe01a44f49e757489db0f18adecd
+Score: 4,062
+Note: Verified on Ubuntu 22.04.2 ARM64 with GNU Awk 5.1.0.
+---END VERIFICATION---
