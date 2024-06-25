@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-25
+BGGP Challenge Number: 5
+Author: Kasumivero
+Contact Info (Optional):
+Online Presence (Website/Social Media):  kasumivero@mastodon.social
+Target File Type: SVG
+File Size: 125 bytes
+SHA256 Hash: 68cd6ad6de94b7e204a3003d6cadc251433a3c40f791303f5fa6a59f27e88379
+Target Environment (How do we run the file?): Open with a web browser (tested with Safari, Google Chrome and Microsoft Edge)
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxzY3JpcHQ+ZmV0Y2goImh0dHBzOi8vYmluYXJ5LmdvbGYvNS81IikudGhlbihyPT5yLnRleHQoKSkudGhlbihyPT5hbGVydChyKSk8L3NjcmlwdD4=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-25
+SHA256: 68cd6ad6de94b7e204a3003d6cadc251433a3c40f791303f5fa6a59f27e88379
+Score: 3,971
+Note: Verified on Ubuntu 22.04.2 ARM64 with Firefox 115.0.2.
+---END VERIFICATION---

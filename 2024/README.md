@@ -202,5 +202,6 @@ Shell scripts can be invoked in numerous ways, so we have categories for both ty
 Scalable Vector Graphics is an XML-based vector image format for defining two-dimensional graphics, having support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium since 1999.
 
 | Size | Author | File Type | Writeup | Note |
-|--------|------|-----------|---------|------|
-| 248 | [vvx7](./entries/vvx7/vvx7.svg.txt) 👑 | .svg | | Needs to be served and viewed in Firefox. |
+|------|------|-----------|---------|------|
+| 125  | [vvx7](./entries/Kasumivero/Kasumivero.svg.txt) 👑 | .svg | | Needs to be served and viewed in Firefox. |
+| 248  | [vvx7](./entries/vvx7/vvx7.svg.txt) | .svg | | Needs to be served and viewed in Firefox. |
