@@ -78,7 +78,7 @@ LaTeX is a software system for typesetting documents. LaTeX markup describes the
 #### Runs With CLI Arguments
 | Size | Author                                             | File Type | Writeup | Note                               |
 |------|----------------------------------------------------|-----------|---------|------------------------------------|
-| 66   | [luskabol](./entries/luskabol/luskabol.tex.txt) 👑 | .tex      | | Requires `--shell-escape` argument |
+| 64   | [luskabol](./entries/luskabol/luskabol.tex.txt) 👑 | .tex      | | Requires `--shell-escape` argument |
 
 ### NodeJS
 
