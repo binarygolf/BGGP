@@ -63,6 +63,14 @@ HyperText Markup Language is the standard markup language for documents designed
 | 80 | [mattpass](./entries/mattpass/mattpass.html.txt) 👑 | .html | | |
 | 95 | [yael333](./entries/yael333/yael333.html.txt) | .html | | |
 
+### Julia
+
+Julia is a general-purpose programming language, most commonly used for numerical analysis and computational science.
+
+| Size | Author                                              | File Type | Writeup | Note |
+|------|-----------------------------------------------------|-----------|---------|------|
+| 30   | [ luskabol ](./entries/luskabol/luskabol.jl.txt) 👑 | .html | | |
+
 ### LaTeX
 
 LaTeX is a software system for typesetting documents. LaTeX markup describes the content and layout of the documents.

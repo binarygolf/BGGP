@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 06/24/2024
+BGGP Challenge Number: 5
+Author: Lucas Botelho
+Contact Info (Optional):
+Online Presence (Website/Social Media): @luskabol
+Target File Type: .jl
+File Size: 30 bytes
+SHA256 Hash: 3465b201792a983974ff8dd5547d223d097a9fe2fc6a9dae9e0b9e6824f973c4
+Target Environment (How do we run the file?): julia x.jl
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): cnVuKGBjdXJsIC1MIGJpbmFyeS5nb2xmLzUvNWAp
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-25
+SHA256: 3465b201792a983974ff8dd5547d223d097a9fe2fc6a9dae9e0b9e6824f973c4
+Score: 4066
+Note: Verified on Ubuntu 22.04.2 ARM64 with Julia 1.10.4.
+---END VERIFICATION---
