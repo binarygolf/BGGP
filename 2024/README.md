@@ -80,6 +80,15 @@ LaTeX is a software system for typesetting documents. LaTeX markup describes the
 |------|----------------------------------------------------|-----------|---------|------------------------------------|
 | 64   | [luskabol](./entries/luskabol/luskabol.tex.txt) 👑 | .tex      | | Requires `--shell-escape` argument |
 
+### Lua
+
+Lua is a lightweight, high-level programming language designed primarily for embedded use in applications.
+
+#### Runs With CLI Arguments
+| Size | Author                                                                  | File Type | Writeup | Note                               |
+|------|-------------------------------------------------------------------------|-----------|---------|------------------------------------|
+| 35   | [Rodrigo Mamedio](./entries/Rodrigo Mamedio/Rodrigo Mamedio.lua.txt) 👑 | .lua      | | Passes the command via argument, needs curl in path |
+
 ### NodeJS
 
 Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.
