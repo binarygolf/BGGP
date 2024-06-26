@@ -228,5 +228,6 @@ Scalable Vector Graphics is an XML-based vector image format for defining two-di
 
 | Size | Author | File Type | Writeup | Note |
 |------|------|-----------|---------|------|
-| 125  | [Kasumivero](./entries/Kasumivero/Kasumivero.svg.txt) 👑 | .svg | | Needs to be served and viewed in Firefox. |
+| 111  | [avlidienbrunn](./entries/avlidienbrunn/avlidienbrunn.svg.txt) 👑 | .svg | | Needs to be served and viewed in Firefox. |
+| 125  | [Kasumivero](./entries/Kasumivero/Kasumivero.svg.txt) | .svg | | Needs to be served and viewed in Firefox. |
 | 248  | [vvx7](./entries/vvx7/vvx7.svg.txt) | .svg | | Needs to be served and viewed in Firefox. |

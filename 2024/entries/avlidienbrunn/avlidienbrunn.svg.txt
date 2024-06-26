@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-26
+BGGP Challenge Number: 5
+Author: avlidienbrunn
+Contact Info (Optional):
+Online Presence (Website/Social Media): @avlidienbrunn
+Target File Type: SVG
+File Size: 111 bytes
+SHA256 Hash: bcab8969e27efa53dc80ab6920c386fd84d596598acad57b2cb614d221361eb1
+Target Environment (How do we run the file?): Open in browser (tested in chromium, firefox)
+Any additional info?: golfed prev shortest by skipping //, using onload and self closing tag
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIG9ubG9hZD0iZmV0Y2goJ2h0dHBzOmJpbmFyeS5nb2xmLzUvNScpLnRoZW4oZT0+ZS50ZXh0KCkpLnRoZW4oYWxlcnQpIi8+
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-26
+SHA256: bcab8969e27efa53dc80ab6920c386fd84d596598acad57b2cb614d221361eb1
+Score: 3,985
+Note: Verified on Ubuntu 22.04.2 ARM64 with firefox 115.0.2
+---END VERIFICATION---
