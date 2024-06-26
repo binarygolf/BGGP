@@ -102,7 +102,8 @@ Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 68 | [mattpass](./entries/mattpass/mattpass.js.txt) 👑 | .js | | |
+| 51 | [luskabol](./entries/luskabol/luskabol.js.txt) 👑 | .js | | Uses an http link shortener |
+| 68 | [mattpass](./entries/mattpass/mattpass.js.txt) | .js | | |
 
 ### Nmap
 
