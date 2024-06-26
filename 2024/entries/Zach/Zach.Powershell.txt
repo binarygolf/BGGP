@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 6/25/24
+BGGP Challenge Number: 5
+Author: Zach
+Contact Info (Optional): 
+Online Presence (Website/Social Media): 
+Target File Type: Powershell/PS1
+File Size: 6 bytes
+SHA256 Hash: CBCDA1E8552C19CBE38E4CA98AAE1A85760EE76E7F67340228D3A84CD57071FB
+Target Environment (How do we run the file?): $Env:F=iex $("iwr binary.golf/5/5 -O f;cat f");.\golf.ps1
+Any additional info?: It uses a custom environment variable F, the invoke-webrequest commandlet, and local file f
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): JEVudjpG
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 25-june
+SHA256: CBCDA1E8552C19CBE38E4CA98AAE1A85760EE76E7F67340228D3A84CD57071FB
+Score: 4090
+Note:
+---END VERIFICATION---
