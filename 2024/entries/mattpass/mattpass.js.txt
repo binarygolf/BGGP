@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 24th June
+BGGP Challenge Number: 5
+Author: mattpass
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @mattpass (X)
+Target File Type: JavaScript
+File Size: 68 bytes
+SHA256 Hash: 063cf589140aa62ce20f66432ef75e7ed975ed159b4b4d50373051c9d045365d
+Target Environment (How do we run the file?): Any Linux distro with node installed
+Any additional info?: Can run JavaScript files via node command, eg save contents in `5.js` and run `node 5.js` 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): ZmV0Y2goImh0dHBzOi8vYmluYXJ5LmdvbGYvNS81IikudGhlbihjPT5jLnRleHQoKSkudGhlbihjb25zb2xlLmxvZyk=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-25
+SHA256: 063cf589140aa62ce20f66432ef75e7ed975ed159b4b4d50373051c9d045365d
+Score: 4028
+Note: Verified on Kali 2023.4 with Node v18.20.1
+---END VERIFICATION---
