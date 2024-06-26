@@ -98,6 +98,12 @@ Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a
 |------|-------------------------------------------|-----------|---------|------|
 | 23   | [pr3y](./entries/pr3y/pr3y.nodejs.txt) 👑 | .js       | | Uses command line arguments to pass the url and code |
 
+#### Runs Without CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 68 | [mattpass](./entries/mattpass/mattpass.js.txt) 👑 | .js | | |
+
 ### Nmap
 
 The Nmap Scripting Engine (NSE) allows users to write (and share) simple scripts (using the Lua programming language ) to automate a wide variety of networking tasks.
