@@ -165,7 +165,7 @@ PowerShell scripts can be invoked in numerous ways, so we have categories for bo
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-|  |  |  | |  |
+| 6 | [Zach](./entries/Zach/Zach.Powershell.txt) 👑 | .ps1 | | Requires setting an environment variable to hold the actual code |
 
 #### Runs Without CLI Arguments
 
