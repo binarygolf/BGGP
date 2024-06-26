@@ -152,10 +152,11 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 
 Portable Executables are an exectuable format used in Windows and other platforms. There are different types of PEs which are noted. These are treated as distinct from the UEFI App category even though PEs can run on UEFI. See UEFI App for more info.
 
-| Size | Author | File Type | Writeup | Note |
-|--------|------|-----------|---------|------|
-| 399 | [kspalaiologos](./entries/kspalaiologos/kspalaiologos.pe.txt) 👑 | PE | | |
-| 712 | [fliermate](./entries/fliermate/fliermate.exe.txt) | PE | [Source Code](https://github.com/flier-mate/BGGP5/blob/main/5.asm) | x86 PE |
+| Size | Author                                                          | File Type | Writeup | Note |
+|------|-----------------------------------------------------------------|-----------|---------|------|
+| 345  | [frank2](./entries/frank2/frank2.exe.txt) 👑                    | PE | | |
+| 399  | [kspalaiologos](./entries/kspalaiologos/kspalaiologos.pe.txt) | PE | | |
+| 712  | [fliermate](./entries/fliermate/fliermate.exe.txt)              | PE | [Source Code](https://github.com/flier-mate/BGGP5/blob/main/5.asm) | x86 PE |
 
 ### PowerShell Script
 

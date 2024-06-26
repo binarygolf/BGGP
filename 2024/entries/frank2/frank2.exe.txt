@@ -1,0 +1,30 @@
+---BEGIN BGGPx---
+Submit Date: 6/25/24
+BGGP Challenge Number: 5
+Author: frank2/Amethyst Basilisk
+Contact Info (Optional):
+Online Presence (Website/Social Media): @drgn.mom on BlueSky, @amethyst@haunted.computer on Mastodon
+Target File Type: Windows Portable Executable
+File Size: 345b
+SHA256 Hash: 04de05ed71fddabaa286f7dcc674b72349b98e50ae4a9e0ea0a9826d7086951f
+Target Environment (How do we run the file?): Windows 10 updated after December 19, 2017
+Any additional info?: I am totally part of the curl meta for this challenge.
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any: Pending, I have to set up a new blog, I hate my WordPress
+File contents (base64 encoded please): TVoAAFBFAABkhgAAb2FkTHlzdGV4aXQAAAACAAsCQkJ1cmxtb24A7+++rd6sAAAA776t3gAAQAAA
+AAAABAAAAAQAAABtc3ZjcnQA7wQA774AAAAAABAAAEAAAADvvq3eAwAAAOodrQsAAAAA6h2tCwAA
+AADqHa0LAAAAAOodrQsAAAAA776t3gAAAABjdXJsIC1MIGh0dHBzOi8vYmluYXJ5LmdvbGYvNS81
+AEFUuwAAQABlTIskJWAAAABJi0QkGEiLQBBIiwBIiwBIjbsIAQAASItoMIuLDAAAAP/XSI2LRAAA
+AP/QSInFi4sQAAAA/9dIjYuMAAAA/9CLixQAAAD/10gxyf/QSYnoRYtAPEkB6EWLgIgAAABJAehF
+i1AgSQHqTTHkSDHAR4ssokkB7Un/xUE7TQB0BUn/xOvrRYtQJEkB6kMPtwRiRYtQHEkB6kGLBIJI
+AejD
+
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 25-june
+SHA256: 04de05ed71fddabaa286f7dcc674b72349b98e50ae4a9e0ea0a9826d7086951f
+Score: 3751
+Note: score subject to change if blog is produced before deadline
+---END VERIFICATION---
