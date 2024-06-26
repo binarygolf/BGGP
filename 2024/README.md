@@ -148,6 +148,7 @@ Portable Executables are an exectuable format used in Windows and other platform
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 399 | [kspalaiologos](./entries/kspalaiologos/kspalaiologos.pe.txt) 👑 | PE | | |
+| 712 | [fliermate](./entries/fliermate/fliermate.exe.txt) | PE | [Source Code](https://github.com/flier-mate/BGGP5/blob/main/5.asm) | x86 PE |
 
 ### PowerShell Script
 
