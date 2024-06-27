@@ -130,6 +130,7 @@ Perl is a high level programming language that was intended to be a general purp
 |--------|------|-----------|---------|------|
 | 8 | [mauke](./entries/mauke/mauke.pl2.txt) 👑 | .pl | | Uses command line arguments to pass the url and code |
 | 18 | [vvx7](./entries/vvx7/vvx7.pl.txt) | .pl | | Uses command line arguments and environment variables |
+| 41 | [airencracken](./entries/airencracken/airencracken.pl.txt) | .pl | | Uses command line arguments to pass url and load modules |
 
 #### Runs Without CLI Arguments
 
