@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 6/21/2024
+BGGP Challenge Number: 5
+Author: airencracken
+Contact Info (Optional): nothx
+Online Presence (Website/Social Media): meh
+Target File Type: perl
+File Size: 43 (according to stat)
+SHA256 Hash: 9ad487ca79be4faccc302eb6651df4acab2b683d37c528a0217980b90e5dd887
+Target Environment (How do we run the file?): perl -MHTTP::Tiny script.pl "http://binary.golf/5/5"
+Any additional info?: idk, should work?
+Link to PoC video, screenshot, or console output, if any: nope
+Link to writeup, if any: nah
+File contents (base64 encoded please): ZGllQHtIVFRQOjpUaW55LT5uZXctPmdldChwb3ApfXtjb250ZW50fQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: lenartlola
+Review Date: 27-06-2024
+SHA256: 9ad487ca79be4faccc302eb6651df4acab2b683d37c528a0217980b90e5dd887
+Score: 4055
+Note: according to stat the file is 41 bytes on my machine
+---END VERIFICATION---
