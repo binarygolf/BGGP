@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-26
+BGGP Challenge Number: 5
+Author: Krishean
+Contact Info (Optional):
+Online Presence (Website/Social Media): https://tech.lgbt/@krishean
+Target File Type: PHP
+File Size: 8 bytes
+SHA256 Hash: 5f84dd4ae0e3cd6fe2e64e978d6829467c3e22dd67601d41a89d4dd9986eafee
+Target Environment (How do we run the file?): requires curl to be installed, run with: `php -nr '$a="curl -sL https://binary.golf/5/5";include "filename.php";'`
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): PD89YCRhYDs=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-29
+SHA256: 5f84dd4ae0e3cd6fe2e64e978d6829467c3e22dd67601d41a89d4dd9986eafee
+Score: 4088
+Note: Verified on Ubuntu 22.04.2 ARM64 with PHP 8.1.2-1ubuntu2.18
+---END VERIFICATION---
