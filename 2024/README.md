@@ -143,12 +143,17 @@ Perl is a high level programming language that was intended to be a general purp
 
 PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
 
-#### Runs Without CLI Arguments
+#### Runs With CLI Arguments
 
 | Size | Author                                               | File Type | Writeup | Note |
 |------|------------------------------------------------------|-----------|---------|------|
 | 8    | [Krishean](./entries/krishean/krishean.php.txt) 👑  | .php | | Uses command line arguments to pass the url and code |
-| 39   | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.php.txt) | .php | | Requires php.ini option `allow_url_include` to be enabled |
+
+#### Runs Without CLI Arguments
+
+| Size | Author                                              | File Type | Writeup | Note |
+|------|-----------------------------------------------------|-----------|---------|------|
+| 39   | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.php.txt) 👑 | .php | | Requires php.ini option `allow_url_include` to be enabled |
 
 ### Portable Executable (PE)
 
