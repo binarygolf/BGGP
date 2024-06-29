@@ -151,9 +151,10 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 
 #### Runs Without CLI Arguments
 
-| Size | Author                                              | File Type | Writeup | Note |
-|------|-----------------------------------------------------|-----------|---------|------|
-| 39   | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.php.txt) 👑 | .php | | Requires php.ini option `allow_url_include` to be enabled |
+| Size | Author                                             | File Type | Writeup | Note |
+|------|----------------------------------------------------|-----------|---------|------|
+| 37   | [Dur4ndal](./entries/Dur4ndal/Dur4ndal.php.txt) 👑 | .php | | Requires php.ini option `allow_url_include` to be enabled |
+| 39   | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.php.txt) | .php | | Requires php.ini option `allow_url_include` to be enabled |
 
 ### Portable Executable (PE)
 

@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 06/26/2024
+BGGP Challenge Number: 5
+Author: Dur4ndal
+Contact Info (Optional):
+Online Presence (Website/Social Media): @Dur4ndal
+Target File Type: PHP
+File Size: 37 bytes
+SHA256 Hash: 86df7aa122bcf66379ec765d7ac9c83149e0aac994a9dc8dc259d304fa93eaa7
+Target Environment (How do we run the file?): php challenge.php
+Any additional info?: Requires php.ini option `allow_url_include` to be enabled
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): PD89cmVxdWlyZSdodHRwczovL2JpbmFyeS5nb2xmLzUvNSc7Cg==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-29
+SHA256: 86df7aa122bcf66379ec765d7ac9c83149e0aac994a9dc8dc259d304fa93eaa7
+Score: 4,059
+Note: Verified on Ubuntu 22.04.2 ARM64 with PHP 8.1.2-1ubuntu2.18
+---END VERIFICATION---
