@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-26
+BGGP Challenge Number: 5
+Author: mebeim
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://mebeim.net
+Target File Type: PHP
+File Size: 26 bytes
+SHA256 Hash: d9e9a19ab73b411259425fb0c200aaf01c793355a1f9e904cfa0b6ec6b8ad3f8
+Target Environment (How do we run the file?): Needs `allow_url_include=1` in `php.ini`. Sample setup: `docker run --rm php:7 bash`, then in the Docker shell run `echo 'allow_url_include=1' > /usr/local/etc/php/php.ini`. Tested with PHP 7.4.33 and 8.3.8.
+Any additional info?: The file must be inside the absolute directory path `/binary.golf/5/5` and can have any name. Example: `mkdir -p /binary.golf/5/5`, then save to `/binary.golf/5/5/x.php` and run `php /binary.golf/5/5/x.php` or alternatively `cd /binary.golf/5/5; php x.php`.
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): PD9pbmNsdWRlImh0dHA6LyIuX19ESVJfXzs=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-29
+SHA256: d9e9a19ab73b411259425fb0c200aaf01c793355a1f9e904cfa0b6ec6b8ad3f8
+Score: 4070
+Note: Tested on Kali 2023.4. Requires short_open_tag = On in php.ini along with allow_url_include=1
+---END VERIFICATION---
