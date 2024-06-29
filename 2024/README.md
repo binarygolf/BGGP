@@ -55,6 +55,16 @@ E-book file format standard by the International Digital Publishing Forum
 |--------|------|-----------|---------|------|
 | 725 | [vvx7](./entries/vvx7/vvx7.epub.txt) 👑 | .epub | [Writeup](https://vvx7.io/posts/2024/06/bggp5-epub/) | |
 
+### Go
+
+Go is a statically typed, compiled high-level programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.
+
+Run from source with `go run`
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 138 | [airencracken](./entries/airencracken/airencracken.go.txt) 👑 | .go | | |
+
 ### HTML
 
 HyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser. 
