@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-26
+BGGP Challenge Number: 5
+Author: VVX7
+Contact Info (Optional): 
+Online Presence (Website/Social Media): 
+Target File Type: .html
+File Size: 76B
+SHA256 Hash: 5c0925672bb3d1220630886201b17d4dbdd1902168ba4da1c2057bd1cc429f02
+Target Environment (How do we run the file?): Ubuntu 22.04.2 ARM64. Open bggp5.html in firefox.
+Any additional info?: Use inline svg to load the BGGP5 challenge string.
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): PHN2ZyBvbmxvYWQ9ImZldGNoKCdodHRwczpiaW5hcnkuZ29sZi81LzUnKS50aGVuKGU9PmUudGV4dCgpKS50aGVuKGFsZXJ0KSIvPg==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-29
+SHA256: 5c0925672bb3d1220630886201b17d4dbdd1902168ba4da1c2057bd1cc429f02
+Score: 4020
+Note: Tested on Debian 12 with Firefox 115.12.0esr (64-bit)
+---END VERIFICATION---
