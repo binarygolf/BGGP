@@ -61,7 +61,8 @@ HyperText Markup Language is the standard markup language for documents designed
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 80 | [mattpass](./entries/mattpass/mattpass.html.txt) 👑 | .html | | |
+| 76 | [vvx7](./entries/vvx7/vvx7.html.txt) 👑 | .html | | |
+| 80 | [mattpass](./entries/mattpass/mattpass.html.txt)  | .html | | |
 | 95 | [yael333](./entries/yael333/yael333.html.txt) | .html | | |
 
 ### Julia
