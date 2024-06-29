@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-26
+BGGP Challenge Number: 5
+Author: haxrob
+Contact Info (Optional): 
+Online Presence (Website/Social Media): x.com/haxrob
+Target File Type: Elixir .exs
+File Size: 92 bytes
+SHA256 Hash: a51fdf67961bfc20586f487aa2f743d16cedb6711f0daf8e3523c2f5a81b80d8
+Target Environment (How do we run the file?): $ elixir file.exs
+Any additional info?: Tested on Elixir 1.17.1 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): OmluZXRzLnN0YXJ0KCk7OnNzbC5zdGFydCgpO3tfLHtfLF8sYX19PTpodHRwYy5yZXF1ZXN0KCJodHRwOi8vYmluYXJ5LmdvbGYvNS81Iik7SU8ucHV0cyhhKQo=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-29
+SHA256: a51fdf67961bfc20586f487aa2f743d16cedb6711f0daf8e3523c2f5a81b80d8
+Score: 4004
+Note: Tested on Debian 12 with Mix 1.14.0 (compiled with Erlang/OTP 24)
+---END VERIFICATION---
