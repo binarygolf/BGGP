@@ -44,7 +44,8 @@ Elixir is a dynamic, functional language that runs on the Erlang VM, known for c
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 118 | [riesha](./entries/riesha/riesha.exs.txt) 👑 | .exs | | |
+| 92 | [haxrob](./entries/haxrob/haxrob.exs.txt) 👑 | .exs | | |
+| 118 | [riesha](./entries/riesha/riesha.exs.txt)  | .exs | | |
 
 ### Epub
 
