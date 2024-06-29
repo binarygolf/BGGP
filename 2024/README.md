@@ -156,7 +156,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 | Size | Author                                             | File Type | Writeup | Note |
 |------|----------------------------------------------------|-----------|---------|------|
 | 26   | [mebeim](./entries/mebeim/mebeim.php.txt) 👑        | .php | | Requires `allow_url_include` and `short_path_on` in php.ini. File must be run from directory `/binary.golf/5/5` |
-| 37   | [Dur4ndal](./entries/Dur4ndal/Dur4ndal.php.txt)  | .php | | Requires php.ini option `allow_url_include` to be enabled |
+| 36   | [Dur4ndal](./entries/Dur4ndal/Dur4ndal.php.txt)  | .php | | Requires php.ini option `allow_url_include` and `short_open_tag` to be enabled |
 | 39   | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.php.txt) | .php | | Requires php.ini option `allow_url_include` to be enabled |
 
 ### Portable Executable (PE)
