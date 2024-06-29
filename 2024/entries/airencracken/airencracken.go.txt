@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 6/27/2024
+BGGP Challenge Number: 5
+Author: me
+Contact Info (Optional): nah
+Online Presence (Website/Social Media): no
+Target File Type: go
+File Size: 138 (according to stat)
+SHA256 Hash: c95de136a5f3fee073af13c89ec3881b7b82039c5a4eff7f671a7bc394e6ac99
+Target Environment (How do we run the file?): save file as whatever.go, then go run whatever.go
+Any additional info?: nah
+Link to PoC video, screenshot, or console output, if any: nope
+Link to writeup, if any: nah
+File contents (base64 encoded please): cGFja2FnZSBtYWluO2ltcG9ydCgiZm10IjtoIm5ldC9odHRwIjsiaW8iKTtmdW5jIG1haW4oKXtyLF86PWguR2V0KCJodHRwczovL2JpbmFyeS5nb2xmLzUvNSIpO3MsXzo9aW8uUmVhZEFsbChyLkJvZHkpO2ZtdC5QcmludGYoIiVzIixzKX0=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-29
+SHA256: c95de136a5f3fee073af13c89ec3881b7b82039c5a4eff7f671a7bc394e6ac99
+Score: 3958
+Note: Verified in Kali 2023.4 and go version go1.22.4 linux/amd64
+---END VERIFICATION---
