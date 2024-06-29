@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-28 14:59 GMT-3
+BGGP Challenge Number:5
+Author: Digoguenes
+Contact Info (Optional):
+Online Presence (Website/Social Media): MRSilva (HTB)
+Target File Type: PHP
+File Size: 30 bytes
+SHA256 Hash: 6279110962caf9c7974e081823d528cdc049dca72778dc16426c726f052737ab
+Target Environment (How do we run the file?): Tested with php 7.4.33, should work in any version
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): PD89YGN1cmwgLUxzIGJpbmFyeS5nb2xmLzUvNWA7
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-29
+SHA256: 6279110962caf9c7974e081823d528cdc049dca72778dc16426c726f052737ab
+Score: 4066
+Note: Tested on Kali 2023.4 PHP 8.2.10 (cli)
+---END VERIFICATION---
