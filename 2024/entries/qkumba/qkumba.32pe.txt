@@ -1,0 +1,27 @@
+---BEGIN BGGPx---
+Submit Date: 25-june
+BGGP Challenge Number: 5
+Author: qkumba
+Contact Info (Optional): peter.ferrie@gmail.com
+Online Presence (Website/Social Media): http://pferrie.epizy.com
+Target File Type: Portable Executable
+File Size: 268 bytes
+SHA256 Hash: 3ae04a2e3bef39b8779a4fc19874c422a573e20ce300b6f0daf4bb8917d92984
+Target Environment (How do we run the file?): run in Windows 10 or earlier
+Any additional info?: can run in 64-bit Windows, does not need 32-bit version
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: http://pferrie.epizy.com/misc/tmp/winpe.txt
+File contents (base64 encoded please): TVpQRlBFAABMAQAAAAAAAAAAAAAAAAAACAACAAsBl4tfPItcH3iLdB8g6wR8AAAAAf6LVB8k6wwA
+AEAABAAAAAQAAAAPtywXQkKtUQQAMww4M0w4BFnrBCwAAAB15usDAgAAi0QfHAH4kIsEqAH4BADD
+AAAAAAAAAAAAAItzDIt2DK2LMItGGLkABgMW6Iz///9QaG9uAABodXJsbVT/0LklNyIN6HT///+D
+7ECZUonnUlJX6BcAAABodHRwOi8vYmluYXJ5LmdvbGYvNS81AFL/0F5QUFVXVq3/UAyTaDMyAABo
+dXNlclT/V0xTU1dTuSwCFjHoJP///+hF/////9Dr/ipxa3VtYmEhKl==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-29
+SHA256: 3ae04a2e3bef39b8779a4fc19874c422a573e20ce300b6f0daf4bb8917d92984
+Score: 4852
+Note: Tested on Windows 10 21H2 and works as expected
+---END VERIFICATION---
