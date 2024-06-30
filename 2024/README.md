@@ -134,7 +134,6 @@ M3U (MP3 URL or Moving Picture Experts Group Audio Layer 3 Uniform Resource Loca
 
 Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.
 
-#### Runs With CLI Arguments
 | Size | Author                                    | File Type | Writeup | Note |
 |------|-------------------------------------------|-----------|---------|------|
 | 49   | [famfo](./entries/famfo/famfo.nix.txt) 👑 | .nix      | |  |
