@@ -1,0 +1,25 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-26
+BGGP Challenge Number: 5
+Author: mndz
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://linktr.ee/0x6d6e647a
+Target File Type: Linux ELF32 x86 (32-bit env)
+File Size: 89
+SHA256 Hash: e94a965694fef751238ff387bf61775ede1969115104e8ae8ee8079166b92f9b
+Target Environment (How do we run the file?): Expected environment is a 32-bit Linux with merge-usr file system layout so curl can be found at /bin/curl. Execute the file as follows: ./mndz.elf32 https://binary.golf/5/5.
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://github.com/0x6d6e647a/bggp-2024
+File contents (base64 encoded please): 
+f0VMRgEBAQCNTCQE6xIAAAIAAwABAAAACIACAC4AAAC7SoACAOstADQAIAABAAEAAAAAAAAAAIAC
+AACAAgBZAAAAWQAAAAUAAAAvYmluL2N1cmwAjUILzYA=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: 0xNinja
+Review Date: 2024-06-30
+SHA256: e94a965694fef751238ff387bf61775ede1969115104e8ae8ee8079166b92f9b
+Score: 5031
+Note: 
+---END VERIFICATION---
