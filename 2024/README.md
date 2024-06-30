@@ -55,6 +55,15 @@ E-book file format standard by the International Digital Publishing Forum
 |--------|------|-----------|---------|------|
 | 725 | [vvx7](./entries/vvx7/vvx7.epub.txt) 👑 | .epub | [Writeup](https://vvx7.io/posts/2024/06/bggp5-epub/) | |
 
+### Erlang
+
+Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine.
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 129 | [haxrob](./entries/haxrob/haxrob.erl.txt) 👑 | .erl | | |
+
+
 ### Go
 
 Go is a statically typed, compiled high-level programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.

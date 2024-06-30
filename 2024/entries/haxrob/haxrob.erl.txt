@@ -1,0 +1,26 @@
+---BEGIN BGGPx---
+Submit Date: 2024-05-26
+BGGP Challenge Number: 5
+Author: haxrob
+Contact Info (Optional): 
+Online Presence (Website/Social Media): x.com/haxrob
+Target File Type: .erl
+File Size: 129 bytes
+SHA256 Hash: 9fcd1be87a075c1f28dc579ff8cb7a38d50730bb5663e73f2ad57d515430d49c
+Target Environment (How do we run the file?):  
+1) File must be named `x.erl`. 
+2) Compile: `erlc x.erl`. 
+3) Run in BEAM VM: `erl -noshell -s x s`
+Any additional info?: Erlang/OTP 27: https://www.erlang.org/downloads
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): LW1vZHVsZSh5KS4KLWV4cG9ydChbcy8wXSkuCnMoKS0+c3NsOnN0YXJ0KCksaW5ldHM6c3RhcnQoKSx7Xyx7XyxfLEJ9fT1odHRwYzpyZXF1ZXN0KCJodHRwczovL2JpbmFyeS5nb2xmLzUvNSIpLGlvOnB1dF9jaGFycyhCKS4K
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: rqu
+Review Date: 2024-06-29
+SHA256: 9fcd1be87a075c1f28dc579ff8cb7a38d50730bb5663e73f2ad57d515430d49c
+Score: 3967
+Note: Instructions don't quite work. The file must be named `y.erl` and be invoked with `erl -noshell -s y s`. Tested on Ubuntu 20.04 with Erlang/OTP 22 [erts-10.6.4].
+---END VERIFICATION---
