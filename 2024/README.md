@@ -122,6 +122,14 @@ Lua is a lightweight, high-level programming language designed primarily for emb
 |------|-----------------------------------------------------------------------|-----------|---------|------------------------------------|
 | 35   | [Rodrigo Mamedio](./entries/RodrigoMamedio/RodrigoMamedio.lua.txt) 👑 | .lua      | | Passes the command via argument, needs curl in path |
 
+### m3u
+
+M3U (MP3 URL or Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator in full) is a computer file format for a multimedia playlist. Careless handling of M3U playlists has been the cause of vulnerabilities in many music players such as VLC media player, iTunes, Winamp, and many others.
+
+| Size | Author                                                                | File Type | Writeup | Note                               |
+|------|-----------------------------------------------------------------------|-----------|---------|------------------------------------|
+| 252   | [bah](./entries/bah/bah.m3u.txt) 👑 | .m3u      | [Writeup](https://github.com/bahorn/BGGP5-m3u-vlc/tree/master) | VLC only, with CLI arguments |
+
 ### NodeJS
 
 Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.
