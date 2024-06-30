@@ -1,0 +1,39 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-26
+BGGP Challenge Number: 5
+Author: bah
+Contact Info (Optional): bahorn in the BGGP discord.
+Online Presence (Website/Social Media): b.horn.uk
+Target File Type: m3u (VLC only, with CLI arguments)
+File Size: 252 bytes
+SHA256 Hash: 99dcd83934cd0362702ba8e9f9172385de79ba96903b7b2beb2bc29d7fbf00f6
+Target Environment (How do we run the file?):
+On Linux, start VLC with
+`vlc -I qt --extraintf http --http-password 5 --http-port 80`
+Or macos
+`/Applications/VLC.app/Contents/MacOS/VLC -I macosx --extraintf http --http-password 5 --http-port 80`
+Then drag&drop the file, and the BGGP5 file should show up in the playlist (with the contents!)
+
+You may have to click "media library" and then back to playlist on MacOS. Not sure why, just an issue there.
+
+Any additional info?:
+Using the HTTP api VLC has to write the file to disk, which is why we need the extra flags to enable that. Setting a password of 5 so the m3u can talk to it.
+If you aren't willing to bind vlc to port 80, see the port 8080 version in the writeup repo (267 bytes) or use `redir`.
+
+Tested with the following VLC versions
+* 3.0.20-0-g6f0d0ab126 for macos
+* 3.0.13-8-g41878ff4f2 for ubuntu 22.04
+
+Link to PoC video, screenshot, or console output, if any: https://www.youtube.com/watch?v=YCyNC7nMD6k
+Link to writeup, if any: https://github.com/bahorn/BGGP5-m3u-vlc/tree/master
+File contents (base64 encoded please): aHR0cDovLzo1QDAvcmVxdWVzdHMvdmxtX2NtZC54bWw/Y29tbWFuZD1uZXcgYyB2b2QgZW5hYmxlZCBpbnB1dCBodHRwOi8vYmluYXJ5LmdvbGYvNS81IG9wdGlvbiBkZW11eCUzZGR1bXAgb3B0aW9uIGRlbXV4ZHVtcC1maWxlJTNkLm0zdQpodHRwOi8vOjVAMC9yZXF1ZXN0cy92bG1fY21kLnhtbD9jb21tYW5kPWNvbnRyb2wgYyBwbGF5Cmh0dHA6Ly86NUAwL3JlcXVlc3RzL3N0YXR1cy54bWw/Y29tbWFuZD1pbl9wbGF5JmlucHV0PS5tM3UK
+
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-30
+SHA256: 99dcd83934cd0362702ba8e9f9172385de79ba96903b7b2beb2bc29d7fbf00f6
+Score: 4868
+Note: Tested on Debian 12 with VLC media player 3.0.21 Vetinari. I had difficulties getting VLC to play nicely with port 80, so port 8080 method was tested. VLC throws a lot of errors and it appears to not work, but if you switch the view to playlist, everything is downloaded and displayed as expected. Scored based on the port 80 version, which should work exactly the same as 8080.
+---END VERIFICATION---
