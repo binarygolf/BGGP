@@ -238,6 +238,15 @@ Python is a high-level, general-purpose programming language. Its design philoso
 | 77 | [matteyeux](./entries/matteyeux/matteyeux.py.txt) | .py | | |
 | 86 | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.py.txt) | .py | | Uses standard library only |
 
+### Radare2
+Radare2 is a featureful low-level command-line tool that provides a set of libraries and plugins to ease reverse engineering tasks.
+
+#### Runs With CLI Arguments
+
+| Size | Author                                                  | File Type | Writeup | Note                    |
+|------|---------------------------------------------------------|-----------|---------|-------------------------|
+| 46   | [caioluders](./entries/caioluders/caioluders.r2.txt) 👑 | .r2       | | Evaluates a config file |
+
 ### Ruby
 
 Ruby is a high level programming language with an emphasis on programming productivity and simplicity.

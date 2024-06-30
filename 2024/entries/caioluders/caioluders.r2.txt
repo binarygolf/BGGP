@@ -1,0 +1,24 @@
+---BEGIN BGGP5---
+Submit Date: 30/06
+BGGP Challenge Number: 5
+Author: caioluders
+Online Presence (Website/Social Media): @caioluders
+Target File Type: .r2
+File Size: 46 bytes
+SHA256 Hash: 6ed7fea5e62a2a5a989499cc1f631bf34b4c6ac28619144f5b87b1d8d117c994
+Target Environment (How do we run the file?):
+1. Create a folder named "bggp"
+2. Put the file named "rc.r2" inside of it
+3. Run radare2 one folder before "bggp", as
+$ r2 -e "dir.projects=./" -p bggp
+Link to writeup, if any: In the future !
+File contents (base64 encoded please): IyByMiByZGIgcHJvamVjdCBmaWxlCiFjdXJsIC1MIGJpbmFyeS5nb2xmLzUvNQ==
+---END BGGP5---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-30
+SHA256: 6ed7fea5e62a2a5a989499cc1f631bf34b4c6ac28619144f5b87b1d8d117c994
+Score: 4,050
+Note: Verified on Ubuntu 22.04.2 ARM64 with radare2 5.9.3 32301
+---END VERIFICATION---
