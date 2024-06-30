@@ -97,9 +97,9 @@ LaTeX is a software system for typesetting documents. LaTeX markup describes the
 Lua is a lightweight, high-level programming language designed primarily for embedded use in applications.
 
 #### Runs With CLI Arguments
-| Size | Author                                                                  | File Type | Writeup | Note                               |
-|------|-------------------------------------------------------------------------|-----------|---------|------------------------------------|
-| 35   | [Rodrigo Mamedio](./entries/Rodrigo Mamedio/Rodrigo Mamedio.lua.txt) 👑 | .lua      | | Passes the command via argument, needs curl in path |
+| Size | Author                                                                | File Type | Writeup | Note                               |
+|------|-----------------------------------------------------------------------|-----------|---------|------------------------------------|
+| 35   | [Rodrigo Mamedio](./entries/RodrigoMamedio/RodrigoMamedio.lua.txt) 👑 | .lua      | | Passes the command via argument, needs curl in path |
 
 ### NodeJS
 
