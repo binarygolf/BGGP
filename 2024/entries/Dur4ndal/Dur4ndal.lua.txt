@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 06/29/2024
+BGGP Challenge Number: 5
+Author: Dur4ndal
+Contact Info (Optional):
+Online Presence (Website/Social Media): Dur4ndal
+Target File Type: lua
+File Size: 36
+SHA256 Hash: a17e65b88a968b8e32bddcbf7fb2e506340f6e17cea9249faf00f18cc4a60749
+Target Environment (How do we run the file?): lua challenge.lua
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): b3MuZXhlY3V0ZSJjdXJsIC1zTCBiaW5hcnkuZ29sZi81LzUi
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-30
+SHA256: a17e65b88a968b8e32bddcbf7fb2e506340f6e17cea9249faf00f18cc4a60749
+Score: 4,060
+Note: Verified on Ubuntu 22.04.2 ARM64 with Lua 5.3.6
+---END VERIFICATION---

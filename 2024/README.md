@@ -122,6 +122,11 @@ Lua is a lightweight, high-level programming language designed primarily for emb
 |------|-----------------------------------------------------------------------|-----------|---------|------------------------------------|
 | 35   | [Rodrigo Mamedio](./entries/RodrigoMamedio/RodrigoMamedio.lua.txt) 👑 | .lua      | | Passes the command via argument, needs curl in path |
 
+#### Runs Without CLI Arguments
+| Size | Author                                                                | File Type | Writeup | Note               |
+|------|-----------------------------------------------------------------------|-----------|---------|--------------------|
+| 36   | [Dur4ndal](./entries/Dur4ndal/Dur4ndal.lua.txt) 👑 | .lua      | | Needs curl in path |
+
 ### m3u
 
 M3U (MP3 URL or Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator in full) is a computer file format for a multimedia playlist. Careless handling of M3U playlists has been the cause of vulnerabilities in many music players such as VLC media player, iTunes, Winamp, and many others.
