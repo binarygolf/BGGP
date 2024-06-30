@@ -130,9 +130,18 @@ M3U (MP3 URL or Moving Picture Experts Group Audio Layer 3 Uniform Resource Loca
 |------|-----------------------------------------------------------------------|-----------|---------|------------------------------------|
 | 252   | [bah](./entries/bah/bah.m3u.txt) 👑 | .m3u      | [Writeup](https://github.com/bahorn/BGGP5-m3u-vlc/tree/master) | VLC only, with CLI arguments |
 
-### NodeJS
+### Nix
 
 Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.
+
+#### Runs With CLI Arguments
+| Size | Author                                    | File Type | Writeup | Note |
+|------|-------------------------------------------|-----------|---------|------|
+| 49   | [famfo](./entries/famfo/famfo.nix.txt) 👑 | .nix      | |  |
+
+### NodeJS
+
+Nix package manager ensures immutable packages and reproducible builds across environments. Also, cat ears.
 
 #### Runs With CLI Arguments
 | Size | Author                                    | File Type | Writeup | Note |
