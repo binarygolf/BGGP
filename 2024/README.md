@@ -215,7 +215,8 @@ Portable Executables are an executable format used in Windows and other platform
 
 | Size | Author                                                          | File Type | Writeup | Note |
 |------|-----------------------------------------------------------------|-----------|---------|------|
-| 345  | [frank2](./entries/frank2/frank2.exe.txt) 👑                    | PE | | |
+| 268  | [qkumba](./entries/qkumba/qkumba.64pe.txt) 👑                   | PE | [Writeup](http://pferrie.epizy.com/misc/tmp/winpe64.txt) | Calls curl from executable |
+| 345  | [frank2](./entries/frank2/frank2.exe.txt)                    | PE | | |
 
 ### PowerShell Script
 
