@@ -132,7 +132,7 @@ M3U (MP3 URL or Moving Picture Experts Group Audio Layer 3 Uniform Resource Loca
 
 ### Nix
 
-Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.
+Nix package manager ensures immutable packages and reproducible builds across environments. Also, cat ears.
 
 | Size | Author                                    | File Type | Writeup | Note |
 |------|-------------------------------------------|-----------|---------|------|
@@ -140,7 +140,7 @@ Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a
 
 ### NodeJS
 
-Nix package manager ensures immutable packages and reproducible builds across environments. Also, cat ears.
+Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.
 
 #### Runs With CLI Arguments
 | Size | Author                                    | File Type | Writeup | Note |
