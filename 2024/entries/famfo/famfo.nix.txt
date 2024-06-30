@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-30
+BGGP Challenge Number: 5
+Author: famfo
+Contact Info (Optional):
+Online Presence (Website/Social Media): https://famfo.xyz
+Target File Type: nix
+File Size: 49
+SHA256 Hash: 6814ecc715bf27bde15ee9d2a6986cb50b384eefe4df3d0acbc647d7eafcb917
+Target Environment (How do we run the file?): either in `nix repl` directly or using `nix repl --file ./bggp5.nix`
+Any additional info?: The `nix repl` feature is experimental in Nix and needs to be explicitly enabled (Nix version used `Lix 2.90.0-rc1`)
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): d2l0aCBidWlsdGlucztyZWFkRmlsZShmZXRjaHVybCJiaW5hcnkuZ29sZi81LzUiKQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-30
+SHA256: 6814ecc715bf27bde15ee9d2a6986cb50b384eefe4df3d0acbc647d7eafcb917
+Score: 4,047
+Note: Verified on Ubuntu 22.04.2 ARM64 with Nix 2.23.1
+---END VERIFICATION---
