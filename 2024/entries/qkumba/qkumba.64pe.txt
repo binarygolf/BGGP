@@ -1,0 +1,27 @@
+---BEGIN BGGPx---
+Submit Date: 26-june
+BGGP Challenge Number: 5
+Author: qkumba
+Contact Info (Optional): peter.ferrie@gmail.com
+Online Presence (Website/Social Media): http://pferrie.epizy.com
+Target File Type: Portable Executable
+File Size: 268 bytes
+SHA256 Hash: a148fa9a37dedbe7ecdb6a22e6ce450e91bf8535d915ecdc1d95c17f0ef8da51
+Target Environment (How do we run the file?): 64-bit x86 Windows with curl installed
+Any additional info?: display disappears very quickly without debugger.  I suggest windbg bp ntdll.NtResumeThread, then run.  When bp is hit, start another windbg, attach to curl process, and then resume both
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: http://pferrie.epizy.com/misc/tmp/winpe64.txt
+File contents (base64 encoded please): TVpQRlBFAABkhgAAAAAAAAAAAAAAAAAACAACAAsCAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAQAAA
+AAAABAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAA6AMAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqGFpIizQRSIt2EEitSIswSIs8VgNXPItcF3CLdB8g
+SAH+i1QfJA+3LBeNUgKtgTwHV2luRXXvi3QfHEgB/os0rkgB9+gfAAAAY3VybCAtTCBodHRwOi8v
+YmluYXJ5LmdvbGYvNS81AFlqAVpS/9fr/nFrdW1iYSBkb2VzIGl0IV==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: XfavataX
+Review Date: 2024-06-24
+SHA256: A148FA9A37DEDBE7ECDB6A22E6CE450E91BF8535D915ECDC1D95C17F0EF8DA51
+Score: 4852
+Note: Tested on Windows 10 Enterprise 21H2 build 19044.1682. Did not need windbg, can clearly see the download string appear in a second window before it closes (lack of assigned RAM probably helped here).
+---END VERIFICATION---
