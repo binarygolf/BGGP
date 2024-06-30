@@ -223,9 +223,10 @@ Ruby is a high level programming language with an emphasis on programming produc
 
 #### Runs With CLI Arguments
 
-| Size | Author | File Type | Writeup | Note |
-|--------|------|-----------|---------|------|
-| 27 | [vvx7](./entries/vvx7/vvx7.rb.txt) 👑 | .rb | | Entry loads open-uri via the -r argument, URL passed on command line |
+| Size | Author                                    | File Type | Writeup | Note |
+|------|-------------------------------------------|-----------|---------|------|
+| 12   | [luskabol](./entries/luskabol/luskabol.rb.txt) 👑 | .rb | | Passes the entire command via arguments, needs curl in path |
+| 27   | [vvx7](./entries/vvx7/vvx7.rb.txt)        | .rb | | Entry loads open-uri via the -r argument, URL passed on command line |
 
 #### Runs Without CLI Arguments
 

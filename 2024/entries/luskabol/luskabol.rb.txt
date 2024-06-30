@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 06/29/2024
+BGGP Challenge Number:5
+Author: Luska
+Contact Info (Optional):
+Online Presence (Website/Social Media):  luskabol
+Target File Type: rb
+File Size: 12 bytes
+SHA256 Hash: 01dcc9a394d56606287a6145accddd440ac7b582b68618eab7b3cf4c0416c396
+Target Environment (How do we run the file?): ruby x.rb 'curl https://binary.golf/5/5 1>&2'
+Any additional info?: Argv required. Curl output printed in stderror.
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): YCN7QVJHVlswXX1g
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: VVX7
+Review Date: 2024-06-29
+SHA256: 01dcc9a394d56606287a6145accddd440ac7b582b68618eab7b3cf4c0416c396
+Score: 4,084
+Note: Verified on Ubuntu 22.04.2 ARM64 with Ruby 3.0.2p107
+---END VERIFICATION---
