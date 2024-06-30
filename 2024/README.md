@@ -57,7 +57,7 @@ E-book file format standard by the International Digital Publishing Forum
 
 ### Erlang
 
-Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine.
+Erlang is a general-purpose, concurrent, functional high-level programming language.
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
