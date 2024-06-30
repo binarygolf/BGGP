@@ -31,6 +31,18 @@ CMake is cross-platform, free, and open-source software for build automation, te
 |------|------------------------------------------------|-----------|---------|------|
 | 283  | [0xca7](./entries/0xca7/0xca7.CMakeLists.txt) 👑 | .txt      | | |
 
+### ELF
+
+ELF is short for Executable and Linkable Format. It’s a format used for storing binaries, libraries, and core dumps on disks in Linux and Unix-based systems.
+
+Moreover, the ELF format is versatile. Its design allows it to be executed on various processor types. This is a significant reason why the format is common compared to other executable file formats.
+
+#### Runs With CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 89 | [mndz](./entries/mndz/mndz.elf.x86.32.txt) 👑 | .elf | https://github.com/0x6d6e647a/bggp-2024 | |
+
 ### Elixir
 
 Elixir is a dynamic, functional language that runs on the Erlang VM, known for creating low-latency, distributed, and fault-tolerant systems.
