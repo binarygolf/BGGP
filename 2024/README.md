@@ -214,9 +214,15 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 
 ### Portable Executable (PE)
 
-Portable Executables are an executable format used in Windows and other platforms. There are different types of PEs which are noted. These are treated as distinct from the UEFI App category even though PEs can run on UEFI. See UEFI App for more info.  The types are split further into 32-bit and 64-bit, since they present different challenges.
+Portable Executables are an executable format used in Windows and other platforms. There are different types of PEs which are noted. These are treated as distinct from the UEFI App category even though PEs can run on UEFI. See UEFI App for more info.  The types are split further into 32-bit specifically, 64-bit compatible, and 64-bit specifically, since they present different challenges.
 
-**32-bit Portable Executable**
+**32-bit Portable Executable on 32-bit Windows**
+
+| Size | Author                                                          | File Type | Writeup | Note |
+|------|-----------------------------------------------------------------|-----------|---------|------|
+|   |  |  |  | |
+
+**32-bit Portable Executable on 32- or 64-bit Windows**
 
 | Size | Author                                                          | File Type | Writeup | Note |
 |------|-----------------------------------------------------------------|-----------|---------|------|
@@ -224,7 +230,7 @@ Portable Executables are an executable format used in Windows and other platform
 | 399  | [kspalaiologos](./entries/kspalaiologos/kspalaiologos.pe.txt) | PE | | |
 | 712  | [fliermate](./entries/fliermate/fliermate.exe.txt)              | PE | [Source Code](https://github.com/flier-mate/BGGP5/blob/main/5.asm) | x86 PE |
 
-**64-bit Portable Executable**
+**64-bit Portable Executable on 64-bit Windows**
 
 | Size | Author                                                          | File Type | Writeup | Note |
 |------|-----------------------------------------------------------------|-----------|---------|------|
