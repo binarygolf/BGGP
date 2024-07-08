@@ -1,0 +1,35 @@
+---BEGIN BGGPx---
+Submit Date: 2024/07/05
+BGGP Challenge Number: 5
+Author: QoL15155
+Contact Info (Optional): https://x.com/LiriPorat
+Online Presence (Website/Social Media): https://github.com/QoL15155
+Target File Type: .1sc (010 Editor script file)
+File Size: 57 bytes
+SHA256 Hash: and choose the script
+Target Environment (How do we run the file?): Windows with 010 Editor
+Any additional info?:
+Need '010 Editor' in order to run the script. You can get it from 010 Editor
+From command line: (named the script "1.1sc")
+010Editor.exe -script:1.1sc
+Alternatively, from 010 Editor gui :
+
+Scripts > Open Script
+
+to open it, and then run with:
+
+Scripts > Run Script
+
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):
+RXhlYygiY3VybCIsIi1MIGJpbmFyeS5nb2xmLzUvNSAtbzUiLHRydWUpO0ZpbGVPcGVuKCI1Iik7
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 8-july
+SHA256: fd0327cf0a3c89c2d724915ed98098d0fe95a88446dbbf560210573534626273
+Score: 4039
+Note: Verified on 010 Editor v3.1
+---END VERIFICATION---
