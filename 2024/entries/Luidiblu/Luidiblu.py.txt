@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-24
+BGGP Challenge Number: 5
+Author: Luidiblu
+Contact Info (Optional):
+Online Presence (Website/Social Media):
+Target File Type: py
+File Size: 12B
+SHA256 Hash: cfff7d6cb4b71eef8f9b6579d4e9a2078c1207077c9939ca863f52c17229fd43
+Target Environment (How do we run the file?): python file.py <<< "print(__import__('urllib.request').request.urlopen('https://binary.golf/5/5').read().decode())"
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): ZXZhbChpbnB1dCgpKQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 8-july
+SHA256: cfff7d6cb4b71eef8f9b6579d4e9a2078c1207077c9939ca863f52c17229fd43
+Score: 3984
+Note: arguments affect score
+---END VERIFICATION---
