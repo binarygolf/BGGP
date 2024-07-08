@@ -8,6 +8,14 @@ June 21 2024 to September 6 2024
 
 Here are the entries for this year
 
+### 010 Editor
+
+010 Editor is a commercial editor for text and binary files.  It has a powerful scripting language that supports running external files.
+
+| Size | Author                                        | File Type | Writeup | Note                                |
+|------|-----------------------------------------------|-----------|---------|-------------------------------------|
+| 57   | [QoL15155](./entries/QoL15155/QoL15155.1sc.txt) 👑 | .1sc | |  |
+
 ### Awk
 
 AWK is a domain-specific language designed for text processing and typically used as a data extraction and reporting tool.
