@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date:  07/03/24
+BGGP Challenge Number: 5
+Author: dtmsecurity
+Contact Info (Optional): 
+Online Presence (Website/Social Media): dtmsecurity
+Target File Type: .py
+File Size: 41B
+SHA256 Hash: f1719809978b49bc3e53e9dd548d0c4cfb717bf8d886fb4866fab5508c4e842c
+Target Environment (How do we run the file?): save as .py and run with python3
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): X19pbXBvcnRfXygnb3MnKS5zeXN0ZW0oJ2N1cmwgLUwgN2YudWsnKQo= 
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 8-july
+SHA256: f1719809978b49bc3e53e9dd548d0c4cfb717bf8d886fb4866fab5508c4e842c
+Score: 4055
+Note: 
+---END VERIFICATION---
