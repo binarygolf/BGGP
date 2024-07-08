@@ -18,6 +18,6 @@ File contents (base64 encoded please): JEVudjpG
 Reviewer: qkumba
 Review Date: 25-june
 SHA256: CBCDA1E8552C19CBE38E4CA98AAE1A85760EE76E7F67340228D3A84CD57071FB
-Score: 4090
-Note:
+Score: 4033
+Note: environment variable affects score
 ---END VERIFICATION---
