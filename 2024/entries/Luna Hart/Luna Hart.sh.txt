@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 06/24/2024
+BGGP Challenge Number: 5
+Author:  Luna Hart
+Contact Info (Optional): nitepone
+Online Presence (Website/Social Media): 
+Target File Type:  sh
+File Size: 2B
+SHA256 Hash: 9d7774b94786fd9c86081c0681e929886adfeb041d2c9a00fe2fa882ac04c10a
+Target Environment (How do we run the file?):  Ensure curl is in the current user's path.
+Any additional info?: Save the file as `curl -L binary.golf --request-target 5%2f5`. Execute while in the same directory via `sh 'curl -L binary.golf --request-target 5%2f5'`.
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): JDA=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 8-july
+SHA256: 9d7774b94786fd9c86081c0681e929886adfeb041d2c9a00fe2fa882ac04c10a
+Score: 4094
+Note: 
+---END VERIFICATION---
