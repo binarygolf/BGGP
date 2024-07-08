@@ -18,6 +18,6 @@ File contents (base64 encoded please): JDA=
 Reviewer: qkumba
 Review Date: 8-july
 SHA256: 9d7774b94786fd9c86081c0681e929886adfeb041d2c9a00fe2fa882ac04c10a
-Score: 4094
-Note: 
+Score: 4052
+Note: filename length affects score
 ---END VERIFICATION---
