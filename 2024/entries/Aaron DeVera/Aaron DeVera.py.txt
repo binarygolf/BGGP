@@ -18,6 +18,6 @@ File contents (base64 encoded please):  aW1wb3J0IG9zO29zLnN5c3RlbShfX2ZpbGVfX1st
 Reviewer: qkumba
 Review Date: 8-july
 SHA256: d0a9e9e3a81e656ab0fd8867abc510471fe8e6f0aa0cf463a7946c5b0d2fbd54
-Score: 4061
-Note: 
+Score: 4016
+Note: filename affects score
 ---END VERIFICATION---
