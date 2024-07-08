@@ -269,7 +269,8 @@ Python is a high-level, general-purpose programming language. Its design philoso
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 46 | [jbo](./entries/jbo/jbo.py.txt) 👑 | .py | | |
+| 35 | [Aaron DeVera](./entries/Aaron%20DeVera/Aaron%20DeVera.py.txt) 👑 | .py | | Passes entire command in the file name and executes |
+| 46 | [jbo](./entries/jbo/jbo.py.txt)   | .py | | |
 | 64 | [caioluders](./entries/caioluders/caioluders.py.txt) | .py | | Needs requests module installed |
 | 77 | [matteyeux](./entries/matteyeux/matteyeux.py.txt) | .py | | |
 | 86 | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.py.txt) | .py | | Uses standard library only |
