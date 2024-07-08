@@ -316,7 +316,8 @@ Shell scripts can be invoked in numerous ways, so we have categories for both ty
 
 | Size | Author                                                    | File Type | Writeup | Note                                               |
 |------|-----------------------------------------------------------|-----------|---------|----------------------------------------------------|
-| 11   | [oriel](./entries/oriel/oriel.sh2.txt) 👑                 | .sh | | Passes entire command in the file name and executes |
+|  2   | [Luna Hart](./entries/Luna%20Hart/Luna%20Hart.sh.txt) 👑  | .sh | | Passes entire command in the file name and executes |
+| 11   | [oriel](./entries/oriel/oriel.sh2.txt)                   | .sh | | Passes entire command in the file name and executes |
 | 13   | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.sh.txt) | .sh | | Uses a redirect to shorten the URL                 |
 | 19   | [mauke](./entries/mauke/mauke.sh.txt)                     | .sh | | Uses the perl LWP tools with SSL support           |
 
