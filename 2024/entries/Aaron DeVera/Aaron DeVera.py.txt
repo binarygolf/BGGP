@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-25
+BGGP Challenge Number: 5
+Author: Aaron DeVera
+Contact Info (Optional): aaronsdevera@protonmail.com
+Online Presence (Website/Social Media): @aaronsdevera
+Target File Type: .py
+File Size: 35b
+SHA256 Hash: d0a9e9e3a81e656ab0fd8867abc510471fe8e6f0aa0cf463a7946c5b0d2fbd54
+Target Environment (How do we run the file?): curl must be installed and on user path
+Any additional info?:  file must be named "curl -L binary.golf --request-target %2F5%2F5" (no double quotes) (shoutz to @nitepone) and run with python3
+Link to PoC video, screenshot, or console output, if any:  https://files.aaronsdevera.com/2024/06/59.png
+Link to writeup, if any: 
+File contents (base64 encoded please):  aW1wb3J0IG9zO29zLnN5c3RlbShfX2ZpbGVfX1stNDU6XSkK
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 8-july
+SHA256: d0a9e9e3a81e656ab0fd8867abc510471fe8e6f0aa0cf463a7946c5b0d2fbd54
+Score: 4061
+Note: 
+---END VERIFICATION---
