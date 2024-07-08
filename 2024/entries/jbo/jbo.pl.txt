@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-25
+BGGP Challenge Number: 5
+Author: Jonathan Bar Or ("JBO")
+Contact Info (Optional): @yo_yo_yo_jbo
+Online Presence (Website/Social Media): @yo_yo_yo_jbo
+Target File Type: pl
+File Size: 0
+SHA256 Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Target Environment (How do we run the file?): Uses environment variable PERL5OPT and relies on curl. Run: PERL5OPT="-Mbase;print(\`curl\x20-s\x20https://binary.golf/5/5\`)" perl ./a.pl
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): 
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 8-july
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Score: 4018
+Note: arguments affect score
+---END VERIFICATION---
