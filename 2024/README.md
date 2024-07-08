@@ -268,6 +268,14 @@ PowerShell scripts can be invoked in numerous ways, so we have categories for bo
 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. 
 
+#### Runs With CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 12 | [Luidiblu](./entries/Luidiblu/Luidiblu.py.txt) 👑 | .py | | Passes entire command via arguments |
+
+#### Runs Without CLI Arguments
+
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 35 | [Aaron DeVera](./entries/Aaron%20DeVera/Aaron%20DeVera.py.txt) 👑 | .py | | Passes entire command in the file name and executes |
