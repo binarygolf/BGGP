@@ -262,7 +262,8 @@ PowerShell scripts can be invoked in numerous ways, so we have categories for bo
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 22 | [nephryte](./entries/nephryte/nephryte.ps.txt) 👑 | .ps | |  |
+| 14 | [gremlinbeet](./entries/gremlinbeet/gremlinbeet.ps1.txt) 👑 | .ps | [Writeup](https://github.com/gremlinbeet/binarygolf/blob/main/bggp5/powershell14.adoc) |  |
+| 22 | [nephryte](./entries/nephryte/nephryte.ps.txt)   | .ps | |  |
 | 35 | [remy](./entries/remy/remy.ps1.txt) | .ps1 | |  |
 | 88 | [theXappy](./entries/theXappy/theXappy.ps1.txt) | .ps1 | |  |
 
