@@ -239,7 +239,7 @@ Portable Executables are an executable format used in Windows and other platform
 |------|-----------------------------------------------------------------|-----------|---------|------|
 | 268  | [qkumba](./entries/qkumba/qkumba.32pe.txt) 👑 | PE | [Writeup](http://pferrie.epizy.com/misc/tmp/winpe.txt) | |
 | 399  | [kspalaiologos](./entries/kspalaiologos/kspalaiologos.pe.txt) | PE | | |
-| 712  | [fliermate](./entries/fliermate/fliermate.exe.txt)              | PE | [Source Code](https://github.com/flier-mate/BGGP5/blob/main/5.asm) | x86 PE |
+| 596  | [fliermate](./entries/fliermate/fliermate.pe.txt) | PE | [Source Code](https://github.com/flier-mate/BGGP5/blob/main/5.asm) | |
 
 **64-bit Portable Executable on 64-bit Windows**
 
