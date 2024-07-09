@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-25
+BGGP Challenge Number: 5
+Author: Krishean
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://tech.lgbt/@krishean
+Target File Type: Windows batch (.bat)
+File Size: 4 bytes
+SHA256 Hash: a2550473008de66846f3da406286da8ef61e0163b8b48b6f6c3915377d6845f1
+Target Environment (How do we run the file?): curl should be included by default in windows 10 version 1803 or later, save the file as `curl -sL binary.golf --request-target 5%2f5.bat` and run from the command prompt with `call "curl -sL binary.golf --request-target 5%2f5.bat"`
+Any additional info?: inspired by @Nitepone 's entry in #57
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): JX5uMA==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 25-june
+SHA256: a2550473008de66846f3da406286da8ef61e0163b8b48b6f6c3915377d6845f1
+Score: 4045
+Note: filename affects score
+---END VERIFICATION---
