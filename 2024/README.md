@@ -21,6 +21,7 @@ Here are the entries for this year
 AWK is a domain-specific language designed for text processing and typically used as a data extraction and reporting tool.
 
 #### Runs With CLI Arguments
+
 | Size | Author                                        | File Type | Writeup | Note                                |
 |------|-----------------------------------------------|-----------|---------|-------------------------------------|
 | 34   | [bah](./entries/bah/bah.awk.txt) 👑 | .awk | | Runs an awk file via `-E` argument. |
@@ -338,7 +339,15 @@ Shell scripts can be invoked in numerous ways, so we have categories for both ty
 Scalable Vector Graphics is an XML-based vector image format for defining two-dimensional graphics, having support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium since 1999.
 
 | Size | Author | File Type | Writeup | Note |
-|------|------|-----------|---------|------|
+|------|--------|-----------|---------|------|
 | 111  | [avlidienbrunn](./entries/avlidienbrunn/avlidienbrunn.svg.txt) 👑 | .svg | | Needs to be served and viewed in Firefox. |
 | 125  | [Kasumivero](./entries/Kasumivero/Kasumivero.svg.txt) | .svg | | Needs to be served and viewed in Firefox. |
 | 248  | [vvx7](./entries/vvx7/vvx7.svg.txt) | .svg | | Needs to be served and viewed in Firefox. |
+
+### Windows Batch
+
+Windows Batch files are a scripting language inherited from DOS.
+
+| Size | Author | File Type | Writeup | Note |
+|------|------|-----------|---------|------|
+|   3  | [gremlinbeet](./entries/gremlinbeet/gremlinbeet.bat.txt) 👑 | .bat | | Passes entire command in file name and executes, requires Powershell |
