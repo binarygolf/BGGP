@@ -1,0 +1,25 @@
+---BEGIN BGGPx---
+Submit Date: 2024-07-08
+BGGP Challenge Number: 5
+Author: gremlinbeet
+Contact Info (Optional):
+Online Presence (Website/Social Media): https://github.com/gremlinbeet
+Target File Type: powershell (.ps1)
+File Size: 14
+SHA256 Hash: 547170E517EACBDE32BD188A0ED54FD9B761FF31B6E882F360BE0A313D2F5DCD
+Target Environment (How do we run the file?): powershell ./script.ps1
+It requires powershell bundled with modern Windows (Windows 10 or 11); so, Powershell 5.1.xxx.
+Any additional info?: As with almost any powershell script, before running it you may have to adjust execution policy: Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any: https://github.com/gremlinbeet/binarygolf/blob/main/bggp5/powershell14.adoc
+File contents (base64 encoded please): aXJtIHguZ2QvRXFJODc=
+File contents (cleartext for quick reference): irm x.gd/EqI87
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 8-july
+SHA256: 547170E517EACBDE32BD188A0ED54FD9B761FF31B6E882F360BE0A313D2F5DCD
+Score: 5106
+Note:
+---END VERIFICATION---
