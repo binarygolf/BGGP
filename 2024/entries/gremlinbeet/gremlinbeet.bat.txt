@@ -1,0 +1,25 @@
+---BEGIN BGGPx---
+Submit Date: 2024-07-01
+BGGP Challenge Number: 5
+Author: gremlinbeet
+Contact Info (Optional):
+Online Presence (Website/Social Media): https://github.com/gremlinbeet
+Target File Type: Windows batch (.bat)
+File Size: 3
+SHA256 Hash: F7121F50119B73D3A6835A542EA147FD1145B24CD22226ED632814205D1B8BFC
+Target Environment (How do we run the file?): just double click
+Any additional info?: filename MUST be as follows: a&powershell -c iex(('[Net.WebClient]__new().DownloadFile(''https_--binary.golf-5-5'',[Environment]__GetFolderPath(''Startup'')+''-5.txt'');shutdown -r -t 5'-replace'_',[char]58)-replace'-',[char]47)&.bat.
+During batch execution cmd will display some benign errors, and then system will reboot. Downloaded file contents will be displayed automatically in .txt-associated app shortly after reboot and login.
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any: https://github.com/gremlinbeet/binarygolf/blob/main/bggp5.batch3.adoc
+File contents (base64 encoded please): JX4w
+File contents (cleartext for quick reference): %~0
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 8-july
+SHA256: F7121F50119B73D3A6835A542EA147FD1145B24CD22226ED632814205D1B8BFC
+Score: 4913
+Note: arguments affect score
+---END VERIFICATION---
