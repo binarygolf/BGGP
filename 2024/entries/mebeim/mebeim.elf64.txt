@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-07-09
+BGGP Challenge Number: 5
+Author: mebeim
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://mebeim.net
+Target File Type: 64-bit ELF executable for Linux x86_64
+File Size: 112 bytes
+SHA256 Hash: 8bae6e70c63820301f95a177abfc2c990e124e32c2ee5d694c74647f4bf60a8d
+Target Environment (How do we run the file?): Needs `curl` installed at `/bin/curl`. Needs URL as command line argument. After saving to file and making it executable, run as `./file "https://binary.golf/5/5"`
+Any additional info?: Tested on Debian 12 x86_64, Linux kernel v6.1.0.
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any: https://github.com/mebeim/bggp
+File contents (base64 encoded please): f0VMRrA7vyhwMwFe61oAAAIAPgABAAAABHAzAQAAAAA4AAAAAAAAAC9iaW4vY3VybAAAAEAAOAABAAAABwAAAAAAAAAAAAAAAHAzAQAAAAAAcDMBAAAAAHAAAAAAAAAAcAAAAAAAAABIieYPBQAAAA==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: ifygecko
+Review Date: 2024-07-14
+SHA256: 8bae6e70c63820301f95a177abfc2c990e124e32c2ee5d694c74647f4bf60a8d
+Score: 3984
+Note: 
+---END VERIFICATION---
