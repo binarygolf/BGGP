@@ -51,6 +51,7 @@ Moreover, the ELF format is versatile. Its design allows it to be executed on va
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 89 | [mndz](./entries/mndz/mndz.elf.x86.32.txt) 👑 | .elf | https://github.com/0x6d6e647a/bggp-2024 | |
+| 112 | [mebeim](./entries/mebeim/mebeim.elf64.txt) | .elf | https://github.com/mebeim/bggp | Arch: amd64 && Passes 'https://binary.golf/5/5' via argv[1] |
 
 ### Elixir
 
