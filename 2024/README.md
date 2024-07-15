@@ -52,17 +52,23 @@ Moreover, the ELF format is versatile. Its design allows it to be executed on va
 |--------|------|-----------|---------|------|
 | 89 | [mndz](./entries/mndz/mndz.elf.x86.32.txt) 👑 | .elf | https://github.com/0x6d6e647a/bggp-2024 | |
 
+#### Runs Without CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 82 | [mebeim](./entries/mebeim/mebeim.elf32.txt) 👑 | .elf | https://github.com/mebeim/bggp | Needs mmap_min_addr set to 0 && uses shortened url http://7f.uk |
+
 ### ELF 64-bit
 
 This is the 64 bit variant of the Executable and Linkable Format with only minor differences from the 32 bit version. 
 
-The main difference between the 32-bit and the 64-bit versions lies in the location of the p_flags member in the program header struct. Other differences lie in struct field ordering and in field bit widths.
+The main difference between the 32-bit and the 64-bit versions lies in the differences of struct field ordering and bit widths.
 
 #### Runs With CLI Arguments
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 112 | [mebeim](./entries/mebeim/mebeim.elf64.txt) 👑 | .elf | https://github.com/mebeim/bggp | Arch: amd64 && Passes 'https://binary.golf/5/5' via argv[1] |
+| 112 | [mebeim](./entries/mebeim/mebeim.elf64.txt) 👑 | .elf | https://github.com/mebeim/bggp | Passes 'https://binary.golf/5/5' via argv[1] |
 
 ### Elixir
 
