@@ -40,7 +40,7 @@ CMake is cross-platform, free, and open-source software for build automation, te
 |------|------------------------------------------------|-----------|---------|------|
 | 283  | [0xca7](./entries/0xca7/0xca7.CMakeLists.txt) 👑 | .txt      | | |
 
-### ELF
+### ELF 32-bit
 
 ELF is short for Executable and Linkable Format. It’s a format used for storing binaries, libraries, and core dumps on disks in Linux and Unix-based systems.
 
@@ -51,7 +51,18 @@ Moreover, the ELF format is versatile. Its design allows it to be executed on va
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 89 | [mndz](./entries/mndz/mndz.elf.x86.32.txt) 👑 | .elf | https://github.com/0x6d6e647a/bggp-2024 | |
-| 112 | [mebeim](./entries/mebeim/mebeim.elf64.txt) | .elf | https://github.com/mebeim/bggp | Arch: amd64 && Passes 'https://binary.golf/5/5' via argv[1] |
+
+### ELF 64-bit
+
+This is the 64 bit variant of the Executable and Linkable Format with only minor differences from the 32 bit version. 
+
+The main difference between the 32-bit and the 64-bit versions lies in the location of the p_flags member in the program header struct. Other differences lie in struct field ordering and in field bit widths.
+
+#### Runs With CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 112 | [mebeim](./entries/mebeim/mebeim.elf64.txt) 👑 | .elf | https://github.com/mebeim/bggp | Arch: amd64 && Passes 'https://binary.golf/5/5' via argv[1] |
 
 ### Elixir
 
