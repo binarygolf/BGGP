@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-07-07
+BGGP Challenge Number: 5
+Author: mebeim
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://mebeim.net
+Target File Type: 32-bit ELF executable for Linux x86
+File Size: 82 bytes
+SHA256 Hash: 7c223ea8b6f385433ef12e3b3e970b87890f53116758b6113a0a8e52d7576aaf
+Target Environment (How do we run the file?): Needs /proc/sys/vm/mmap_min_addr set to 0. Needs `curl` installed at `/bin/curl`. After saving to file and making it executable, simply run as `./file`.
+Any additional info?: Tested on Debian 12 x86_64, Linux kernel v6.1.0. Does a request to http://7f.uk, which redirects to the actual URL.
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any: https://github.com/mebeim/bggp
+File contents (base64 encoded please): f0VMRrMgsUmwC82AAAAAAAIAAwABAAAABAAAACwAAAAvYmluL2N1cmwAIAABAAAAAAAAAAAAAAAAAAAAUgAAAC1MADdmLnVrACAAAABAAAAAQw==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: ifygecko
+Review Date: 2024-07-15
+SHA256: 7c223ea8b6f385433ef12e3b3e970b87890f53116758b6113a0a8e52d7576aaf
+Score: 4014
+Note:
+---END VERIFICATION---
