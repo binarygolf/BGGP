@@ -1,0 +1,15 @@
+---BEGIN BGGPx---
+Submit Date: 08/31/2024
+BGGP Challenge Number: 5
+Author: sdb
+Contact Info (Optional): 
+Online Presence (Website/Social Media): twitter: @weedonlymemory | masto: @zelkova@haunted.computer
+Target File Type: .vbs
+File Size: 129
+SHA256 Hash: c3cf5df88657f0f5f458d69535c9bd262ef70077a8da16c05a19551da4fc40d4
+Target Environment (How do we run the file?): in cmd run "cscript golf.vbs" on a wandows machine (win10 tested)
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://vacantmotel.neocities.org/stuff/golf/vbs2024
+File contents (base64 encoded please): RGltIG8KU2V0IG8gPSBDcmVhdGVPYmplY3QoIk1TWE1MMi5YTUxIVFRQIikKby5vcGVuICJHRVQiLCAiaHR0cHM6Ly9iaW5hcnkuZ29sZi81LzUiLCBGYWxzZQpvLnNlbmQKbXNnYm94ICIiICYgby5yZXNwb25zZVRleHQ=
+---END BGGPx---
