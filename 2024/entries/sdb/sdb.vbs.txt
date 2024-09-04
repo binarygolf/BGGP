@@ -13,3 +13,11 @@ Link to PoC video, screenshot, or console output, if any:
 Link to writeup, if any: https://vacantmotel.neocities.org/stuff/golf/vbs2024
 File contents (base64 encoded please): RGltIG8KU2V0IG8gPSBDcmVhdGVPYmplY3QoIk1TWE1MMi5YTUxIVFRQIikKby5vcGVuICJHRVQiLCAiaHR0cHM6Ly9iaW5hcnkuZ29sZi81LzUiLCBGYWxzZQpvLnNlbmQKbXNnYm94ICIiICYgby5yZXNwb25zZVRleHQ=
 ---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 4-september
+SHA256: c3cf5df88657f0f5f458d69535c9bd262ef70077a8da16c05a19551da4fc40d4
+Score: 4991
+Note:
+---END VERIFICATION---
