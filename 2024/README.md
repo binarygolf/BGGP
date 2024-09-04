@@ -371,3 +371,11 @@ Windows Batch files are a scripting language inherited from DOS.
 |------|------|-----------|---------|------|
 |   3  | [gremlinbeet](./entries/gremlinbeet/gremlinbeet.bat.txt) 👑 | .bat | [writeup](https://github.com/gremlinbeet/binarygolf/blob/main/bggp5.batch3.adoc) | Passes entire command in file name and executes, requires Powershell |
 |   5  | [Krishean](./entries/Krishean/Krishean.bat.txt)   | .bat |  | Passes entire command in file name and executes |
+
+### VBScript
+
+VBScript is a scripting language that grew out of Visual Basic.
+
+| Size | Author | File Type | Writeup | Note |
+|------|------|-----------|---------|------|
+| 129  | [sdb](./entries/sdb/sdb.vbs.txt)   | .vbs | https://vacantmotel.neocities.org/stuff/golf/vbs2024 |  |
