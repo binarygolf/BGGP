@@ -363,6 +363,22 @@ Scalable Vector Graphics is an XML-based vector image format for defining two-di
 | 125  | [Kasumivero](./entries/Kasumivero/Kasumivero.svg.txt) | .svg | | Needs to be served and viewed in Firefox. |
 | 248  | [vvx7](./entries/vvx7/vvx7.svg.txt) | .svg | | Needs to be served and viewed in Firefox. |
 
+### URL
+
+URL files are links to websites, that can be stored in the filesystem.
+
+| Size | Author | File Type | Writeup | Note |
+|------|------|-----------|---------|------|
+|  31  | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.url.txt) 👑 | .bat |  | Uses a link shortener |
+
+### VBScript
+
+VBScript is a scripting language that grew out of Visual Basic.
+
+| Size | Author | File Type | Writeup | Note |
+|------|------|-----------|---------|------|
+| 129  | [sdb](./entries/sdb/sdb.vbs.txt) 👑 | .vbs | https://vacantmotel.neocities.org/stuff/golf/vbs2024 |  |
+
 ### Windows Batch
 
 Windows Batch files are a scripting language inherited from DOS.
@@ -371,11 +387,3 @@ Windows Batch files are a scripting language inherited from DOS.
 |------|------|-----------|---------|------|
 |   3  | [gremlinbeet](./entries/gremlinbeet/gremlinbeet.bat.txt) 👑 | .bat | [writeup](https://github.com/gremlinbeet/binarygolf/blob/main/bggp5.batch3.adoc) | Passes entire command in file name and executes, requires Powershell |
 |   5  | [Krishean](./entries/Krishean/Krishean.bat.txt)   | .bat |  | Passes entire command in file name and executes |
-
-### VBScript
-
-VBScript is a scripting language that grew out of Visual Basic.
-
-| Size | Author | File Type | Writeup | Note |
-|------|------|-----------|---------|------|
-| 129  | [sdb](./entries/sdb/sdb.vbs.txt)   | .vbs | https://vacantmotel.neocities.org/stuff/golf/vbs2024 |  |
