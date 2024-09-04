@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 07/04/24
+BGGP Challenge Number: 5
+Author: dtmsecurity
+Contact Info (Optional): 
+Online Presence (Website/Social Media): dtmsecurity
+Target File Type: .url
+File Size: 31B
+SHA256 Hash: 45562871c6b15d049bbcf051c33200611306d6be78f9459e16e2192952b6c82a
+Target Environment (How do we run the file?): Save file with .url extension on Windows and double click.
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): W0ludGVybmV0U2hvcnRjdXRdDQpVUkw9azcudWsNCg==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: qkumba
+Review Date: 4-september
+SHA256: 45562871c6b15d049bbcf051c33200611306d6be78f9459e16e2192952b6c82a
+Score: 4065
+Note: uses link shortener
+---END VERIFICATION---
