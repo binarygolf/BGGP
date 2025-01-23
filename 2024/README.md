@@ -56,7 +56,7 @@ Moreover, the ELF format is versatile. Its design allows it to be executed on va
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 82 | [mebeim](./entries/mebeim/mebeim.elf32.txt) 👑 | .elf | https://github.com/mebeim/bggp | Needs mmap_min_addr set to 0 && uses shortened url http://7f.uk |
+| 82 | [mebeim](./entries/mebeim/mebeim.elf32.txt) 👑 | .elf | [writeup](https://github.com/mebeim/bggp) | Needs mmap_min_addr set to 0 && uses shortened url http://7f.uk |
 
 ### ELF 64-bit
 
@@ -68,7 +68,8 @@ The main difference between the 32-bit and the 64-bit versions lies in the diffe
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 112 | [mebeim](./entries/mebeim/mebeim.elf64.txt) 👑 | .elf | https://github.com/mebeim/bggp | Passes 'https://binary.golf/5/5' via argv[1] |
+| 105 | [VINSERTF128](./entries/VINSERTF128/VINSERTF128.elf.txt) 👑 | .elf | [writeup](https://gist.github.com/VINSERTF128/a42d2d15abad30f4477665734f60b0d9) | Passes 'https://binary.golf/5/5' via argv[1] |
+| 112 | [mebeim](./entries/mebeim/mebeim.elf64.txt) | .elf | [writeup](https://github.com/mebeim/bggp) | Passes 'https://binary.golf/5/5' via argv[1] |
 
 ### Elixir
 
