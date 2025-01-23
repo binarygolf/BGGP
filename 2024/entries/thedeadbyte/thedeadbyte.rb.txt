@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 20/07/2024
+BGGP Challenge Number: 5
+Author: Ricardo Costa
+Contact Info (Optional):
+Online Presence (Website/Social Media):
+Target File Type: Ruby
+File Size: 7 bytes
+SHA256 Hash: 6b71aab2692c9d76a3b9d357691cd0e4d5c766a75ae085f6d2995f8a04bfb6c2
+Target Environment (How do we run the file?): ruby -n bggp.rb <<< "curl https://binary.golf/5/5 >&2"
+Any additional info?: Please if added, just refeer to me as "thedeadbyte"
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): YCN7JF99YA==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-01-23
+SHA256: 6b71aab2692c9d76a3b9d357691cd0e4d5c766a75ae085f6d2995f8a04bfb6c2
+Score: 7
+Note: works as is, uses CLI args
+---END VERIFICATION---
