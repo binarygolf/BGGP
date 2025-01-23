@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date:  20-08-2024
+BGGP Challenge Number: 5
+Author: VINSERTF128
+Contact Info (Optional): VINSERTF128@mntcrl.it
+Online Presence (Website/Social Media): https://x.com/tanuki_no_neiri
+Target File Type: 64-bit ELF executable for Linux x86_64
+File Size: 105
+SHA256 Hash: 087462e9eebc4883ab4b5e54dd2f476bc7a1634456c8a471ed4a35de8b8db9e1
+Target Environment (How do we run the file?): The binary need curl located in "/bin/curl", the URL must be passed as argument, after made it executable run it as "./prog https://binary.golf/5/5"
+Any additional info?: tested on 6.8.0-44-generic #44~22.04.3-Ubuntu
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://gist.github.com/VINSERTF128/a42d2d15abad30f4477665734f60b0d9
+File contents (base64 encoded please): f0VMRi9iaW4vY3VybAAAAAIAPgCwO+tJFAABAAAAAAAxAAAAAAAAAEiJ5g8F6xqQkAEAAAAFOAABAAAAAAAAAAAAAAEAAAAAALA8SDH/DwWQaAAAAAAAAABoAAAAAAAAAL8EAAEAW+u/ 
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-01-23
+SHA256: 087462e9eebc4883ab4b5e54dd2f476bc7a1634456c8a471ed4a35de8b8db9e1
+Score: 105
+Note: works as is, uses CLI args
+---END VERIFICATION---
