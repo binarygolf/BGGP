@@ -1,0 +1,24 @@
+---BEGIN BGGPx---
+Submit Date: 6th Sep
+BGGP Challenge Number: 5
+Author: mattpass
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @mattpass (X)
+Target File Type: .bashrc
+File Size: 0 or 38 bytes, I'm really unsure?
+SHA256 Hash: 4c73e6a763d566490deba14e1df05ceee08b09d4f22b5cd5694ea72a837f087f
+Target Environment (How do we run the file?): Run command on any Linux based OS really, eg Ubuntu:
+echo 'export PS1="\n$(curl https://binary.golf/5/5)\n└──▶ "' >> .bashrc && exec $SHELL -l
+Any additional info?: I'm honestly not sure if this entry is counted as 0 bytes, or 38 bytes. It needs nothing written to a file to begin with, as it's added during Shell command prompt, then shell is reloaded, and from then on automatically executed on every command prompt display. It was too fun an entry to not submit tho, so here we are. :-D
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: https://pastebin.com/pAcukVNK
+File contents (base64 encoded please): -
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-01-27
+SHA256: 4c73e6a763d566490deba14e1df05ceee08b09d4f22b5cd5694ea72a837f087f
+Score: 97
+Note: works as is, neat trick!! counting this as 97 bytes because that is the size of the oneliner on disk.
+---END VERIFICATION---
