@@ -345,7 +345,7 @@ Shell scripts can be invoked in numerous ways, so we have categories for both ty
 | 2 | [jbo](./entries/jbo/jbo.sh.txt) 👑 | .sh | | Passes the entire command via arguments, needs curl in path |
 | 5 | [oriel](./entries/oriel/oriel.sh.txt) | .sh | | Passes part of the command in the file name, with arguments |
 | 7 | [mattpass](./entries/mattpass/mattpass.sh.txt) | .sh | | Passes the url via command line argument |
-| 97 | [mattpass](./entries/mattpass/mattpass.sh.97.txt) | .sh | | Uses the PS1 to download the file every time the shell starts up. Could technically be 0 bytes but we are counting based on the total size of the oneliner. It could also be counted as 38 bytes due to the addition to the .bashrc. |
+| 97 | [mattpass](./entries/mattpass/mattpass.sh.97.txt) | .sh | [writeup](https://pastebin.com/pAcukVNK) | Uses the PS1 to download the file every time the shell starts up. Could technically be 0 bytes but we are counting based on the total size of the oneliner. It could also be counted as 38 bytes due to the addition to the .bashrc. |
 
 #### Runs Without CLI Arguments
 
