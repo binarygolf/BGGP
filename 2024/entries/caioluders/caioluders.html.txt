@@ -1,0 +1,25 @@
+---BEGIN BGGP5---
+Submit Date: 26/05
+BGGP Challenge Number: 5
+Author: caioluders
+Online Presence (Website/Social Media): @caioluders
+Target File Type: HTML
+File Size: 67 bytes
+SHA256 Hash: 6f81dc50b71f9e8ce30d1bc3daa22eb5ab16bb8ed367945588eed51a6316ddfe
+Target Environment (How do we run the file?): 
+1. Serve the file in a https server.
+$ python3 -m http.server 8081 &; ngrok http 8081
+2. Access the file via the https server in any browser.
+3. Select the '5' text and do a cut shortcut (cmd+x in osx).
+4. The text will pop up.
+Link to writeup, if any: Will write in the future.
+File contents (base64 encoded please): PGEgb25jdXQ9ImZldGNoYC8vYmluYXJ5LmdvbGYvNS81YC50aGVuKGU9PmUudGV4dCgpLnRoZW4oYWxlcnQpKSI+NQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-01-27
+SHA256: 6f81dc50b71f9e8ce30d1bc3daa22eb5ab16bb8ed367945588eed51a6316ddfe
+Score: 67
+Note: works as is, ran on a server with https instead of using ngrok
+---END VERIFICATION---
