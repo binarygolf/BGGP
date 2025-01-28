@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 6th Sep 2024
+BGGP Challenge Number: 5
+Author: mattpass
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @mattpass (X)
+Target File Type: HTML (.html)
+File Size: 62 bytes
+SHA256 Hash: 3b4660aa8dd08a06a829b06c25550674691cc2d42f5450d43a3e6c789a2270c2
+Target Environment (How do we run the file?): Any browser
+Any additional info?: Takes you to URL shortener https://t.ly/3jGrK, which redirects to URL at w3.org which uses their html2txt service to download & display the content
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://pastebin.com/pAcukVNK
+File contents (base64 encoded please): PG1ldGEgaHR0cC1lcXVpdj0icmVmcmVzaCIgY29udGVudD0iMDt1cmw9aHR0cHM6Ly90Lmx5LzNqR3JLIj4=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-01-27
+SHA256: 3b4660aa8dd08a06a829b06c25550674691cc2d42f5450d43a3e6c789a2270c2
+Score: 62
+Note: works as is
+---END VERIFICATION---
