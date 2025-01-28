@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-09-01
+BGGP Challenge Number: 5
+Author: amnesia
+Contact Info (Optional): 
+Online Presence (Website/Social Media):  Blog: https://amnesia.sh/  |  Fedi: https://haunted.computer/@amnesia
+Target File Type: Linux x86_64 ELF
+File Size: 146 bytes
+SHA256 Hash: d997aaf277f675bf56859f11006f07cc95121ceb0bd8c9ae76da6c838e9fdcdc
+Target Environment (How do we run the file?): curl must be installed at /bin/curl. No command line arguments necessary.
+Any additional info?: Tested on Ubuntu 22.04
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://amnesia.sh/bggp/2024/09/01/bggp5.html
+File contents (base64 encoded please): f0VMRgIBL2Jpbi9jdXJsAAIAPgABAAAAKABAAAAAAAA6AAAAAAAAAL8GAEAAvoIAQADrHjoAOAABAAEAAAAHAAAAAAAAAAAAAAAAAEAAAAAAADHSMcCwOw8FagAAAAAAAABqAAAAAAAAAGh0dHBzOi8vYmluYXJ5LmdvbGYvNS81AAYAQAAAAAAAagBAAAAAAAA=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-01-27
+SHA256: d997aaf277f675bf56859f11006f07cc95121ceb0bd8c9ae76da6c838e9fdcdc
+Score: 146
+Note: works as is
+---END VERIFICATION---
