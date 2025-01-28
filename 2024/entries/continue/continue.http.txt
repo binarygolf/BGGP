@@ -1,0 +1,25 @@
+---BEGIN BGGPx---
+Submit Date: 2024-07-03
+BGGP Challenge Number: 5
+Author: Aleksey R. (@continue)
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://honk.any-key.press/u/continue
+Target File Type: text (HTTP request content)
+File Size: 37
+SHA256 Hash: f46be3e12eca356334134f1de4920dc1d711519db21472e2352b5da3ac09e801
+Target Environment (How do we run the file?): `cat bggp5 | openssl s_client -quiet -connect binary.golf:443 2> /dev/null | tail -n 1`
+Any additional info?: File with target content - `bggp5`
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: `gemini://any-key.press/esoteric/bggp5_openssl.gmi` (in Russian)
+File contents (base64 encoded please): R0VUIC81LzUgSFRUUC8xLjAKSG9zdDogYmluYXJ5LmdvbGYKCg==
+---END BGGPx---
+
+```
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-01-27
+SHA256: f46be3e12eca356334134f1de4920dc1d711519db21472e2352b5da3ac09e801
+Score: 37
+Note: works as is
+---END VERIFICATION---
+```
