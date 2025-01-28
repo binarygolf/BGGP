@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024
+BGGP Challenge Number: 5
+Author: Aleksey R. (@continue)
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://honk.any-key.press/u/continue
+Target File Type: .pyc (binary: cached python bytecode)
+File Size: 120
+SHA256 Hash: 534b500414022b2aef7ec7088ce2c5f6ff3426d59e990b79ed51b2e651d0dfc6
+Target Environment (How do we run the file?): python3.10 (compiled bytecode for python 3.10)
+Any additional info?: file must be named "print(__import__('urllib.request',fromlist=(None,)).urlopen(chr(47).join(('https:','','binary.golf','5','5'))).read())" (no double quotes) and run with python3.10
+Link to PoC video, screenshot, or console output, if any: https://gist.github.com/any-key-dot-press/4c88fdea642c28ceb52e84fac6651ab1
+Link to writeup, if any: gemini://any-key.press/esoteric/bggp5_pyc.gmi (in Russian)
+File contents (base64 encoded please): bw0NCgAAAADaMo1mFgAAAOMAAAAAAAAAAAAAAAAAAAAABAAAAEAAAADzFAAAAGUAZQFkAGQBhQIZAIMBAQBkAVMAqQJpiv///06pAtoEZXZhbNoIX19maWxlX1+pAHIGAAAAcgYAAADaAHIHAAAAAQAAAPMAAAAA
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: ackmage (deepseagirl)
+Review Date: 2025-01-27
+SHA256: 534b500414022b2aef7ec7088ce2c5f6ff3426d59e990b79ed51b2e651d0dfc6
+Score: 3976
+Note: 
+---END VERIFICATION---
