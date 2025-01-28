@@ -70,6 +70,7 @@ The main difference between the 32-bit and the 64-bit versions lies in the diffe
 |--------|------|-----------|---------|------|
 | 105 | [VINSERTF128](./entries/VINSERTF128/VINSERTF128.elf.txt) 👑 | .elf | [writeup](https://gist.github.com/VINSERTF128/a42d2d15abad30f4477665734f60b0d9) | Passes 'https://binary.golf/5/5' via argv[1] |
 | 112 | [mebeim](./entries/mebeim/mebeim.elf64.txt) | .elf | [writeup](https://github.com/mebeim/bggp) | Passes 'https://binary.golf/5/5' via argv[1] |
+| 3043 | [retr0id](./entries/retr0id/retr0id.elf64.txt) | .elf | [writeup](https://github.com/DavidBuchanan314/kurl) | Static aarch64 binary, uses ktls and kernel crypto apis to make a userland golf'd curl implementation |
 
 #### Runs Without CLI Arguments
 
