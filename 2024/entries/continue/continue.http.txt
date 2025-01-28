@@ -14,7 +14,6 @@ Link to writeup, if any: `gemini://any-key.press/esoteric/bggp5_openssl.gmi` (in
 File contents (base64 encoded please): R0VUIC81LzUgSFRUUC8xLjAKSG9zdDogYmluYXJ5LmdvbGYKCg==
 ---END BGGPx---
 
-```
 ---BEGIN VERIFICATION---
 Reviewer: netspooky
 Review Date: 2025-01-27
@@ -22,4 +21,3 @@ SHA256: f46be3e12eca356334134f1de4920dc1d711519db21472e2352b5da3ac09e801
 Score: 37
 Note: works as is
 ---END VERIFICATION---
-```
