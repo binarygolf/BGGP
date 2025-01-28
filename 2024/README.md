@@ -103,6 +103,13 @@ Erlang is a general-purpose, concurrent, functional high-level programming langu
 |--------|------|-----------|---------|------|
 | 129 | [haxrob](./entries/haxrob/haxrob.erl.txt) 👑 | .erl | | |
 
+### GDB Script
+
+GDB scripts are used to automate actions inside of GDB, the GNU Debugger.
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 31 | [QoL15155](QoL15155/QoL15155.gdb.txt) 👑 | .gdb | | |
 
 ### Go
 
