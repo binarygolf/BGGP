@@ -1,0 +1,28 @@
+---BEGIN BGGPx---
+Submit Date: 2024/07/05
+BGGP Challenge Number: 5
+Author: QoL15155
+Contact Info (Optional): https://x.com/LiriPorat
+Online Presence (Website/Social Media): https://github.com/QoL15155
+Target File Type: GDB Script
+File Size: 31
+SHA256 Hash: fb126f9aa09913bcb353ef0f0eeabeb10c1b1ea2a7a4698d59584178394733fc
+Target Environment (How do we run the file?): linux
+Any additional info?: 
+Either run the script file from command line (calledi t s.gdb)- 
+$ gdb -x s.gdb
+or inside GDB:
+$ gdb
+$ source s.gdb
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): ZmlsZSBjdXJsCnIgLUwgYmluYXJ5LmdvbGYvNS81Cg==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-01-27
+SHA256: fb126f9aa09913bcb353ef0f0eeabeb10c1b1ea2a7a4698d59584178394733fc
+Score: 31
+Note: works as is
+---END VERIFICATION---
