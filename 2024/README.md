@@ -140,6 +140,14 @@ HyperText Markup Language is the standard markup language for documents designed
 | 80 | [mattpass](./entries/mattpass/mattpass.html.txt)  | .html | | |
 | 95 | [yael333](./entries/yael333/yael333.html.txt) | .html | | |
 
+### HTTP
+
+HTTP (Hypertext Transfer Protocol) is an application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web, where hypertext documents include hyperlinks to other resources that the user can easily access, for example by a mouse click or by tapping the screen in a web browser.
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 37 | [continue](./entries/continue/continue.http.txt)  👑 | .html | [writeup](gemini://any-key.press/esoteric/bggp5_openssl.gmi) | Uses openssl |
+
 ### Julia
 
 Julia is a general-purpose programming language, most commonly used for numerical analysis and computational science.
