@@ -324,7 +324,7 @@ Python is a high-level, general-purpose programming language. Its design philoso
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 22 | [continue](./entries/continue/continue.py.txt) 👑 | .py | | Executes the filename as a script |
+| 22 | [continue](./entries/continue/continue.py.txt) 👑 | .py | [writeup](gemini://any-key.press/esoteric/bggp5_pyc.gmi) | Executes the filename as a script |
 | 35 | [Aaron DeVera](./entries/Aaron%20DeVera/Aaron%20DeVera.py.txt) | .py | | Passes entire command in the file name and executes |
 | 41 | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.py.txt)   | .py | | Uses a URL shortener |
 | 46 | [jbo](./entries/jbo/jbo.py.txt)   | .py | | |
