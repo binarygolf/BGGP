@@ -71,6 +71,12 @@ The main difference between the 32-bit and the 64-bit versions lies in the diffe
 | 105 | [VINSERTF128](./entries/VINSERTF128/VINSERTF128.elf.txt) 👑 | .elf | [writeup](https://gist.github.com/VINSERTF128/a42d2d15abad30f4477665734f60b0d9) | Passes 'https://binary.golf/5/5' via argv[1] |
 | 112 | [mebeim](./entries/mebeim/mebeim.elf64.txt) | .elf | [writeup](https://github.com/mebeim/bggp) | Passes 'https://binary.golf/5/5' via argv[1] |
 
+#### Runs Without CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 146 | [amnesia](./entries/amnesia/amnesia.elf64.txt) 👑 | .elf | [writeup](https://amnesia.sh/bggp/2024/09/01/bggp5.html) | |
+
 ### Elixir
 
 Elixir is a dynamic, functional language that runs on the Erlang VM, known for creating low-latency, distributed, and fault-tolerant systems.
