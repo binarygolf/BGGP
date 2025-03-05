@@ -1,0 +1,26 @@
+---BEGIN BGGPx---
+Submit Date: 25th June
+BGGP Challenge Number: 5
+Author: mattpass
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @mattpass (X)
+Target File Type: Text (.txt)
+File Size: 0 bytes
+SHA256 Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Target Environment (How do we run the file?): Any Linux distro (eg Ubuntu), with python installed:
+- pip install scrapy
+- touch 7f.uk to create the file
+- scrapy fetch --nolog https://$(ls 7f.uk)
+Any additional info?: Sorry for this entry ;D 
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: https://pastebin.com/pAcukVNK
+File contents (base64 encoded please): 
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-05
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Score: 0
+Note: works as is
+---END VERIFICATION---
