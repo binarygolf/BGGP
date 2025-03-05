@@ -456,3 +456,12 @@ These entries can be run as a shell script or as shell code.
 |------|------|-----------|---------|------|
 | 69 | [jbo](./entries/jbo/jbo.sh.shellcode.txt) 👑 | .sh | [writeup](https://github.com/yo-yo-yo-jbo/bggp5_linux_shellcode) | [git issue](https://github.com/binarygolf/BGGP/issues/85) - no cli args! |
 
+## 0 Byte Files 
+
+0 byte files have historically not been allowed, but that caveat wasn't included in this years challenge page. 0 byte entries are listed here just because the tricks are interesting.
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 0 | [mattpass](https://github.com/binarygolf/BGGP/blob/main/2024/entries/mattpass/mattpass.txt.0.txt) | .txt | [writeup](https://pastebin.com/pAcukVNK) | [git issue](https://github.com/binarygolf/BGGP/issues/65) |
+| 0 | [mattpass](https://github.com/binarygolf/BGGP/blob/main/2024/entries/mattpass/mattpass.sh.0.txt) | .sh | [writeup](https://pastebin.com/pAcukVNK) | [git issue](https://github.com/binarygolf/BGGP/issues/75) |
+| 0 | [jbo](https://github.com/binarygolf/BGGP/blob/main/2024/entries/jbo/jbo.py.0.txt) | .py | | [git issue](https://github.com/binarygolf/BGGP/issues/122) |
