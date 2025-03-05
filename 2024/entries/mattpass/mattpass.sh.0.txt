@@ -1,0 +1,25 @@
+---BEGIN BGGPx---
+Submit Date: 26th June
+BGGP Challenge Number: 5
+Author: mattpass
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @mattpass (X)
+Target File Type: Shell .sh
+File Size: 0 bytes
+SHA256 Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Target Environment (How do we run the file?): Any Linux distro (eg Ubuntu), run:
+- touch x.sh # to make the empty file
+- export PS1="\n$($(echo "curl https://binary.golf/5/5" >> x.sh && cat x.sh))\n└─▶ " # update file with payload, read back and exec in arg value 
+Any additional info?: Unsure if this is valid, but there's nothing in rules to state the file can't be updated during execution. So file is empty to start with, updated with a Shell command, read back, executed and output used as part of a PS1 prompt, because err, fun LOL
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://pastebin.com/pAcukVNK
+File contents (base64 encoded please): 
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-05
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Score: 0
+Note: works as is
+---END VERIFICATION---
