@@ -140,6 +140,7 @@ Run from source with `go run`
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 63 | [mebeim](./entries/mebeim/mebeim.go-cli-args.txt) 👑 | .go | [writeup](https://github.com/mebeim/bggp) | [git issue](https://github.com/binarygolf/BGGP/issues/116) |
+| 121 | [Inventhrice](./entries/Inventhrice/Inventhrice.go.txt) | .go | [writeup](https://github.com/Inventhrice/bggp5-entry/blob/main/writeup.md) | [git issue](https://github.com/binarygolf/BGGP/issues/132) |
 
 
 ### HTML
