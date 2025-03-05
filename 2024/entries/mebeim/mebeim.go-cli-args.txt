@@ -1,0 +1,24 @@
+---BEGIN BGGPx---
+Submit Date: 2024-07-06
+BGGP Challenge Number: 5
+Author: mebeim
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://mebeim.net
+Target File Type: Go source code
+File Size: 63 bytes
+SHA256 Hash: 92cdb36c34286861fdd5deef7487abfc4ec54280427ae71052554bfe93ffb345
+Target Environment (How do we run the file?): Needs `curl` installed. Run from bash shell with: `A='curl 
+https://binary.golf/5/5' go run file.go`.
+Any additional info?: Uses cgo so it may also need a C compiler installed.
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any: https://github.com/mebeim/bggp
+File contents (base64 encoded please): cGFja2FnZSBtYWluCi8vYSgpe3N5c3RlbSgiJEEiKTt9CmltcG9ydCAiQyIKZnVuYyBtYWluKCl7Qy5hKCl9
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-05
+SHA256: 92cdb36c34286861fdd5deef7487abfc4ec54280427ae71052554bfe93ffb345
+Score: 63
+Note: works as is
+---END VERIFICATION---
