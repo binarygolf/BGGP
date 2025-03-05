@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 04-Aug-2024
+BGGP Challenge Number: 5
+Author: Inventhrice (me)
+Contact Info (Optional): None
+Online Presence (Website/Social Media): None
+Target File Type: .go
+File Size: 121 (there are 121 characters)
+SHA256 Hash: 8b6f97eaafac576bcce2bb320744c52d08121f51925a2e1e55dcb5dafc47b39a
+Target Environment (How do we run the file?): Save file as `main.go`; `go mod init foo/bar;  go run main.go curl https://binary.golf/5/5`
+Any additional info?: Please make sure curl is in %PATH% !
+Link to PoC video, screenshot, or console output, if any: https://github.com/user-attachments/assets/e35ad6cc-e314-40d5-9000-e4db7185ee59
+Link to writeup, if any: https://github.com/Inventhrice/bggp5-entry/blob/main/writeup.md
+File contents (base64 encoded please): cGFja2FnZSBtYWluO2ltcG9ydCgiZm10IjtpIm9zIjtoIm9zL2V4ZWMiKTtmdW5jIG1haW4oKXtyLF86PWguQ29tbWFuZChpLkFyZ3NbMV0saS5BcmdzWzJdKS5PdXRwdXQoKTtmbXQuUHJpbnRmKCIlcyIsIHIpfQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-05
+SHA256: 8b6f97eaafac576bcce2bb320744c52d08121f51925a2e1e55dcb5dafc47b39a
+Score: 121
+Note: works as is
+---END VERIFICATION---
