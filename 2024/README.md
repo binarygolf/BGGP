@@ -427,3 +427,14 @@ Windows Batch files are a scripting language inherited from DOS.
 |------|------|-----------|---------|------|
 |   3  | [gremlinbeet](./entries/gremlinbeet/gremlinbeet.bat.txt) 👑 | .bat | [writeup](https://github.com/gremlinbeet/binarygolf/blob/main/bggp5.batch3.adoc) | Passes entire command in file name and executes, requires Powershell |
 |   5  | [Krishean](./entries/Krishean/Krishean.bat.txt)   | .bat |  | Passes entire command in file name and executes |
+
+## Polyglots
+
+### Shell Script / Linux x64 Shellcode 
+
+These entries can be run as a shell script or as shell code.
+
+| Size | Author | File Type | Writeup | Note |
+|------|------|-----------|---------|------|
+| 69 | [jbo](./entries/jbo/jbo.sh.shellcode.txt) 👑 | .sh | [writeup](https://github.com/yo-yo-yo-jbo/bggp5_linux_shellcode) | [git issue](https://github.com/binarygolf/BGGP/issues/85) - no cli args! |
+
