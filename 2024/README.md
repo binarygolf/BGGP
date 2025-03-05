@@ -390,6 +390,14 @@ Ruby is a high level programming language with an emphasis on programming produc
 |--------|------|-----------|---------|------|
 | 51 | [demon-i386](./entries/demon-i386/demon-i386.rb.txt) 👑 | .rb | | Entry loads the 'net/http' library via the -r argument |
 
+### Shellcode
+
+Shellcode is machine code for a given CPU architecture, often used in exploits.
+
+| Size | Author | File Type | Writeup | Note |
+|------|--------|-----------|---------|------|
+| 46 | [jbo](./entries/jbo/jbo.shellcode.txt) | .bin | [writeup](https://github.com/yo-yo-yo-jbo/bggp5_linux_shellcode) | [git issue](https://github.com/binarygolf/BGGP/issues/52) |
+
 ### Shell Script
 
 Shell scripts can be invoked in numerous ways, so we have categories for both types of entries.
