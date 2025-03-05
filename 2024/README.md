@@ -323,6 +323,7 @@ Python is a high-level, general-purpose programming language. Its design philoso
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 12 | [Luidiblu](./entries/Luidiblu/Luidiblu.py.txt) 👑 | .py | | Passes entire command via arguments |
+| 266 | [hyp](./entries/hyp/hyp.py-ebpf.txt) | .py | [writeup](https://scratchadams.github.io/posts/bggp5/) | [git issue](https://github.com/binarygolf/BGGP/issues/83) - Uses an ebpf filter to set all requests to https://binary.golf/5/5 | 
 
 #### Runs Without CLI Arguments
 
@@ -335,6 +336,7 @@ Python is a high-level, general-purpose programming language. Its design philoso
 | 64 | [caioluders](./entries/caioluders/caioluders.py.txt) | .py | | Needs requests module installed |
 | 77 | [matteyeux](./entries/matteyeux/matteyeux.py.txt) | .py | | |
 | 86 | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.py.txt) | .py | | Uses standard library only |
+
 
 ### Python .pyc
 
