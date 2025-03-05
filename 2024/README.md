@@ -129,9 +129,18 @@ Go is a statically typed, compiled high-level programming language designed at G
 
 Run from source with `go run`
 
+#### Runs Without CLI Arguments
+
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 138 | [airencracken](./entries/airencracken/airencracken.go.txt) 👑 | .go | | |
+
+#### Runs With CLI Arguments
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 63 | [mebeim](./entries/mebeim/mebeim.go-cli-args.txt) 👑 | .go | [writeup](https://github.com/mebeim/bggp) | |
+
 
 ### HTML
 
