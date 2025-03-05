@@ -76,7 +76,7 @@ The main difference between the 32-bit and the 64-bit versions lies in the diffe
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 109 | [VINSERTF128](./entries/VINSERTF128/VINSERTF128.elf64.txt) 👑 | .elf | [writeup](https://gist.github.com/VINSERTF128/a42d2d15abad30f4477665734f60b0d9) | |
+| 109 | [VINSERTF128](./entries/VINSERTF128/VINSERTF128.elf64.txt) 👑 | .elf | [writeup](https://gist.github.com/VINSERTF128/a42d2d15abad30f4477665734f60b0d9) | [git issue](https://github.com/binarygolf/BGGP/issues/136) |
 | 146 | [amnesia](./entries/amnesia/amnesia.elf64.txt) | .elf | [writeup](https://amnesia.sh/bggp/2024/09/01/bggp5.html) | |
 | 620 | [bah](./entries/bah/bah.elf64.txt) | .elf | [writeup](https://github.com/bahorn/bphage) | Uses a variety of cool techniques to load libssl. Check the writeup and source! |
 
