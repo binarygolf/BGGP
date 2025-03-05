@@ -56,7 +56,8 @@ Moreover, the ELF format is versatile. Its design allows it to be executed on va
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 82 | [mebeim](./entries/mebeim/mebeim.elf32.txt) 👑 | .elf | [writeup](https://github.com/mebeim/bggp) | Needs mmap_min_addr set to 0 && uses shortened url http://7f.uk |
+| 81 | [VINSERTF128](./entries/VINSERTF128/VINSERTF128.elf32.txt) 👑 | .elf | [writeup](https://gist.github.com/VINSERTF128/a42d2d15abad30f4477665734f60b0d9) | [git issue](https://github.com/binarygolf/BGGP/issues/135) |
+| 82 | [mebeim](./entries/mebeim/mebeim.elf32.txt) | .elf | [writeup](https://github.com/mebeim/bggp) | Needs mmap_min_addr set to 0 && uses shortened url http://7f.uk |
 
 ### ELF 64-bit
 
