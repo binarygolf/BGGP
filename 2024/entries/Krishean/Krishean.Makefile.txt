@@ -1,0 +1,24 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-26
+BGGP Challenge Number: 5
+Author: Krishean
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://tech.lgbt/@krishean
+Target File Type: Makefile
+File Size: 10 bytes
+SHA256 Hash: 92b4bdc1b250585d5ca6fa028317222dccd630d083557d0f45f0fc8c79ba5082
+Target Environment (How do we run the file?): needs curl and gnu make installed, name file `Makefile` and run with: `make a="curl -sL https://binary.golf/5/5"`
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): YWxsOgoJJChhKQ==
+---END BGGPx---
+
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-05
+SHA256: 92b4bdc1b250585d5ca6fa028317222dccd630d083557d0f45f0fc8c79ba5082
+Score: 10
+Note: works as is
+---END VERIFICATION---
