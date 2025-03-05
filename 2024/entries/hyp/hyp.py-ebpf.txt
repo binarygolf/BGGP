@@ -1,0 +1,29 @@
+---BEGIN BGGPx---
+Submit Date: 6/26/24
+BGGP Challenge Number: 5
+Author: hyp
+Contact Info (Optional):  
+Online Presence (Website/Social Media): https://scratchadams.github.io/
+Target File Type: python/eBPF
+File Size: 266
+SHA256 Hash: 97e29857fc65b249c780d989e592512ead323674b3cb6a43ec1cba30f2f22689
+Target Environment (How do we run the file?): Python on Linux (Linux hop 6.5.0-41-generic #41-Ubuntu)
+Any additional info?: bcc and curl required
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://scratchadams.github.io/posts/bggp5/
+File contents (base64 encoded please): aW1wb3J0IHN5cwpmcm9tIGJjYyBpbXBvcnQgQlBGCkJQRih0ZXh0PSIiIiNpbmNsdWRlIDx1YXBp
+L2xpbnV4L3B0cmFjZS5oPiAKdm9pZCBjKHN0cnVjdCBwdF9yZWdzICpjdHgpIHtjaGFyIGJbMjRd
+ID0gImh0dHBzOi8vYmluYXJ5LmdvbGYvNS81IjticGZfcHJvYmVfd3JpdGVfdXNlcigodm9pZCAq
+KWN0eC0+ZHgsIGIsIDI0KTt9OyIiIikuYXR0YWNoX3Vwcm9iZShuYW1lPXN5cy5hcmd2WzFdLCBz
+eW09ImN1cmxfdXJsIiwgZm5fbmFtZT0iYyIpCndoaWxlIDE6MQo=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-05
+SHA256: 97e29857fc65b249c780d989e592512ead323674b3cb6a43ec1cba30f2f22689
+Score: 266
+Note: needs bcc https://github.com/iovisor/bcc/blob/master/INSTALL.md
+needs sudo and libcurl as the argument:
+$ sudo python3 entry.py /usr/lib/x86_64-linux-gnu/libcurl.so.4
+---END VERIFICATION--
