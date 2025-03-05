@@ -1,0 +1,26 @@
+---BEGIN BGGPx---
+Submit Date: 2024-08-26
+BGGP Challenge Number: 5
+Author: VINSERTF128
+Contact Info (Optional): VINSERTF128@mntcrl.it
+Online Presence (Website/Social Media): https://infosec.exchange/@VINSERTF128
+Target File Type: 32-bit ELF executable for Linux x86
+File Size: 81
+SHA256 Hash: fe4421399144ffdacc2669eb97affe6741b0b3dde9ba4f936488fcff2df29b3c
+Target Environment (How do we run the file?): The binary need curl located in "/bin/curl", after made it executable run it as "./prog"
+Any additional info?: tested on 6.8.0-44-generic #44~22.04.3-Ubuntu, the program does a request to "ELF.mk" that redirects to the right 
+URL
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://gist.github.com/VINSERTF128/a42d2d15abad30f4477665734f60b0d9
+File contents (base64 encoded please): 
+f0VMRi5tawAtTACzCFPrOgIAAwABAAAAOAABACwAAACwC7sBAAEAU+vhIAABAAAAAAAAAAAAAQBZWevkL2Jpbi9iaW4vY3VybACzQFOJ4c2A
+---END BGGPx---
+
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-05
+SHA256: fe4421399144ffdacc2669eb97affe6741b0b3dde9ba4f936488fcff2df29b3c
+Score: 81
+Note: works as is
+---END VERIFICATION---
