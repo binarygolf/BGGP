@@ -1,0 +1,25 @@
+---BEGIN BGGPx---
+Submit Date: 2024-Aug-07
+BGGP Challenge Number: 5
+Author: Jonathan Bar Or ("JBO")
+Contact Info (Optional): @yo_yo_yo_jbo
+Online Presence (Website/Social Media): @yo_yo_yo_jbo
+Target File Type: *.py
+File Size: 0
+SHA256 Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Target Environment (How do we run the file?): Linux or macOS:
+1. Create an empty file: **touch /tmp/a.py**
+2. Run with PYTHONSTARTUP from STDIN: **printf "import sys;sys.ps1='';import os;_=os.system('printf \\\\r>/dev/tty && curl https://binary.golf/5/5')\n" | PYTHONSTARTUP=/dev/fd/0 python3 -i /tmp/a.py**
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): 
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-05
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Score: 0
+Note: works as is
+---END VERIFICATION---
