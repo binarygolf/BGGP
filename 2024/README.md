@@ -50,7 +50,8 @@ Moreover, the ELF format is versatile. Its design allows it to be executed on va
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 89 | [mndz](./entries/mndz/mndz.elf.x86.32.txt) 👑 | .elf | https://github.com/0x6d6e647a/bggp-2024 | |
+| 76 | [mebeim](./entries/mebeim/mebeim.elf32-cli-args.txt) 👑 | .elf | [writeup](https://github.com/mebeim/bggp) | |
+| 89 | [mndz](./entries/mndz/mndz.elf.x86.32.txt) | .elf | https://github.com/0x6d6e647a/bggp-2024 | |
 
 #### Runs Without CLI Arguments
 
