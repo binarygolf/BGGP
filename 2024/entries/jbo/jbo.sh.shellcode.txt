@@ -1,0 +1,25 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-26
+BGGP Challenge Number: 5
+Author: Jonathan Bar Or ("JBO")
+Contact Info (Optional): @yo_yo_yo_jbo
+Online Presence (Website/Social Media): @yo_yo_yo_jbo
+Target File Type: Linux shellcode \ sh shell script polyglot
+File Size: 69 (LOL)
+SHA256 Hash: 9b50c629c0ef17998d4451a31f1c821bc7b38e5af5be4eedf950c12db5719fba
+Target Environment (How do we run the file?): Linux x64 Intel - can either be run with sh ./shellcode (gotta use sh, bash won't work) OR 
+use the Linux shellcode runner supplied here: https://github.com/yo-yo-yo-jbo/bggp5_linux_shellcode
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://github.com/yo-yo-yo-jbo/bggp5_linux_shellcode
+File contents (base64 encoded please): UjQ96BkAAAA7L2Jpbi9jdXJsIC1MIDdmLnVrCmV4aXQKX0iJ/jHAmVL8SIPHE6pIg+8HqldIg+8EqlesVkiJ90iJ5g8F
+---END BGGPx---
+
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-05
+SHA256: 9b50c629c0ef17998d4451a31f1c821bc7b38e5af5be4eedf950c12db5719fba
+Score: 69
+Note: works as is
+---END VERIFICATION---
