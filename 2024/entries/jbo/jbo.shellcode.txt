@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-24
+BGGP Challenge Number: 5
+Author: Jonathan Bar Or ("JBO")
+Contact Info (Optional): @yo_yo_yo_jbo
+Online Presence (Website/Social Media): @yo_yo_yo_jbo
+Target File Type: Linux shellcode
+File Size: 46
+SHA256 Hash: afcbf5e3108cb47ebb95e7bf3b7b639f9723a9219938ad4ab62520a41946795c
+Target Environment (How do we run the file?): Modern Linux with curl under /bin/curl (64 bit Intel). Shellcode runner exists in the writeup repository (https://github.com/yo-yo-yo-jbo/bggp5_linux_shellcode/blob/main/shellcode_runner.c), which will read the shellcode file from the commandline argument (e.g. run "make && ./shellcode_runner ./shellcode"). Source code of shellcode available in the repository too (https://github.com/yo-yo-yo-jbo/bggp5_linux_shellcode/blob/main/shellcode.asm) under NASM syntax.
+Any additional info?: ---
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://github.com/yo-yo-yo-jbo/bggp5_linux_shellcode
+File contents (base64 encoded please): 6BMAAAA3Zi51awAtTAAvYmluL2N1cmwAX2o7WJlSV0iDxwZXSIPHA1dIieYPBQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-05
+SHA256: afcbf5e3108cb47ebb95e7bf3b7b639f9723a9219938ad4ab62520a41946795c
+Score: 46
+Note: works as is
+---END VERIFICATION---
