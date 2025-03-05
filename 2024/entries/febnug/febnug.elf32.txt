@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 17 - August
+BGGP Challenge Number: 5
+Author: febnug 
+Contact Info (Optional): febriyantonugroho51@gmail.com
+Online Presence (Website/Social Media): https://fnlqxz.my.id
+Target File Type: Linux x86 ELF
+File Size: 162 bytes
+SHA256 Hash: 8e2f8fbb86465c572266e59b4e6fe5e86a3428576f5334d7278e7093ff96c772
+Target Environment (How do we run the file?): 
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://catalyst.fnlqxz.my.id/misc/bggp5-entry.txt
+File contents (base64 encoded please): f0VMRgEBAQAAAAAAAAAAAAIAAwABAAAAVIAECDQAAAAAAAAAAAAAADQAIAABAAAAAAAAAAEAAAAAAAAAAIAECACABAiiAAAAogAAAAUAAAAAEAAA6yFfagtYmVJmaC1jieZSaC8vc2hoL2JpbonjUldWU4nhzYDo2v///2N1cmwgLUwgaHR0cHM6Ly9iaW5hcnkuZ29sZi81LzU7IGV4aXQ7
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-05
+SHA256: 8e2f8fbb86465c572266e59b4e6fe5e86a3428576f5334d7278e7093ff96c772
+Score: 162
+Note: works as is
+---END VERIFICATION---
