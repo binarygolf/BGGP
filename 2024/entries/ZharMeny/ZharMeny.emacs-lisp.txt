@@ -1,0 +1,24 @@
+---BEGIN BGGPx---
+Submit Date: 2024-07-29
+BGGP Challenge Number: 5
+Author: @ZharMeny
+Contact Info (Optional): @zharmeny:matrix.org
+Online Presence (Website/Social Media): 
+Target File Type: .el
+File Size: 64 bytes / 0 via CLI arguments
+SHA256 Hash: ec8d3af0894536afde4716783f20077026ee134851fcdd33fafd59f8eb5fcf45
+Target Environment (How do we run the file?): emacs -l entry.el
+Any additional info?: https://github.com/ZharMeny/BGGP-5-submission
+Link to PoC video, screenshot, or console output, if any: https://github.com/ZharMeny/BGGP-5-submission/blob/main/output
+Link to writeup, if any: 
+File contents (base64 encoded please): KHN3aXRjaC10by1idWZmZXIodXJsLXJldHJpZXZlImh0dHBzOi8vYmluYXJ5LmdvbGYvNS81IidpZ25vcmUpKQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-06
+SHA256: ec8d3af0894536afde4716783f20077026ee134851fcdd33fafd59f8eb5fcf45
+Score: 64
+Note: works, needed to run per the writeup
+$ emacs -Q -l entry.el
+---END VERIFICATION---
