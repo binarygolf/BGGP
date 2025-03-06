@@ -1,0 +1,28 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-23
+BGGP Challenge Number: 5
+Author: bah
+Contact Info (Optional): bahorn in the BGGP discord.
+Online Presence (Website/Social Media): b.horn.uk
+Target File Type: LLVM IR
+File Size: 114 bytes
+SHA256 Hash: f18c9f727a44f09f4423df758013bdb6aa615e1b19f9d624a9a3caf629581753
+Target Environment (How do we run the file?): Linux with `llc-18 ./entry.ll && clang-18 entry.s && ./a.out`, Dockerfile for ease of 
+testing: https://gist.github.com/bahorn/bce47395e19f5cfd190d4c83996b306c
+Any additional info?: Works on versions of LLVM down to 14 (llc-14 requires the `-opaque-pointers` flag, llc-16 shouldn't), doesn't work 
+with earlier versions. Just shelling out to curl.
+Link to PoC video, screenshot, or console output, if any: 
+https://github.com/binarygolf/BGGP/assets/22912854/1ef1db42-0eba-4dd7-a56b-0a413f1c10b0
+Link to writeup, if any: 
+File contents (base64 encoded please): 
+ZGVmaW5lIGkxQG1haW4oKXtjYWxsIGkxQHN5c3RlbShwdHJAbylyZXQgaTEgMH1kZWNsYXJlIGkxQHN5c3RlbShwdHIpQG89Z2xvYmFsWzIzIHggaThdYyJjdXJsIC1MIGJpbmFye
+S5nb2xmLzUvNSIK
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-06
+SHA256: f18c9f727a44f09f4423df758013bdb6aa615e1b19f9d624a9a3caf629581753
+Score: 114
+Note: works as is
+---END VERIFICATION---
