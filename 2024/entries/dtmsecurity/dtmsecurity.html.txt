@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 07/04/24
+BGGP Challenge Number: 5
+Author: dtmsecurity
+Contact Info (Optional):
+Online Presence (Website/Social Media): dtmsecurity
+Target File Type: .html
+File Size: 42B
+SHA256 Hash: 2fa9d9f54116da511d3044ea5748aa0d9316d01acf22eb28aa11d17afb93702d
+Target Environment (How do we run the file?): Tested in Chrome/Firefox
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): PGJvZHkgb25sb2FkPWxvY2F0aW9uLmhyZWY9J2h0dHA6Ly9rNy51ayc+
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-06
+SHA256: 2fa9d9f54116da511d3044ea5748aa0d9316d01acf22eb28aa11d17afb93702d
+Score: 42
+Note: works as is, uses short link
+---END VERIFICATION---
