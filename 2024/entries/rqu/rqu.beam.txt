@@ -1,0 +1,28 @@
+---BEGIN BGGPx---
+Submit Date: 2024-07-10
+BGGP Challenge Number: 5
+Author: rqu
+Contact Info (Optional): 
+Online Presence (Website/Social Media): 
+Target File Type: .beam 
+File Size: 207
+SHA256 Hash: 73deaa9710a643d7d239d97fe004eec36c6ae1b0eb1bc1a7e8b38884e15a20cb
+Target Environment (How do we run the file?): 
+1) File must be named `start.beam`. 
+2) Run in BEAM VM: `erl -noshell -s start inets`
+Any additional info?: Tested on debian 12 with Erlang/OTP 25 (erts-13.1.5)
+Link to PoC video, screenshot, or console output, if any: https://hacking.rip/bggp5.gmi
+Link to writeup, if any: https://hacking.rip/bggp5.gmi
+File contents (base64 encoded please): 
+H4sIAOsNj2YC/3PzDzJkYGD44OTq6OtYEmoBZCsBMStrcUliUQlzcXEOa2Zeakkxa0ZJSUEye1FqYWlqcQkDg3N+SipQnS4QCzBAwEogZgZiRkYBJiEjBkYFdgYGdgYBB3cGZnYBB
+SACSQaXFIWAFHvmFoBoDageJpA+qDnMSGwWkFtAfNcKsHoBqBwzVJ7JJ7MEJK4HcnfFnOSEhISUhIQJWefSBE5raGpuuHTd/9QZb51VV7zPn/e8bH7VnJWhwoljNgMDACtR3dT4AA
+AA
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-06
+SHA256: 73deaa9710a643d7d239d97fe004eec36c6ae1b0eb1bc1a7e8b38884e15a20cb
+Score: 207
+Note: download appears in error output
+---END VERIFICATION---
