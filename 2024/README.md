@@ -116,6 +116,14 @@ Erlang is a general-purpose, concurrent, functional high-level programming langu
 | 104 | [rqu](./entries/rqu/rqu.erl.txt) 👑 | .erl | [writeup](https://hacking.rip/bggp5.gmi) | [git issue](https://github.com/binarygolf/BGGP/issues/127) |
 | 129 | [haxrob](./entries/haxrob/haxrob.erl.txt) 👑 | .erl | | |
 
+### Erlang BEAM Bytecode
+
+BEAM is part of the Erlang Run-Time System (ERTS), which compiles Erlang source code into bytecode, which is then executed on the BEAM.
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 207 | [rqu](./entries/rqu/rqu.beam.txt) 👑 | .beam | [writeup](https://hacking.rip/bggp5.gmi) | [git issue](https://github.com/binarygolf/BGGP/issues/128) |
+
 ### GDB Script
 
 GDB scripts are used to automate actions inside of GDB, the GNU Debugger.
