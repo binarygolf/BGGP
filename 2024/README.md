@@ -197,6 +197,14 @@ LaTeX is a software system for typesetting documents. LaTeX markup describes the
 |------|----------------------------------------------------|-----------|---------|------------------------------------|
 | 64   | [luskabol](./entries/luskabol/luskabol.tex.txt) 👑 | .tex      | | Requires `--shell-escape` argument |
 
+### LLVM-IR
+
+LLVM is designed around a language-independent intermediate representation (IR) that serves as a portable, high-level assembly language that can be optimized with a variety of transformations over multiple passes.
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 114 | [bah](./entries/bah/bah.ll.txt) | .ll | | [git issue](https://github.com/binarygolf/BGGP/issues/42) |
+
 ### Lua
 
 Lua is a lightweight, high-level programming language designed primarily for embedded use in applications.
