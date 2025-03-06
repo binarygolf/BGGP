@@ -166,7 +166,8 @@ HyperText Markup Language is the standard markup language for documents designed
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 62 | [mattpass](./entries/mattpass/mattpass.html.txt)  👑 | .html | [writeup](https://pastebin.com/pAcukVNK) | uses a url shortener |
+| 42 | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.html.txt) 👑 | .html | | [git issue](https://github.com/binarygolf/BGGP/issues/107) - uses short url |
+| 62 | [mattpass](./entries/mattpass/mattpass.html.txt) | .html | [writeup](https://pastebin.com/pAcukVNK) | uses a url shortener |
 | 67 | [caioluders](./entries/caioluders/caioluders.html.txt) | .html | | |
 | 76 | [vvx7](./entries/vvx7/vvx7.html.txt) | .html | | |
 | 80 | [mattpass](./entries/mattpass/mattpass.html.txt)  | .html | | |
