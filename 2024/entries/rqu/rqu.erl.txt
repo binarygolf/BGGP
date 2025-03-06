@@ -1,0 +1,28 @@
+---BEGIN BGGPx---
+Submit Date: 2024-07-10
+BGGP Challenge Number: 5
+Author: rqu
+Contact Info (Optional): 
+Online Presence (Website/Social Media): 
+Target File Type: .erl
+File Size: 104
+SHA256 Hash: eecba23bfdfab0c61aefdb853621452bd0b5e2fb6e3033ef390f96b7a0df2bb6
+Target Environment (How do we run the file?): 
+1) File must be named `q.erl`. 
+2) Compile: `erlc q.erl`. 
+3) Run in BEAM VM: `erl -noshell -s q q`
+Any additional info?: Tested on debian 12 with Erlang/OTP 25 (erts-13.1.5)
+Link to PoC video, screenshot, or console output, if any: https://hacking.rip/bggp5.gmi
+Link to writeup, if any: https://hacking.rip/bggp5,gmi
+File contents (base64 encoded please): 
+LW1vZHVsZShxKS4KLWV4cG9ydChbcS8wXSkuCnEoKS0+c3NsOnN0YXJ0KCksaW5ldHM6c3RhcnQoKSxxOnEoaHR0cGM6cmVxdWVzdCgiaHR0cDovL2JpbmFyeS5nb2xmLzUvNSIpK
+S4=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-06
+SHA256: eecba23bfdfab0c61aefdb853621452bd0b5e2fb6e3033ef390f96b7a0df2bb6
+Score: 104
+Note: download appears in error output
+---END VERIFICATION---
