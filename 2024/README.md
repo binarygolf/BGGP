@@ -95,9 +95,17 @@ Elixir is a dynamic, functional language that runs on the Erlang VM, known for c
 #### Runs Without CLI Arguments
 
 | Size | Author | File Type | Writeup | Note |
-|--------|------|-----------|---------|------|
+|------|--------|-----------|---------|------|
 | 92 | [haxrob](./entries/haxrob/haxrob.exs.txt) 👑 | .exs | | |
 | 118 | [riesha](./entries/riesha/riesha.exs.txt)  | .exs | | |
+
+### Emacs Lisp
+
+Emacs Lisp code is used to modify, extend and customize Emacs.
+
+| Size | Author | File Type | Writeup | Note |
+|------|--------|-----------|---------|------|
+| 64 | [ZharMeny](./entries/ZharMeny/ZharMeny.emacs-lisp.txt) 👑 | .el | [writeup](https://github.com/ZharMeny/BGGP-5-submission) | [git issue](https://github.com/binarygolf/BGGP/issues/131) |
 
 ### Epub
 
