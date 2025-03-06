@@ -181,6 +181,14 @@ HTTP (Hypertext Transfer Protocol) is an application layer protocol in the Inter
 |--------|------|-----------|---------|------|
 | 37 | [continue](./entries/continue/continue.http.txt)  👑 | .html | [writeup](gemini://any-key.press/esoteric/bggp5_openssl.gmi) | Uses openssl |
 
+### Java Class
+
+Java is a high-level, general-purpose, memory-safe, object-oriented programming language. 
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 275 | [jbo](./entries/jbo/jbo.java.txt) 👑 | .class | | [git issue](https://github.com/binarygolf/BGGP/issues/97) |
+
 ### Julia
 
 Julia is a general-purpose programming language, most commonly used for numerical analysis and computational science.
