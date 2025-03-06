@@ -113,6 +113,7 @@ Erlang is a general-purpose, concurrent, functional high-level programming langu
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
+| 104 | [rqu](./entries/rqu/rqu.erl.txt) 👑 | .erl | [writeup](https://hacking.rip/bggp5.gmi) | [git issue](https://github.com/binarygolf/BGGP/issues/127) |
 | 129 | [haxrob](./entries/haxrob/haxrob.erl.txt) 👑 | .erl | | |
 
 ### GDB Script
