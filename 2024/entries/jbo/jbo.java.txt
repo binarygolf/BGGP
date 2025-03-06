@@ -1,0 +1,27 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-29
+BGGP Challenge Number: 5
+Author: Jonathan Bar Or ("JBO")
+Contact Info (Optional): @yo_yo_yo_jbo
+Online Presence (Website/Social Media): @yo_yo_yo_jbo 
+Target File Type: class (Java class)
+File Size: 275
+SHA256 Hash: ee29b5a944c0d0db9cc3b420991340a64617ded0d840715c4c67df230172b182
+Target Environment (How do we run the file?): file must be called "Code.class", please run "java Code" and wait a few seconds (even after
+the program finishes - it forks). Also, relies on "curl" and "bash" - so run in macOS or Linux.
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://github.com/yo-yo-yo-jbo/bggp5_java_editing
+File contents (base64 encoded please): 
+yv66vgAAADcAEQoACAAJCAAKCgAIAAsHAAUBAARDb2RlAQAEbWFpbgEAFihbTGphdmEvbGFuZy9TdHJpbmc7KVYHAAwMAA0ADgEAJ2Jhc2ggLWMgY3VybCR7SUZTfS1MJHtJRlN9N
+2YudWs+L2QqL3R0eQwADwAQAQARamF2YS9sYW5nL1J1bnRpbWUBAApnZXRSdW50aW1lAQAVKClMamF2YS9sYW5nL1J1bnRpbWU7AQAEZXhlYwEAJyhMamF2YS9sYW5nL1N0cmluZz
+spTGphdmEvbGFuZy9Qcm9jZXNzOwQhAAQACAAAAAAAAQAJAAYABwABAAUAAAAVAAIAAQAAAAm4AAESArYAA7EAAAAAAAA=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-06
+SHA256: ee29b5a944c0d0db9cc3b420991340a64617ded0d840715c4c67df230172b182
+Score: 275
+Note: works as is
+---END VERIFICATION---
