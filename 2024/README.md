@@ -58,7 +58,7 @@ Moreover, the ELF format is versatile. Its design allows it to be executed on va
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 81 | [VINSERTF128](./entries/VINSERTF128/VINSERTF128.elf32.txt) 👑 | .elf | [writeup](https://gist.github.com/VINSERTF128/a42d2d15abad30f4477665734f60b0d9) | [git issue](https://github.com/binarygolf/BGGP/issues/135) |
-| 82 | [mebeim](./entries/mebeim/mebeim.elf32.txt) | .elf | [writeup](https://github.com/mebeim/bggp) | Needs mmap_min_addr set to 0 && uses shortened url http://7f.uk |
+| 82 | [mebeim](./entries/mebeim/mebeim.elf32.txt) | .elf | [writeup](https://github.com/mebeim/bggp) | [git issue](https://github.com/binarygolf/BGGP/issues/118) - Needs mmap_min_addr set to 0 && uses shortened url http://7f.uk |
 | 162 | [febnug](.entries/febnug/febnug.elf32.txt) | .elf | [writeup](https://catalyst.fnlqxz.my.id/misc/bggp5-entry.txt) | [git issue](https://github.com/binarygolf/BGGP/issues/133) | 
 
 ### ELF 64-bit
@@ -72,7 +72,7 @@ The main difference between the 32-bit and the 64-bit versions lies in the diffe
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 105 | [VINSERTF128](./entries/VINSERTF128/VINSERTF128.elf64-cli-args.txt) 👑 | .elf | [writeup](https://gist.github.com/VINSERTF128/a42d2d15abad30f4477665734f60b0d9) | Passes 'https://binary.golf/5/5' via argv[1] |
-| 112 | [mebeim](./entries/mebeim/mebeim.elf64.txt) | .elf | [writeup](https://github.com/mebeim/bggp) | Passes 'https://binary.golf/5/5' via argv[1] |
+| 112 | [mebeim](./entries/mebeim/mebeim.elf64.txt) | .elf | [writeup](https://github.com/mebeim/bggp) | [git issue](https://github.com/binarygolf/BGGP/issues/123) - Passes 'https://binary.golf/5/5' via argv[1] |
 | 3043 | [retr0id](./entries/retr0id/retr0id.elf64.txt) | .elf | [writeup](https://github.com/DavidBuchanan314/kurl) | Static aarch64 binary, uses ktls and kernel crypto apis to make a userland golf'd curl implementation |
 
 #### Runs Without CLI Arguments
@@ -316,7 +316,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 
 | Size | Author                                             | File Type | Writeup | Note |
 |------|----------------------------------------------------|-----------|---------|------|
-| 26   | [mebeim](./entries/mebeim/mebeim.php.txt) 👑        | .php | | Requires `allow_url_include` and `short_path_on` in php.ini. File must be run from directory `/binary.golf/5/5` |
+| 26   | [mebeim](./entries/mebeim/mebeim.php.txt) 👑        | .php | [writeup](https://github.com/mebeim/bggp) | [git issue](https://github.com/binarygolf/BGGP/issues/69) Requires `allow_url_include` and `short_path_on` in php.ini. File must be run from directory `/binary.golf/5/5` |
 | 30   | [Digoguenes](./entries/Digoguenes/Digoguenes.php.txt) | .php | | Calls curl from php |
 | 36   | [Dur4ndal](./entries/Dur4ndal/Dur4ndal.php.txt)  | .php | | Requires php.ini option `allow_url_include` and `short_open_tag` to be enabled |
 | 39   | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.php.txt) | .php | | Requires php.ini option `allow_url_include` to be enabled |
