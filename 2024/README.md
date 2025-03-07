@@ -34,9 +34,11 @@ AWK is a domain-specific language designed for text processing and typically use
 
 ### Burp Suite Settings JSON
 
+Settings file for the Burp Suite web vulnerability scanner.
+
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 216 | [caioluders](https://github.com/binarygolf/BGGP/blob/main/2024/entries/caioluders/caioluders.burp-settings-json.txt) | .json | | [git issue](https://github.com/binarygolf/BGGP/issues/74) |
+| 216 | [caioluders](./entries/caioluders/caioluders.burp-settings-json.txt) 👑 | .json | | [git issue](https://github.com/binarygolf/BGGP/issues/74) |
 
 ### CMake
 
@@ -279,6 +281,14 @@ The Nmap Scripting Engine (NSE) allows users to write (and share) simple scripts
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
 | 98 | [eatscrayon](./entries/eatscrayon/eatscrayon.nse.txt) 👑 | .nse | | nmap 127.0.0.1 -p 69 --script=bggp5 |
+
+### Nuclei Template
+
+Nuclei templates are used to configure the Nuclei vulnerability scanner. 
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 134 | [caioluders](./entries/caioluders/caioluders.nuclei.txt) 👑 | .yaml | | [git issue](https://github.com/binarygolf/BGGP/issues/67) |
 
 ### ODS (OpenDocument Spreadsheet)
 
