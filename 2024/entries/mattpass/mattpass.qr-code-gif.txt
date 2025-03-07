@@ -1,0 +1,28 @@
+---BEGIN BGGPx---
+Submit Date: 6th Sep 2024
+BGGP Challenge Number: 5
+Author: mattpass
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @mattpass (X)
+Target File Type: GIF (.gif)
+File Size: 157 bytes
+SHA256 Hash: dca438d3bbaad9c12767495ab693313f30d72e542b15a99a257f43825bc30810
+Target Environment (How do we run the file?): Save entry as 5.gif, open the image and zoom in using an app that won't anti-alias image. 
+(eg most image previewer apps on OS's don't, so double click image and zoom in). With image scaled up to be really visible and so usable,
+scan on phone using QR code reader.
+Any additional info?: Takes you to URL shortener https://t.ly/3jGrK, which redirects to URL at w3.org which uses their html2txt service 
+to download & display the content
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://pastebin.com/pAcukVNK
+File contents (base64 encoded please): 
+R0lGODlhGQAZAJEAAP///wAAAP///wAAACH5BAUAAAIALAAAAAAZABkAAAJujB8AiMumYoIqyVgntG7P7oAWpS2i9pnYdmLqx3LZY8I17WZrvsrpMdt1RsCHLUS85YrMWfJZIqIqw
+9orFQSGlB7Q0urqMnQqZ8/o/XKwWrQwlhRSG1RrsT6nw1heys7zE7b2EtYng4c2RTIUUAAAOw==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-07
+SHA256: dca438d3bbaad9c12767495ab693313f30d72e542b15a99a257f43825bc30810
+Score: 157
+Note: works as is
+---END VERIFICATION---
