@@ -14,7 +14,7 @@ Here are the entries for this year
 
 | Size | Author                                        | File Type | Writeup | Note                                |
 |------|-----------------------------------------------|-----------|---------|-------------------------------------|
-| 57   | [QoL15155](./entries/QoL15155/QoL15155.1sc.txt) 👑 | .1sc | |  |
+| 57   | [QoL15155](./entries/QoL15155/QoL15155.1sc.txt) 👑 | .1sc | | [git issue](https://github.com/binarygolf/BGGP/issues/113) |
 
 ### Awk
 
@@ -24,13 +24,13 @@ AWK is a domain-specific language designed for text processing and typically use
 
 | Size | Author                                        | File Type | Writeup | Note                                |
 |------|-----------------------------------------------|-----------|---------|-------------------------------------|
-| 34   | [bah](./entries/bah/bah.awk.txt) 👑 | .awk | | Runs an awk file via `-E` argument. |
+| 34   | [bah](./entries/bah/bah.awk.txt) 👑 | .awk | | [git issue](https://github.com/binarygolf/BGGP/issues/50) - Runs an awk file via `-E` argument. |
 
 #### Runs Without CLI Arguments
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 88 | [krishean](./entries/krishean/krishean.awk.txt) 👑 | .awk | | |
+| 88 | [krishean](./entries/krishean/krishean.awk.txt) 👑 | .awk | | [git issue](https://github.com/binarygolf/BGGP/issues/36) |
 
 ### Burp Suite Settings JSON
 
