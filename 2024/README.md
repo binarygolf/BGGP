@@ -419,7 +419,7 @@ A QR code, quick-response code, is a type of two-dimensional matrix barcode inve
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 157 | [mattpass](./entries/mattpass/mattpass.qr-code-gif.txt) | .gif | [writeup](https://pastebin.com/pAcukVNK) | [git issue](https://github.com/binarygolf/BGGP/issues/141) - uses a url shortener | 
+| 157 | [mattpass](./entries/mattpass/mattpass.qr-code-gif.txt) 👑 | .gif | [writeup](https://pastebin.com/pAcukVNK) | [git issue](https://github.com/binarygolf/BGGP/issues/141) - uses a url shortener | 
 
 ### Radare2
 Radare2 is a featureful low-level command-line tool that provides a set of libraries and plugins to ease reverse engineering tasks.
@@ -454,7 +454,7 @@ Shellcode is machine code for a given CPU architecture, often used in exploits.
 
 | Size | Author | File Type | Writeup | Note |
 |------|--------|-----------|---------|------|
-| 46 | [jbo](./entries/jbo/jbo.shellcode.txt) | .bin | [writeup](https://github.com/yo-yo-yo-jbo/bggp5_linux_shellcode) | [git issue](https://github.com/binarygolf/BGGP/issues/52) |
+| 46 | [jbo](./entries/jbo/jbo.shellcode.txt) 👑 | .bin | [writeup](https://github.com/yo-yo-yo-jbo/bggp5_linux_shellcode) | [git issue](https://github.com/binarygolf/BGGP/issues/52) |
 
 ### Shell Script
 
@@ -478,6 +478,14 @@ Shell scripts can be invoked in numerous ways, so we have categories for both ty
 | 13   | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.sh.txt) | .sh | | Uses a redirect to shorten the URL                 |
 | 19   | [mauke](./entries/mauke/mauke.sh.txt)                     | .sh | | Uses the perl LWP tools with SSL support           |
 
+### SQL 
+
+Structured Query Language (SQL) is a domain-specific language used to manage data, especially in a relational database management system (RDBMS).
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 48 | [mattpass](./entries/mattpass/mattpass.sql.txt) 👑 | .sql | [writeup](https://pastebin.com/pAcukVNK) | [git issue](https://github.com/binarygolf/BGGP/issues/140) - Uses link shortener and sqlite-http | 
+
 ### SVG
 
 Scalable Vector Graphics is an XML-based vector image format for defining two-dimensional graphics, having support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium since 1999.
@@ -494,7 +502,7 @@ Uiua (pronounced "wee-wuh") is a stack-based array programming language. Documen
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 146 | [pr3y](./entries/pr3y/pr3y.ua.txt) | .ua | | [git issue](https://github.com/binarygolf/BGGP/issues/103) |
+| 146 | [pr3y](./entries/pr3y/pr3y.ua.txt) 👑 | .ua | | [git issue](https://github.com/binarygolf/BGGP/issues/103) |
 
 ### URL
 
