@@ -1,0 +1,33 @@
+---BEGIN BGGPx---
+Submit Date: 5th Sep 2024
+BGGP Challenge Number: 5
+Author: mattpass
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @mattpass (X)
+Target File Type: SQL (.sql)
+File Size: 48 bytes
+SHA256 Hash: e03f0b78062fa6a3d6deb9e03724e2e30d1a2f2a79c1bd104f316a75339b0901
+Target Environment (How do we run the file?): Example: for Linux distro...
+# --------
+# Get sqlite, executable binary for sqlite-http, extract http0.so from tar.gz file, rename it 0.so, create entry file 5.sql
+sudo apt install sqlite3
+wget https://github.com/asg017/sqlite-http/releases/download/v0.1.1/sqlite-http-v0.1.1-loadable-linux-x86_64.tar.gz -O sqlite-http.tar.gz
+tar -xvzf sqlite-http.tar.gz
+mv http0.so 0.so
+base64 -d <<< 'LmxvYWQgLi8wCnNlbGVjdCBodHRwX2dldF9ib2R5KCdodHRwOi8vN2YudWsnKTs' > 5.sql
+# Now everything is available, we're ready to execute the file...
+sqlite3 < 5.sql
+# --------
+Any additional info?: Uses shorter domain 7f.uk to save bytes
+Link to PoC video, screenshot, or console output, if any: -
+Link to writeup, if any: https://pastebin.com/pAcukVNK
+File contents (base64 encoded please): LmxvYWQgLi8wCnNlbGVjdCBodHRwX2dldF9ib2R5KCdodHRwOi8vN2YudWsnKTs
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: deepseagirl
+Review Date: 2025-01-30
+SHA256: e03f0b78062fa6a3d6deb9e03724e2e30d1a2f2a79c1bd104f316a75339b0901
+Score: 48
+Note: works as is
+---END VERIFICATION---
