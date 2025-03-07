@@ -1,0 +1,24 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-29 22:25 GMT-3
+BGGP Challenge Number:5
+Author: Digoguenes
+Contact Info (Optional):
+Online Presence (Website/Social Media): MRSilva (HTB)
+Target File Type: PHP
+File Size: 15 bytes
+SHA256 Hash: 489b52a082870dd614d290b7360c5d81dd2112e3b623a192931f0618810ed02d
+Target Environment (How do we run the file?): The file must be run from /curl -Ls https:/binary.golf/5/5 , you can create this folder 
+structure by running sudo mkdir -p "/curl -Ls https:/binary.golf/5/5" then cd "/curl -Ls https:/binary.golf/5/5", then running php.
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please): PD89YFwke1BXRCMvfWA7
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-07
+SHA256: 489b52a082870dd614d290b7360c5d81dd2112e3b623a192931f0618810ed02d
+Score: 15
+Note: works as is
+---END VERIFICATION---
