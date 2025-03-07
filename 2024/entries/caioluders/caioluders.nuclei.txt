@@ -1,0 +1,19 @@
+---BEGIN BGGP5---
+Submit Date: 25/06
+BGGP Challenge Number: 5
+Author: caioluders
+Online Presence (Website/Social Media): @caioluders
+Target File Type: Nuclei template
+File Size: 134 bytes
+SHA256 Hash: a86180c13017619ad560e7d6060ba7a66a84fa426fee4046952c7bb321221872
+Target Environment (How do we run the file?): Install nuclei from https://github.com/projectdiscovery/nuclei. Run nuclei and pass the template file and target $ nuclei -t nuclei.yaml -target http://127.0.0.1
+File contents (base64 encoded please): aWQ6IGEKaW5mbzoge25hbWU6IGEsIGF1dGhvcjogYX0KcmVxdWVzdHM6IFt7bWV0aG9kOiBHRVQsIHBhdGg6IFtodHRwczovL2JpbmFyeS5nb2xmLzUvNV0sIGV4dHJhY3RvcnM6IFt7dHlwZTogcmVnZXgsIHJlZ2V4OiBbLipdfV19XQo=
+---END BGGP5---
+
+---BEGIN VERIFICATION---
+Reviewer: samwcyo
+Review Date: 2025-03-07
+SHA256: a86180c13017619ad560e7d6060ba7a66a84fa426fee4046952c7bb321221872
+Score: 134
+Note: works as is
+---END VERIFICATION---
