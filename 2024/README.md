@@ -32,6 +32,12 @@ AWK is a domain-specific language designed for text processing and typically use
 |--------|------|-----------|---------|------|
 | 88 | [krishean](./entries/krishean/krishean.awk.txt) 👑 | .awk | | |
 
+### Burp Suite Settings JSON
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 216 | [caioluders](https://github.com/binarygolf/BGGP/blob/main/2024/entries/caioluders/caioluders.burp-settings-json.txt) | .json | | [git issue](https://github.com/binarygolf/BGGP/issues/74) |
+
 ### CMake
 
 CMake is cross-platform, free, and open-source software for build automation, testing, packaging and installation of software by using a compiler-independent method.
