@@ -1,0 +1,26 @@
+---BEGIN BGGPx---
+Submit Date: 1/7/2024
+BGGP Challenge Number: 5
+Author: pr3y
+Contact Info (Optional): 
+Online Presence (Website/Social Media): 
+Target File Type: ua
+File Size: 146B
+SHA256 Hash: b031f5a470d7178919d4ed871f73dcbaa9c5026514c77598cb89dbe8f35690bc
+Target Environment (How do we run the file?): Save the file contents to `main.ua`, install uiua and run with `cargo install uiua && 
+~/.cargo/bin/uiua run main.ua`
+Any additional info?: 
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): 
+JnRsc2MgImJpbmFyeS5nb2xmOjQ0MyIKJnfiipkuICJHRVQgLzUvNSBIVFRQLzEuMVxyXG5Ib3N0OiBiaW5hcnkuZ29sZjo0NDNcclxuXHJcbiIKJnJ1IlxyXG5cclxuIi4K4ouV4
+oqhMeKKoiByZWdleCJDb250ZW50LUxlbmd0aDogKFxcZCspIgomcCZycwo=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-07
+SHA256: b031f5a470d7178919d4ed871f73dcbaa9c5026514c77598cb89dbe8f35690bc
+Score: 146
+Note: works as is
+---END VERIFICATION---
