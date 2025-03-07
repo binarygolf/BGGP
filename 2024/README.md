@@ -488,6 +488,14 @@ Scalable Vector Graphics is an XML-based vector image format for defining two-di
 | 125  | [Kasumivero](./entries/Kasumivero/Kasumivero.svg.txt) | .svg | | Needs to be served and viewed in Firefox. |
 | 248  | [vvx7](./entries/vvx7/vvx7.svg.txt) | .svg | | Needs to be served and viewed in Firefox. |
 
+### Uiua
+
+Uiua (pronounced "wee-wuh") is a stack-based array programming language. Documentation, examples, and an online interpreter can be found at uiua.org.
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 146 | [pr3y](./entries/pr3y/pr3y.ua.txt) | .ua | | [git issue](https://github.com/binarygolf/BGGP/issues/103) |
+
 ### URL
 
 URL files are links to websites, that can be stored in the filesystem.
