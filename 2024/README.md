@@ -22,7 +22,7 @@ ExtendScript is a scripting language and an associated toolkit developed by Adob
 
 | Size | Author | File Type | Writeup | Note |
 |------|--------|-----------|---------|------|
-| 84   | [theXappy](./entries/theXappy/theXappy.adobe-jsx.txt) | .jsx | | [git issue](https://github.com/binarygolf/BGGP/issues/115) |
+| 84   | [theXappy](./entries/theXappy/theXappy.adobe-jsx.txt) 👑 | .jsx | | [git issue](https://github.com/binarygolf/BGGP/issues/115) |
 
 ### Awk
 
