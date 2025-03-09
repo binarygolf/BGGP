@@ -230,7 +230,7 @@ LLVM is designed around a language-independent intermediate representation (IR) 
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 114 | [bah](./entries/bah/bah.ll.txt) | .ll | | [git issue](https://github.com/binarygolf/BGGP/issues/42) |
+| 114 | [bah](./entries/bah/bah.ll.txt) 👑 | .ll | | [git issue](https://github.com/binarygolf/BGGP/issues/42) |
 
 ### Lua
 
