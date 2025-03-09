@@ -1,0 +1,32 @@
+---BEGIN BGGPx---
+Submit Date: 2024-07-21
+BGGP Challenge Number: 5
+Author: @mebeim
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://mebeim.net
+Target File Type: UEFI Application (Portable Executable binary)
+File Size: 316 bytes
+SHA256 Hash: 65b87dcd644d85a4907258436a8419c9ecf5bf3fc483a8a7d63c307ad377ab96
+Target Environment (How do we run the file?):
+  As you will need UEFI with network and HTTP+TLS support, it is not that simple.
+  I wrote detailed instructions here: https://github.com/mebeim/bggp/blob/master/uefi/README.md
+  See the "Building" and "Running" section in particular.
+Any additional info?: Tested on QEMU 7.2.11 and 9.0.0, Debian 12, EDK II OVMF edk2-stable202405
+Link to PoC video, screenshot, or console output, if any: https://github.com/mebeim/bggp
+Link to writeup, if any: https://github.com/mebeim/bggp
+File contents (base64 encoded please):
+TVoAAVBFAABkhgEA/1EIg8chif4xyesGoAAGAgsCsRgBz/ysZqvi+1ZQ6zDkAAAAQkdHUABNRUJF
+SU0ABAAAAAQAAAD/UyCLH1RQ/8BQidmJ4uu4ABAAAOQAAACJ4et0CgBQidmJ4v9REIni/w6D7HiJ
+ZgiJ2f9RIInmMcmxOma6+AP8827r/gYAAAAx0kmJ4P+TyAAAAIsMJFCJ4v8Riwwkg8cQifpJifjr
+mAAAAAAAAAAAAAAAAAAAAAD/wFBRVFDrnlgEAADkAAAAWAAAAOQAAACD71lXg8cMV4niUInmUuvY
+i1pgg8N4jT0EAAAAifnrmK/myL282XlDpyrgxOddrhybsll6C5FxQYJCqFoN8ltbYmluYXJ5Lmdv
+bGYASG9zdABodHRwczovL2JpbmFyeS5nb2xmLzUvNQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-01-30
+SHA256: 65b87dcd644d85a4907258436a8419c9ecf5bf3fc483a8a7d63c307ad377ab96
+Score: 316
+Note: works as is, use the provided dockerfile in the repo to set up the environment!
+---END VERIFICATION---
