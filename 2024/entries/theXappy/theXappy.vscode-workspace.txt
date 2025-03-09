@@ -1,0 +1,26 @@
+---BEGIN BGGPx---
+Submit Date: 07/07/2024
+BGGP Challenge Number: 5
+Author: Shai S.
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @theXappy (twitter)
+Target File Type: .code-workspace
+File Size: 134 bytes
+SHA256 Hash: 9789a04a4e28147730a8c6a3b4516b601918fcff3eb65172cc0f6c8e48683622
+Target Environment (How do we run the file?): "Open with" Visual Studio Code on Windows.
+Any additional info?: Runs a powershell "Task". I used the golf'd powershell submitted by nephryte. On first launch VS Code 
+will ask if you trust the workspace, the code only runs if "trust" is chosen.
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): 
+eyJmb2xkZXJzIjpbXSwidGFza3MiOnsidGFza3MiOlt7ImxhYmVsIjoiYSIsInR5cGUiOiJzaGVsbCIsImNvbW1hbmQiOiJpd3IgYmluYXJ5LmdvbGYvNS81fGZj
+IiwicnVuT3B0aW9ucyI6eyJydW5PbiI6ImZvbGRlck9wZW4ifX1dfX0=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-09
+SHA256: 9789a04a4e28147730a8c6a3b4516b601918fcff3eb65172cc0f6c8e48683622
+Score: 134
+Note: works as is
+---END VERIFICATION---
