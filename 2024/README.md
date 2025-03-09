@@ -558,6 +558,12 @@ These entries can be run as a shell script or as shell code.
 |------|------|-----------|---------|------|
 | 69 | [jbo](./entries/jbo/jbo.sh.shellcode.txt) 👑 | .sh | [writeup](https://github.com/yo-yo-yo-jbo/bggp5_linux_shellcode) | [git issue](https://github.com/binarygolf/BGGP/issues/85) - no cli args! |
 
+### Windows Batch / PHP
+
+| Size | Author | File Type | Writeup | Note |
+|------|--------|-----------|---------|------|
+| 63   | [Krishean](./entries/Krishean/Krishean.bat-php.txt) 👑 | .bat / .php | | [git issue](https://github.com/binarygolf/BGGP/issues/63) |
+
 ## 0 Byte Files 
 
 0 byte files have historically not been allowed, but that caveat wasn't included in this years challenge page. 0 byte entries are listed here just because the tricks are interesting.
