@@ -1,0 +1,24 @@
+---BEGIN BGGP5---
+Submit Date: 26/06
+BGGP Challenge Number: 5
+Author: caioluders
+Online Presence (Website/Social Media): @caioluders
+Target File Type: SVG
+File Size: 108 bytes
+SHA256 Hash: 030d46cb371e6a47d47e0840a7be5a242297dee09284efdf820ab6501d120fe8
+Target Environment (How do we run the file?):
+1. Open in any browser
+2. Click on the page and use the cut hotkey (cmd+x on osx)
+3. Alert will pop
+Any additional info?: fetch`https:binary.golf/5/5` is smaller
+Link to writeup, if any: In the future (i hope)
+File contents (base64 encoded please): PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIG9uY3V0PSJmZXRjaGBodHRwczpiaW5hcnkuZ29sZi81LzVgLnRoZW4oZT0+ZS50ZXh0KCkpLnRoZW4oYWxlcnQpIi8+
+---END BGGP5---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-09
+SHA256: 030d46cb371e6a47d47e0840a7be5a242297dee09284efdf820ab6501d120fe8
+Score: 108
+Note: works as is
+---END VERIFICATION---
