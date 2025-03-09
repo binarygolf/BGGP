@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-25
+BGGP Challenge Number: 5
+Author: Krishean
+Contact Info (Optional): 
+Online Presence (Website/Social Media): https://tech.lgbt/@krishean
+Target File Type: Windows Batch/PHP
+File Size: 63 bytes
+SHA256 Hash: dedf4830654a2aac9271e7dea9ca776e0f71ae844a12bb5961c145d1d4a777f4
+Target Environment (How do we run the file?): Windows Command Prompt: `call filename.bat https://binary.golf/5/5`, PHP: `php -r 'ob_start();$a="curl -sL https://binary.golf/5/5";include "filename.bat";'`
+Any additional info?: curl should be included by default in windows 10 version 1803 or later
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: 
+File contents (base64 encoded please): QGVjaG8gb2ZmCmN1cmwgLXNMICUxJiZleGl0IC9iCjw/cGhwIG9iX2VuZF9jbGVhbigpO2VjaG8oYCRhYCk7
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-09
+SHA256: dedf4830654a2aac9271e7dea9ca776e0f71ae844a12bb5961c145d1d4a777f4
+Score: 63
+Note: works as is
+---END VERIFICATION---
