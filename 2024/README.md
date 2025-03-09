@@ -250,7 +250,7 @@ Lua is a lightweight, high-level programming language designed primarily for emb
 
 | Size | Author                                    | File Type | Writeup | Note |
 |------|-------------------------------------------|-----------|---------|------|
-| 10 | [Krishean](./entries/Krishean/Krishean.Makefile.txt) 👑 | Makefile | | [git issue](https://github.com/binarygolf/BGGP/issues/82) |
+| 10 | [Krishean](./entries/Krishean/Krishean.Makefile.txt) 👑 | Makefile | | [git issue](https://github.com/binarygolf/BGGP/issues/82) - uses cli args |
 
 ### m3u
 
