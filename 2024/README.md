@@ -515,6 +515,14 @@ Scalable Vector Graphics is an XML-based vector image format for defining two-di
 | 125  | [Kasumivero](./entries/Kasumivero/Kasumivero.svg.txt) | .svg | | Needs to be served and viewed in Firefox. |
 | 248  | [vvx7](./entries/vvx7/vvx7.svg.txt) | .svg | | Needs to be served and viewed in Firefox. |
 
+### UEFI App
+
+UEFI Apps are executables that run on UEFI firmware. They are responsible for low level setup and hardware configuration before your main Operating System boots. There are two executable types that can run on UEFI, the PE (Portable Executable) or the TE (Terse Executable). There is also limited scripting capabilities depending on the platform.
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 316 | [mebeim](./entries/mebeim/mebeim.pe-uefi.txt) 👑 | .efi (PE) | [writeup](https://github.com/mebeim/bggp/blob/master/uefi/README.md) | [git issue](https://github.com/binarygolf/BGGP/issues/130) |
+
 ### Uiua
 
 Uiua (pronounced "wee-wuh") is a stack-based array programming language. Documentation, examples, and an online interpreter can be found at uiua.org.
