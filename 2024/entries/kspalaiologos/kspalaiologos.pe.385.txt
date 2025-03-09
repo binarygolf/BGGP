@@ -1,0 +1,30 @@
+---BEGIN BGGPx---
+Submit Date: 21/6/24 5:37PM
+BGGP Challenge Number: 5
+Author: kspalaiologos (Kamila Szewczyk)
+Contact Info (Optional): kspalaiologos@gmail.com
+Online Presence (Website/Social Media): https://palaiologos.rocks
+Target File Type: 32-bit PE EXE.
+File Size: 385B
+SHA256 Hash: f3016e3bcd52c331a76d5bcd9064846a2f67add5970bd4c13ca3ce0dd59f836a
+Target Environment (How do we run the file?): 32-bit Win10 22H2.
+Any additional info?:
+Link to PoC video, screenshot, or console output, if any:
+Link to writeup, if any:
+File contents (base64 encoded please):
+TVoyM1BFAABMAQAAD6Mt4gBAABH2RessCAACAAsBYIoG0ugyB3VrTk8xyb1kAAAA0Oty63Xx61oA
+AEAABAAAAAQAAAABwIXAecIB0wQAUD0AAAAA63cAAjAAAABafOfDAwAAAFO/AABCAGoBWDHtAfZX
+aghZagQ9AAAAAGoFunZtCCSzH2AEADHAmYt0JChO64xhdQ5AQtIOcgTR6usC0ejSBkY593/osQSJ
+5gFWJD0AAAAAdAUBRiCF0uHvYUsB0nLCdflbZoH/1gDrj/fi9/NaOcZyBZIp1inQ0BfilkfrkODg
+hQHKx+OokjxyINgOLYXhWrtzs4ixkNoPSgaJjyvQCoLBptaV/rcvN2sUu8n7HUdvc4yGAjH1AJPa
+0ZYj4sGwO+h+nEHIMQT5HeXZzXvGqCk7+JEAM4b9p1EvLttcKSCKLdllOaxpwUPgAlpTejXa9B4u
+CuZJn4IodwWTsF4XmsMGaj9Q1P4uwte6pW3YIj2fvdGbVGFu6lFLgjfxIQ==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-09
+SHA256: f3016e3bcd52c331a76d5bcd9064846a2f67add5970bd4c13ca3ce0dd59f836a
+Score: 385
+Note: works as is
+---END VERIFICATION---
