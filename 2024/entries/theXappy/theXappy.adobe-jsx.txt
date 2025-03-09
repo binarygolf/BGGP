@@ -1,0 +1,29 @@
+---BEGIN BGGPx---
+Submit Date: 06/07/2024
+BGGP Challenge Number: 5
+Author: Shai S.
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @theXappy (twitter)
+Target File Type: Adobe ExtendScript (.jsx). Based on javascript but extended with filesystem API, process launching API, 
+etc. 
+File Size: 84 bytes
+SHA256 Hash: 38620f35729d16157645f434fb266aae056bc190ac84f07e42a4a2d66d904ba4
+Target Environment (How do we run the file?): Open with Photoshop on Windows. Or from within Photoshop: "File" -> "Scripts" 
+-> "Browse...".
+Any additional info?:  Mostly targeted Photoshop (tested versions 20/22/24) on Windows. Did not work on Illustrator as the 
+`system` API is missing. Might work on other Adobe products/Photoshop on Mac. On newer versions of PS a "Are you sure you 
+want to run this script?" pop up and you have to accept.
+Link to PoC video, screenshot, or console output, if any: 
+https://github.com/user-attachments/assets/95b0e3d0-2d84-4b0c-9df8-d5eac1676648
+Link to writeup, if any: 
+File contents (base64 encoded please): 
+dmFyIGY9bmV3IEZpbGUoIjUiKTthcHAuc3lzdGVtKCdjdXJsIC1MIGJpbmFyeS5nb2xmLzUvNT41Jyk7Zi5vcGVuKCk7YWxlcnQoZi5yZWFkKCkp
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-09
+SHA256: 38620f35729d16157645f434fb266aae056bc190ac84f07e42a4a2d66d904ba4
+Score: 84
+Note: works as is
+---END VERIFICATION---
