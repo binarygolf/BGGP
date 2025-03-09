@@ -1,0 +1,23 @@
+---BEGIN BGGPx---
+Submit Date: 05/07/2024
+BGGP Challenge Number: 5
+Author: Shai S.
+Contact Info (Optional): 
+Online Presence (Website/Social Media): @theXappy (twitter)
+Target File Type: NuGet package (.nupkg)
+File Size: 491 bytes
+SHA256 Hash: 4fda74f32d9ebd256509c5427e0d54c1cfdb6c005a9e452aff65979d4d048d04
+Target Environment (How do we run the file?): Add the nupkg to a NuGet server then use Visual Studio to download and install it into some project. Instructions for creating a folder-based NuGet "server": https://learn.microsoft.com/en-us/nuget/hosting-packages/overview
+Any additional info?: Once installed, the package triggers a post-installation script in Visual Studio. Output is written to the 'Error List' panel.
+Link to PoC video, screenshot, or console output, if any: https://github.com/theXappy/NupkgGolfing/blob/main/demo/bggp5_nupkg.gif
+Link to writeup, if any: https://github.com/theXappy/NupkgGolfing
+File contents (base64 encoded please): UEsDBBQAAAAIAF2i5FgWNThwPQAAAE8AAAAAAAAAs8m1s8lNLUlMSSxJVMjNzHPOyUzNKwlLLSrOzM+zVTJSsrPJTLFLtNEHkjZlEGE7Ixt9GNNGH6YbxLQDAFBLAwQUAAAACABdouRY+PQtF+oAAABMAQAAAAAAAE1QwU7DMAz9lSri0F6S0y6QRYLCEBKbKlrEhUvael0gjSfH09S/p12QtoMl+9nPfs+6IvyBjrO34NhZ31gagONalMLoVGQ7O0ICSmW0SqjRn9GFobHxN3uMEcbWTxvn58G7fFs/nZzvG0QfK8uH4nvrOsKIe5aXjlxoUZZIIHvvRbbUG9sx0rQWHxj9FErs4QZOM1cplaU5Z6BXwtNx1rW0jV5Y5h0HOccLEVIe4JzVU2QY5Q5YfkFbegeB80I+4zl4tH3NNFvJxYH5GO+Val2wNMkB/V6t1EoUxYNWl81apTMqmU/5/wvNH1BLAQI/ABQAAAAIAF2i5FgWNThwPQAAAE8AAAAHAAAAAAAAAAAAIAAAAAAAAAAubnVzcGVjUEsBAj8AFAAAAAgAXaLkWPj0LRfqAAAATAEAAA8AAAAAAAAAAAAgAAAAWwAAAGJ1aWxkL2EudGFyZ2V0c1BLBQYAAAAAAgACAHIAAABjAQAAAAA=
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-09
+SHA256: 4fda74f32d9ebd256509c5427e0d54c1cfdb6c005a9e452aff65979d4d048d04
+Score: 491
+Note: works as is
+---END VERIFICATION---
