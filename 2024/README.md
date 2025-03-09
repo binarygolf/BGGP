@@ -16,6 +16,14 @@ Here are the entries for this year
 |------|-----------------------------------------------|-----------|---------|-------------------------------------|
 | 57   | [QoL15155](./entries/QoL15155/QoL15155.1sc.txt) 👑 | .1sc | | [git issue](https://github.com/binarygolf/BGGP/issues/113) |
 
+### Adobe ExtendScript
+
+ExtendScript is a scripting language and an associated toolkit developed by Adobe Systems, intended for use with Creative Suite and Technical Communication Suite products. It is a dialect of the ECMAScript 3 standard and therefore similar to JavaScript and ActionScript. 
+
+| Size | Author | File Type | Writeup | Note |
+|------|--------|-----------|---------|------|
+| 84   | [theXappy](./entries/theXappy/theXappy.adobe-jsx.txt) | .jsx | | [git issue](https://github.com/binarygolf/BGGP/issues/115) |
+
 ### Awk
 
 AWK is a domain-specific language designed for text processing and typically used as a data extraction and reporting tool.
@@ -527,7 +535,7 @@ A [VSCode Workspace](https://code.visualstudio.com/docs/editor/workspaces) is a 
 
 | Size | Author | File Type | Writeup | Note |
 |------|------|-----------|---------|------|
-| 134 | [theXappy](https://github.com/binarygolf/BGGP/blob/main/2024/entries/theXappy/theXappy.vscode-workspace.txt) 👑 | .code-workspace | | [git issue](https://github.com/binarygolf/BGGP/issues/119) |
+| 134 | [theXappy](./entries/theXappy/theXappy.vscode-workspace.txt) 👑 | .code-workspace | | [git issue](https://github.com/binarygolf/BGGP/issues/119) |
 
 
 ### Windows Batch
