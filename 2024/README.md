@@ -520,6 +520,16 @@ VBScript is a scripting language that grew out of Visual Basic.
 |------|------|-----------|---------|------|
 | 129  | [sdb](./entries/sdb/sdb.vbs.txt) 👑 | .vbs | https://vacantmotel.neocities.org/stuff/golf/vbs2024 |  |
 
+
+### VSCode Workspace
+
+A [VSCode Workspace](https://code.visualstudio.com/docs/editor/workspaces) is a collection of folders and configurations that set up a working environment in VSCode.
+
+| Size | Author | File Type | Writeup | Note |
+|------|------|-----------|---------|------|
+| 134 | [theXappy](https://github.com/binarygolf/BGGP/blob/main/2024/entries/theXappy/theXappy.vscode-workspace.txt) 👑 | .code-workspace | | [git issue](https://github.com/binarygolf/BGGP/issues/119) |
+
+
 ### Windows Batch
 
 Windows Batch files are a scripting language inherited from DOS.
