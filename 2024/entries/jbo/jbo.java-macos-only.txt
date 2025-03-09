@@ -1,0 +1,24 @@
+---BEGIN BGGPx---
+Submit Date: 2024-Jul-08
+BGGP Challenge Number: 5
+Author: Jonathan Bar Or ("JBO")
+Contact Info (Optional): @yo_yo_yo_jbo
+Online Presence (Website/Social Media): @yo_yo_yo_jbo
+Target File Type: *.class
+File Size: 274
+SHA256 Hash: 511df6abeb6d1a5b51a9b5a6d91e4eece0dcd0dc9cc1eee166b8a4a1130b8f72
+Target Environment (How do we run the file?): save the file as Code.class, and run java Code. Note this will only work on macOS.
+Any additional info?: I submitted this seperately from my previous 283 byte Java class, since this only works on macOS due to "/d*/*y" uniquely resolving to "/dev/tty" on macOS (Linux resolution is not unique).
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: https://github.com/yo-yo-yo-jbo/bggp5_java_editing
+File contents (base64 encoded please): 
+yv66vgAAADcAEQoACAAJCAAKCgAIAAsHAAUBAARDb2RlAQAEbWFpbgEAFihbTGphdmEvbGFuZy9TdHJpbmc7KVYHAAwMAA0ADgEAJmJhc2ggLWMgY3VybCR7SUZTfS1MJHtJRlN9N2YudWs+L2QqLyp5DAAPABABABFqYXZhL2xhbmcvUnVudGltZQEACmdldFJ1bnRpbWUBABUoKUxqYXZhL2xhbmcvUnVudGltZTsBAARleGVjAQAnKExqYXZhL2xhbmcvU3RyaW5nOylMamF2YS9sYW5nL1Byb2Nlc3M7BCEABAAIAAAAAAABAAkABgAHAAEABQAAABUAAgABAAAACbgAARICtgADsQAAAAAAAA==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-09
+SHA256: 511df6abeb6d1a5b51a9b5a6d91e4eece0dcd0dc9cc1eee166b8a4a1130b8f72
+Score: 274
+Note: works as is
+---END VERIFICATION---
