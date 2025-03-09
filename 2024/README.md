@@ -203,7 +203,8 @@ Java is a high-level, general-purpose, memory-safe, object-oriented programming 
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 275 | [jbo](./entries/jbo/jbo.java.txt) 👑 | .class | | [git issue](https://github.com/binarygolf/BGGP/issues/97) |
+| 274 | [jbo](./entries/jbo/jbo.java-macos-only.txt) 👑 | .class | [writeup](https://github.com/yo-yo-yo-jbo/bggp5_java_editing) | [git issue](https://github.com/binarygolf/BGGP/issues/124) - works on macos only, see entry for details |
+| 275 | [jbo](./entries/jbo/jbo.java.txt) | .class | [writeup](https://github.com/yo-yo-yo-jbo/bggp5_java_editing) | [git issue](https://github.com/binarygolf/BGGP/issues/97) |
 
 ### Julia
 
