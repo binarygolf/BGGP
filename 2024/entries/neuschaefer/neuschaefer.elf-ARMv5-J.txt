@@ -1,0 +1,24 @@
+---BEGIN BGGPx---
+Submit Date: 2024-06-30
+BGGP Challenge Number: 5
+Author: @neuschaefer
+Contact Info (Optional):
+Online Presence (Website/Social Media):
+Target File Type: ELF/ARMv5-J
+File Size: 450 bytes
+SHA256 Hash: ed917491f992208bb6a4acdd09ed76027f30ce778ad29246fddf112f2b5d38d3
+Target Environment (How do we run the file?): Run on an ARM32 Linux system based on an ARM9 or ARM11 processor
+  (e.g. Raspberry Pi 1B). The "openssl" utility needs to be installed at /usr/bin/openssl.
+Any additional info?: Emulated hardware or newer processors will not work. "grep java /proc/cpuinfo" to check.
+Link to PoC video, screenshot, or console output, if any: (see writeup)
+Link to writeup, if any: https://codeberg.org/neuschaefer/bggp5-jazelle
+File contents (base64 encoded please): f0VMRgEBQkdHUDV4SloAAAIAKAABAAAAQAAgACAAAAABAAAAAAAAAAAAIAABAAAAAAAAAgAAAAIHAAAAABAAABHdTeL/383jDVCg4QHbTeINYKDhAdtN4g1woOEAcIflwGOH5QAAzeUAEKDjKACP4vgDheUEAI/iEASF5Ujgj+IBAKDjEA7i7gDAj+Is/y/hAQCg4wFwoOMAAADv8AAt6QRwFuUIABblDBAW5RAgFuUAAADv8AC96AHA3uUMYUbgBAAG5QLgjuLs///qGhAIYBAq/gEaEBhgECr+AVioAD0vdXNyL2Jpbi9vcGVuc3NsAHNfY2xpZW50AC1jb25uZWN0AGJpbmFyeS5nb2xmOjQ0MwAtcXVpZXQAPAX+AJoANh0QBv4BAxwQP/4CBBUHED/+AgUVBxA//gJYWBsQERtgEBobYBAjG2AQMxtgAxXwGxAL/hUHEAb+ARAXqAAaR0VUIC81LzUgSFRUUC8xLjAKSG9zdDodB/4DEAsbECNgHQf+AwWoAAUKCh0H/gMDPAQaEAhgFQYG/gOeACUcEBChAAUCPIQBARsHoP/mBBpcFQYG/gOeAAoEB/4Dp//xCAT+
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-09
+SHA256: ed917491f992208bb6a4acdd09ed76027f30ce778ad29246fddf112f2b5d38d3
+Score: 450
+Note: works as is
+---END VERIFICATION---
