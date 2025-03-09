@@ -299,6 +299,15 @@ Nuclei templates are used to configure the Nuclei vulnerability scanner.
 |--------|------|-----------|---------|------|
 | 134 | [caioluders](./entries/caioluders/caioluders.nuclei.txt) 👑 | .yaml | | [git issue](https://github.com/binarygolf/BGGP/issues/67) |
 
+### NuGet Package
+
+NuGet is a package manager for .NET. 
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 491  | [theXappy](./entries/theXappy/theXappy.nupkg.txt) 👑 | .nupkg | [writeup](https://github.com/theXappy/NupkgGolfing) | [git issue](https://github.com/binarygolf/BGGP/issues/111) | 
+
+
 ### ODS (OpenDocument Spreadsheet)
 
 The Open Document Spreadsheet (ODS) is an open, XML based file format for spreadsheets. 
