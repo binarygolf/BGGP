@@ -1,0 +1,25 @@
+---BEGIN BGGPx---
+Submit Date: 3-july
+BGGP Challenge Number: 5
+Author: qkumba
+Contact Info (Optional): peter.ferrie@gmail.com
+Online Presence (Website/Social Media): http://pferrie.epizy.com
+Target File Type: Portable Executable
+File Size: 157 bytes
+SHA256 Hash: fd4dfb40156c4ed83d84743fa017a2f1c1445665bb85265b44dd73e8ea0b5d5a
+Target Environment (How do we run the file?): 32-bit Windows XP
+Any additional info?: need curl in path
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: http://pferrie.epizy.com/misc/tmp/winpe32.txt
+File contents (base64 encoded please): TVpQRlBFAABMAQAAAItzDIt2DK2LMOsGCAACAAsBi34Yi188i1wfeIt0HyANAAAAAItUHyTrDQAA
+AEAABAAAAAQAAAAB/g+3LBdCQgQArYE8B1dpbkXrBCwAAAB16OsCAgCLRB8ckAH46wEAiwSoAfjr
+AgAAagE9AAAAAOgYAAAAY3VybCAtTCBiaW5hcnkuZ29sZi81LzUA/9Dr/l==
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-10
+SHA256: fd4dfb40156c4ed83d84743fa017a2f1c1445665bb85265b44dd73e8ea0b5d5a
+Score: 157
+Note: works as is, tested on Windows XP
+---END VERIFICATION---
