@@ -370,9 +370,9 @@ Portable Executables are an executable format used in Windows and other platform
 
 **32-bit Portable Executable on 32-bit Windows**
 
-| Size | Author                                                          | File Type | Writeup | Note |
-|------|-----------------------------------------------------------------|-----------|---------|------|
-|   |  |  |  | |
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 157 | [qkumba](./entries/qkumba/qkumba.pe32-winxp.txt) 👑 | PE | [writeup](http://pferrie.epizy.com/misc/tmp/winpe32.txt) | [git issue](https://github.com/binarygolf/BGGP/issues/106) - works on Windows XP and earlier |
 
 **32-bit Portable Executable on 32- or 64-bit Windows**
 
