@@ -372,13 +372,13 @@ Portable Executables are an executable format used in Windows and other platform
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 157 | [qkumba](./entries/qkumba/qkumba.pe32-winxp.txt) 👑 | PE | [writeup](http://pferrie.epizy.com/misc/tmp/winpe32.txt) | [git issue](https://github.com/binarygolf/BGGP/issues/106) - works on Windows XP and earlier |
+| 157 | [qkumba](./entries/qkumba/qkumba.pe32-winxp.txt) 👑 | PE | [writeup](http://pferrie.epizy.com/misc/winpe32.htm) | [git issue](https://github.com/binarygolf/BGGP/issues/106) - works on Windows XP and earlier |
 
 **32-bit Portable Executable on 32- or 64-bit Windows**
 
 | Size | Author                                                          | File Type | Writeup | Note |
 |------|-----------------------------------------------------------------|-----------|---------|------|
-| 268  | [qkumba](./entries/qkumba/qkumba.32pe.txt) 👑 | PE | [Writeup](http://pferrie.epizy.com/misc/tmp/winpe.txt) | |
+| 268  | [qkumba](./entries/qkumba/qkumba.32pe.txt) 👑 | PE | [Writeup](http://pferrie.epizy.com/misc/winpe.htm) | |
 | 385  | [kspalaiologos](./entries/kspalaiologos/kspalaiologos.pe.385.txt) | PE | | [git issue](https://github.com/binarygolf/BGGP/issues/46) |
 | 399  | [kspalaiologos](./entries/kspalaiologos/kspalaiologos.pe.txt) | PE | | |
 | 596  | [fliermate](./entries/fliermate/fliermate.pe.txt) | PE | [Source Code](https://github.com/flier-mate/BGGP5/blob/main/5.asm) | |
@@ -387,7 +387,7 @@ Portable Executables are an executable format used in Windows and other platform
 
 | Size | Author                                                          | File Type | Writeup | Note |
 |------|-----------------------------------------------------------------|-----------|---------|------|
-| 268  | [qkumba](./entries/qkumba/qkumba.64pe.txt) 👑                   | PE | [Writeup](http://pferrie.epizy.com/misc/tmp/winpe64.txt) | Calls curl from executable |
+| 268  | [qkumba](./entries/qkumba/qkumba.64pe.txt) 👑                   | PE | [Writeup](http://pferrie.epizy.com/misc/winpe64.htm) | Calls curl from executable |
 | 345  | [frank2](./entries/frank2/frank2.exe.txt)                    | PE | | |
 
 ### PowerShell Script
