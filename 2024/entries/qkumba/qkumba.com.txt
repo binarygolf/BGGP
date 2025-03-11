@@ -1,0 +1,26 @@
+---BEGIN BGGPx---
+Submit Date: 7-july
+BGGP Challenge Number: 5
+Author: qkumba
+Contact Info (Optional): peter.ferrie@gmail.com
+Online Presence (Website/Social Media): http://pferrie.epizy.com
+Target File Type: DOS COM file
+File Size: 250 bytes
+SHA256 Hash: 1b7e13cf0d60be1a26c5c8a8a3eb7c5bafdddfd3fb94b0b22ebf9f4af4571e6e
+Target Environment (How do we run the file?): DOS with network drivers or 32-bit Windows command-prompt, Pentium CPU or better
+Any additional info?: needs Curl in path, do not base64 decode first - the payload is executable base64!  Going for style points. ;-)
+The last character can be anything < '+', so CR/LF/!, etc.
+Link to PoC video, screenshot, or console output, if any: 
+Link to writeup, if any: http://pferrie.epizy.com/misc/tmp/dos.txt
+File contents (base64 encoded please): XN4T4MP354Q0D+kP5X2P6CF0T4uOM/063349+76391N7M0MMJ4/65L8L1762+3M7378LM92060+36394M6+0N053L4J63690151013/461N73M1+J04N2M86614L860907/+/8M4J3000T3PMtEq3EM0hjgYsALA9STH/8q6J+ruVAYxPBB4GHwe4AEvNIc0gGS9jY3VybCAtTCBiaW5hcnkuZ29sZi81LzUNAAB6AQAAAAIAAAACAAB=!
+---END BGGPx---
+
+---BEGIN VERIFICATION---
+Reviewer: netspooky
+Review Date: 2025-03-10
+SHA256: 1b7e13cf0d60be1a26c5c8a8a3eb7c5bafdddfd3fb94b0b22ebf9f4af4571e6e
+Score: 250
+Note: incredible, the base64 in the entry is the com file itself!!
+Don't decode the base64, just paste into a text file and execute.
+This runs on Windows 7 32 bit, with curl (32 bit windows, from the curl website)
+---END VERIFICATION---
