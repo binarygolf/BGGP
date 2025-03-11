@@ -56,6 +56,14 @@ CMake is cross-platform, free, and open-source software for build automation, te
 |------|------------------------------------------------|-----------|---------|------|
 | 283  | [0xca7](./entries/0xca7/0xca7.CMakeLists.txt) 👑 | .txt      | | |
 
+### COM
+
+COM files are a simple executable format. Found in DOS and other systems.
+
+| Size | Author | File Type | Writeup | Note |
+|--------|------|-----------|---------|------|
+| 250 | [qkumba](./entries/qkumba/qkumba.com.txt) | COM | [writeup](http://pferrie.epizy.com/misc/tmp/dos.txt) | [git issue](https://github.com/binarygolf/BGGP/issues/120) - Tested on Windows 7 32 bit |
+
 ### ELF 32-bit
 
 ELF is short for Executable and Linkable Format. It’s a format used for storing binaries, libraries, and core dumps on disks in Linux and Unix-based systems.
