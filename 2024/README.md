@@ -62,7 +62,7 @@ COM files are a simple executable format. Found in DOS and other systems.
 
 | Size | Author | File Type | Writeup | Note |
 |--------|------|-----------|---------|------|
-| 250 | [qkumba](./entries/qkumba/qkumba.com.txt) 👑 | COM | [writeup](http://pferrie.epizy.com/misc/tmp/dos.txt) | [git issue](https://github.com/binarygolf/BGGP/issues/120) - Tested on Windows 7 32 bit |
+| 250 | [qkumba](./entries/qkumba/qkumba.com.txt) 👑 | COM | [writeup](http://pferrie.epizy.com/misc/dos.htm) | [git issue](https://github.com/binarygolf/BGGP/issues/120) - Tested on Windows 7 32 bit |
 
 ### ELF 32-bit
 
