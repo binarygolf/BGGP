@@ -604,4 +604,4 @@ These entries can be run as a shell script or as shell code.
 | 0 | [mattpass](./entries/mattpass/mattpass.txt.0.txt) | .txt | [65](https://github.com/binarygolf/BGGP/issues/65) | [writeup](https://pastebin.com/pAcukVNK) | |
 | 0 | [mattpass](./entries/mattpass/mattpass.sh.0.txt) | .sh | [75](https://github.com/binarygolf/BGGP/issues/75) | [writeup](https://pastebin.com/pAcukVNK) | |
 | 0 | [jbo](./entries/jbo/jbo.py.0.txt) | .py | [122](https://github.com/binarygolf/BGGP/issues/122) | | |
-| 0 | [jbo](./entries/jbo/jbo.pl.txt)  | .pl | [60](https://github.com/binarygolf/BGGP/issues/60) | Uses environment variable to pass the url and code |
+| 0 | [jbo](./entries/jbo/jbo.pl.txt)  | .pl | [60](https://github.com/binarygolf/BGGP/issues/60) | | Uses environment variable to pass the url and code |
