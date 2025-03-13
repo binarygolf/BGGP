@@ -1,5 +1,7 @@
 # BGGP5: Download
 
+![](./bggp5_flyer_halfres.png)
+
 https://binary.golf/5/
 
 June 21 2024 to September 6 2024
