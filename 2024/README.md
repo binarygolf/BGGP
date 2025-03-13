@@ -367,8 +367,8 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 | 15   | [Digoguenes](./entries/Digoguenes/Digoguenes.php.15.txt) 👑 | .php | [96](https://github.com/binarygolf/BGGP/issues/96) | | Uses file path to contruct the URL |
 | 26   | [mebeim](./entries/mebeim/mebeim.php.txt) | .php | [69](https://github.com/binarygolf/BGGP/issues/69)  | [writeup](https://github.com/mebeim/bggp) | Requires `allow_url_include` and `short_path_on` in php.ini. File must be run from directory `/binary.golf/5/5` |
 | 30   | [Digoguenes](./entries/Digoguenes/Digoguenes.php.txt) | .php | [93](https://github.com/binarygolf/BGGP/issues/93) | | Calls curl from php |
-| 36   | [Dur4ndal](./entries/Dur4ndal/Dur4ndal.php.txt)  | .php | [92](https://github.com/binarygolf/BGGP/issues/92) | Requires php.ini option `allow_url_include` and `short_open_tag` to be enabled |
-| 39   | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.php.txt) | .php | [23](https://github.com/binarygolf/BGGP/issues/23) | Requires php.ini option `allow_url_include` to be enabled |
+| 36   | [Dur4ndal](./entries/Dur4ndal/Dur4ndal.php.txt)  | .php | [92](https://github.com/binarygolf/BGGP/issues/92) | | Requires php.ini option `allow_url_include` and `short_open_tag` to be enabled |
+| 39   | [Aleteoryx](./entries/Aleteoryx/Aleteoryx.php.txt) | .php | [23](https://github.com/binarygolf/BGGP/issues/23) | | Requires php.ini option `allow_url_include` to be enabled |
 
 ### Portable Executable (PE)
 
