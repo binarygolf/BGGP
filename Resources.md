@@ -21,6 +21,11 @@ Here is a list of some of our recommended tools and other useful links.
 - xxd -- Ships with vim usually, hex dumper
 - [yxd](http://github.com/netspooky/yxd) -- hex dumper with library support
 
+Paid Tools With Free Trials
+- [010 Editor](https://www.sweetscape.com/010editor/) -- Hex editor with template support
+- [Binary Ninja](https://binary.ninja/) -- Decompiler / disassembler with robust scripting APIs
+- [Hiew](https://www.hiew.ru/) -- "Hacker's vIEW" hex editor for Windows. [Tutorial by taviso](https://lock.cmpxchg8b.com/hiew.html)
+
 ### Assemblers
 
 - [fasm](https://flatassembler.net/) -- flat assembler, good for x86
