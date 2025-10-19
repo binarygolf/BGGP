@@ -6,6 +6,8 @@ https://binary.golf/5/
 
 June 21 2024 to September 6 2024
 
+Check out the [BGGP5 Recap](https://tmpout.sh/4/17.html) from tmp.0ut #4:17!!
+
 ## Entries
 
 Here are the entries for this year
