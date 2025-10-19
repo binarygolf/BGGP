@@ -21,7 +21,7 @@ Single file entries
 
 ![](assets/directory_open_file_mydocs-4.png) ![](assets/directory_open_file_mydocs-4.png) ![](assets/directory_open_file_mydocs-4.png) ![](assets/directory_open_file_mydocs-4.png) ![](assets/directory_open_file_mydocs-4.png) ![](assets/directory_open_file_mydocs-4.png) 
 
-Polyglot entries. Each set of files used in the polyglot is treated as their own category.
+[Polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing)) entries. Each set of files used in the polyglot is treated as their own category.
 
 ### COM, Perl, Shell, Make
 
