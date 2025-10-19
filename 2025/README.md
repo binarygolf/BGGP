@@ -22,6 +22,12 @@ See [Challenge Info](6.md)
 |------|--------|------|------|-------|-------|---------|------|
 | 55   | [mauke](entries/mauke/mauke.com-perl-shell-make.md) 👑 | COM, Perl, Shell, Make | 1, 2 | 4297 | [146](https://github.com/binarygolf/BGGP/issues/146) | tbd | |
 
+## ELF, PDF, RAR, ZIP
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 479  | [deluks](entries/deluks/deluks.elf-pdf-rar-zip.md) 👑 | ELF, PDF, RAR, ZIP | 2 | 3617 | [147](https://github.com/binarygolf/BGGP/issues/147) | tbd | pdf requires zathura 0.5.12 at least |
+
 ### ELF, Shellscript
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
