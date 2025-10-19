@@ -16,6 +16,12 @@ See [Challenge Info](6.md)
 
 ## Polyglots
 
+### COM, Perl, Shell, Make
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 55   | [mauke](entries/mauke/mauke.com-perl-shell-make.md) 👑 | COM, Perl, Shell, Make | 1, 2 | 4297 | [146](https://github.com/binarygolf/BGGP/issues/146) | tbd | |
+
 ### ELF, Shellscript
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
