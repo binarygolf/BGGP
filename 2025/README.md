@@ -6,8 +6,9 @@ See the BGGP6 challenge info [here](6.md)!
 
 ## Entries
 
-![](assets/recycle_bin_full-4.png) ![](assets/recycle_bin_full-4.png) ![](assets/recycle_bin_full-4.png) ![](assets/recycle_bin_full-4.png) ![](assets/recycle_bin_full-4.png) ![](assets/recycle_bin_full-4.png) 
+![](assets/directory_open_cool-3.png) ![](assets/directory_open_cool-3.png) ![](assets/directory_open_cool-3.png) ![](assets/directory_open_cool-3.png) ![](assets/directory_open_cool-3.png) ![](assets/directory_open_cool-3.png) 
 
+Single file entries
 
 ### TXT
 
@@ -17,6 +18,10 @@ See the BGGP6 challenge info [here](6.md)!
 
 
 ## Polyglots
+
+![](assets/directory_open_cool-3.png) ![](assets/directory_open_cool-3.png) ![](assets/directory_open_cool-3.png) ![](assets/directory_open_cool-3.png) ![](assets/directory_open_cool-3.png) ![](assets/directory_open_cool-3.png) 
+
+Polyglot entries. Each set of files used in the polyglot is treated as their own category.
 
 ### COM, Perl, Shell, Make
 
