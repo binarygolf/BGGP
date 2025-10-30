@@ -27,7 +27,7 @@ Single file entries
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 55   | [mauke](entries/mauke/mauke.com-perl-shell-make.md) 👑 | COM, Perl, Shell, Make | 1, 2 | 4297 | [146](https://github.com/binarygolf/BGGP/issues/146) | tbd | |
+| 55   | [mauke](entries/mauke/mauke.com-perl-shell-make.md) 👑 | COM, Perl, Shell, Make | 1, 2 | 4553 | [146](https://github.com/binarygolf/BGGP/issues/146) | [writeup](https://blogs.perl.org/users/mauke/2025/10/a-palindromic-polyglot-program-in-x86-machine-code-perl-shell-and-make.html) | |
 
 ## ELF, PDF, RAR, ZIP
 
