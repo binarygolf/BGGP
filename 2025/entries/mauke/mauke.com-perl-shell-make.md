@@ -46,6 +46,6 @@ It's a palindrome polyglot and outputs "6".
 - Reviewer: netspooky
 - Review Date: 2025-10-19
 - SHA256: c4900c70324269f82d9e77da43b58560e04032e92aa1e665bd4520c352021b1d
-- Score: 4297 (base 4041, +256 for 1 extra challenge) + 256 for writeup, added 2025-10-30
+- Score: 4553 (base 4041, +256 for 1 extra challenge) + 256 for writeup, added 2025-10-30
 - Note: works as is, tested on Ubuntu 22.04
 
