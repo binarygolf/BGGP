@@ -55,3 +55,8 @@ EROFS stands for Enhanced Read-Only File System. It aims to form a generic read-
 |------|--------|------|------|-------|-------|---------|------|
 | 25 | [deepseagirl](./entries/deepseagirl/deepseagirl.netpbm-shell.md) 👑 | .pbm, .sh | 2, 6 | 4327 | [159](https://github.com/binarygolf/BGGP/issues/159) | | Seems to work only on MacOS |
 
+## Powershell, TXT
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 1    | [squiblydoo](./entries/squiblydoo/squiblydoo.ps1-txt.md) 👑 | .ps1, .txt | 2, 6 | 4351 | [153](https://github.com/binarygolf/BGGP/issues/153) | | |
