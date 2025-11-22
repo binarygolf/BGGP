@@ -82,7 +82,7 @@ $ unzip entry.bin
 - Reviewer: netspooky
 - Review Date: 2025-10-19
 - SHA256: 4f0ebfa8a0232e053a0221d2d45c73fe27160cd43b4fd43ec3d252fb15a7b4b6
-- Score: 3617
+- Score: 3873 (base 3617 + 256 for challenge 2)
 - Note: tested the ELF, RAR and ZIP portions on Ubuntu 22.04 and they work. Tested the PDF portion on Manjaro 25.0.10 and installed zathura and the plugin required via `yay -S zathura zathura-pdf-mupdf`
 
 
