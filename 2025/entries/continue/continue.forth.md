@@ -50,5 +50,5 @@ $ pfe -y -q /tmp/bggp6.forth
 - Reviewer: rqu
 - Review Date: 2025-11-22
 - SHA256: 13f992229298f371bce44256fa7c726a2e738c5229f7f1b31bfec8d330ccda03
-- Score: 4093
+- Score: 4349 (4093 base + 256 for writeup)
 - Note: works as is, tested on the first online forth interpreter I found (https://www.jdoodle.com/execute-forth-online)
