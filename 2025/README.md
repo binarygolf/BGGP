@@ -10,6 +10,15 @@ See the BGGP6 challenge info [here](6.md)!
 
 Single file entries
 
+### .curlrc
+
+The .curlrc file is a configuration file used by curl. It allows users to define default options and arguments that curl will use every time it's invoked, without needing to specify them on the command line. You can also specify a config file using the `-K` or `--config` arguments.
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 62 | [bah](./entries/bah/bah.curlrc.md) | .curlrc | 4, 5, 6 | 4802 | [154](https://github.com/binarygolf/BGGP/issues/154) | [writeup](https://gist.github.com/bahorn/4a0d8505d84e7acab21358c39fdab4a7) | | 
+
+
 ### EROFS
 
 EROFS stands for Enhanced Read-Only File System. It aims to form a generic read-only filesystem solution for various read-only use cases instead of just focusing on storage space saving without considering any side effects of runtime performance.
