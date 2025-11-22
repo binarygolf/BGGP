@@ -18,6 +18,15 @@ EROFS stands for Enhanced Read-Only File System. It aims to form a generic read-
 |------|--------|------|------|-------|-------|---------|------|
 | 1254 | [bilger321](./entries/bilger321/bilger321.erofs.md) 👑 | .erofs | 6 | 3098 | [149](https://github.com/binarygolf/BGGP/issues/149) | [writeup](https://gist.github.com/bilger321/3359e12f1755cc7928a134115058243f) | don't install fuse on ubuntu 22.04+ because it apparently breaks your system. |
 
+
+## Forth
+
+Forth is a stack-oriented programming language and interactive integrated development environment designed by Charles H. "Chuck" Moore and first used by other programmers in 1970. Forth has a niche in astronomical and space applications as well as a history in embedded systems. The Open Firmware boot ROMs used by Apple, IBM, Sun, and OLPC XO-1 contain a Forth environment. 
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 3 | [continue](./entries/continue/continue.forth.md) 👑 | .forth | 6 | 4349 | [150](https://github.com/binarygolf/BGGP/issues/150) | [writeup](gemini://any-key.press/esoteric/bggp6_4th.gmi) | |
+
 ### TXT
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
