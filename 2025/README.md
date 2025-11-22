@@ -10,6 +10,14 @@ See the BGGP6 challenge info [here](6.md)!
 
 Single file entries
 
+### EROFS
+
+EROFS stands for Enhanced Read-Only File System. It aims to form a generic read-only filesystem solution for various read-only use cases instead of just focusing on storage space saving without considering any side effects of runtime performance.
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 1254 | [bilger321](./entries/bilger321/bilger321.erofs.md) 👑 | .erofs | 6 | 3098 | [149](https://github.com/binarygolf/BGGP/issues/149) | [writeup](https://gist.github.com/bilger321/3359e12f1755cc7928a134115058243f) | don't install fuse on ubuntu 22.04+ because it apparently breaks your system. |
+
 ### TXT
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
