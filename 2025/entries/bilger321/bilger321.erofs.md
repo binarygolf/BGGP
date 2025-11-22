@@ -80,7 +80,7 @@ erofsfuse 1.8.10
 - Reviewer: netspooky
 - Review Date: 2025-11-22
 - SHA256: 30e6c08d61ffa9689f867e90a6c355bdd1b72791a8965477c5ba989156a69a12
-- Score: 2842 
+- Score: 3098 (base score: 2842 + 256 for writeup) 
 - Note: works as is. Tested on Manjaro 25.0.10 
 
 how I verified
