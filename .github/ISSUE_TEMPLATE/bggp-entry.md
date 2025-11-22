@@ -2,7 +2,7 @@
 name: BGGP Entry
 about: Create a new BGGP entry
 title: ''
-labels: BGGP Entry, Needs Verification
+labels: BGGP Entry, BGGP6, Needs Verification
 assignees: ''
 ---
 
