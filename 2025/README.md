@@ -59,7 +59,7 @@ Forth is a stack-oriented programming language and interactive integrated develo
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 479  | [deluks](entries/deluks/deluks.elf-pdf-rar-zip.md) 👑 | ELF, PDF, RAR, ZIP | 2 | 3617 | [147](https://github.com/binarygolf/BGGP/issues/147) | tbd | pdf requires zathura 0.5.12 at least |
+| 479  | [deluks](entries/deluks/deluks.elf-pdf-rar-zip.md) 👑 | ELF, PDF, RAR, ZIP | 2, 6 | 3873 | [147](https://github.com/binarygolf/BGGP/issues/147) | tbd | pdf requires zathura 0.5.12 at least |
 
 ### ELF, Shellscript
 
