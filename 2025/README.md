@@ -45,5 +45,5 @@ Single file entries
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 25 | [deepseagirl](./deepseagirl/deepseagirl.netpbm-shell.md) 👑 | .pbm, .sh | 2, 6 | 4327 | [159](https://github.com/binarygolf/BGGP/issues/159) | | Seems to work only on MacOS |
+| 25 | [deepseagirl](./entries/deepseagirl/deepseagirl.netpbm-shell.md) 👑 | .pbm, .sh | 2, 6 | 4327 | [159](https://github.com/binarygolf/BGGP/issues/159) | | Seems to work only on MacOS |
 
