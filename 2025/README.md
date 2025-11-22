@@ -40,3 +40,10 @@ Single file entries
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
 | 64   | [dominikr](entries/dominikr/dominikr.elf-sh.md) 👑 | ELF, .sh | 2 | 4032 | [144](https://github.com/binarygolf/BGGP/issues/144) | | Works on bash 5.1 or lower due to ELF header checks in 5.2+ (see entry) |
+
+### NetPBM, shellscript
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 25 | [deepseagirl](./deepseagirl/deepseagirl.netpbm-shell.md) 👑 | .pbm, .sh | 2, 6 | 4327 | [159](https://github.com/binarygolf/BGGP/issues/159) | | Seems to work only on MacOS |
+
