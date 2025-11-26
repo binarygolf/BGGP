@@ -36,6 +36,14 @@ Forth is a stack-oriented programming language and interactive integrated develo
 |------|--------|------|------|-------|-------|---------|------|
 | 3 | [continue](./entries/continue/continue.forth.md) 👑 | .forth | 6 | 4349 | [150](https://github.com/binarygolf/BGGP/issues/150) | [writeup](gemini://any-key.press/esoteric/bggp6_4th.gmi) | |
 
+## Python Pip Package
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 67 | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.pip_pkg.minimal.md) 👑 | .tgz | 6 | 4285 | [161](https://github.com/binarygolf/BGGP/issues/161) | [writeup](https://rap.sh/Python_Pip_Golf) | Doesn't install, but prints "6" in the output. |
+| 127 | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.pip_pkg.valid.md) | .tgz | 6 | 4225 | [162](https://github.com/binarygolf/BGGP/issues/162) | [writeup](https://rap.sh/Python_Pip_Golf) | This one actually installs as a package called UNKNOWN |
+
+
 ### TXT
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
