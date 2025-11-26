@@ -43,6 +43,11 @@ Forth is a stack-oriented programming language and interactive integrated develo
 | 67 | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.pip_pkg.minimal.md) 👑 | .tgz | 6 | 4285 | [161](https://github.com/binarygolf/BGGP/issues/161) | [writeup](https://rap.sh/Python_Pip_Golf) | Doesn't install, but prints "6" in the output. |
 | 127 | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.pip_pkg.valid.md) | .tgz | 6 | 4225 | [162](https://github.com/binarygolf/BGGP/issues/162) | [writeup](https://rap.sh/Python_Pip_Golf) | This one actually installs as a package called UNKNOWN |
 
+## Shell Script with Args
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 5 | [mattpass](./entries/mattpass/mattpass.sh.md) 👑 | .sh | 1 5 6 | 4859 | [161](https://github.com/binarygolf/BGGP/issues/151) | [writeup][(https://rap.sh/Python_Pip_Golf](https://pastebin.com/YBcdvF57) | Tested on debian 13 with chromium. Works as expected. |
 
 ### TXT
 
