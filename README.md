@@ -1,6 +1,6 @@
 # Binary Golf Grand Prix
 
-This repo contains files for the Binary Golf Grand Prix, sorted by year.
+This repo contains files for the Binary Golf Grand Prix, sorted by year. BGGP is an annual small file competition, with players creating the smallest possible files that perform a specified function. Files can be no greater than 4096 bytes.
 
 | Year | Theme | Description |
 |------|-------|-------------|
@@ -10,3 +10,10 @@ This repo contains files for the Binary Golf Grand Prix, sorted by year.
 | [BGGP4](./2023/) (2023) | [Replicate](https://binary.golf/4/) | Smallest self replicating file, any format or platform |
 | [BGGP5](./2024/) (2024) | [Download](https://binary.golf/5/) | Smallest file that downloads another file |
 | [BGGP6](./2025/) (2025) | [Recycle](https://binary.golf/6/) | Smallest file and/or any past challenge |
+
+
+Links:
+- Website: https://binary.golf/
+- Twitter: https://x.com/binarygolf
+- Mastodon: https://haunted.computer/@binarygolf
+- Bluesky: https://bsky.app/profile/binary.golf
