@@ -86,6 +86,11 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 |------|--------|------|------|-------|-------|---------|------|
 | 1    | [int0x80](entries/int0x80/int0x80.txt.md) 👑 | TXT | 6 | 4095 | [145](https://github.com/binarygolf/BGGP/issues/145) | | |
 
+### Lua Wireshark Plugin
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 1    | [netspooky](entries/netspooky/netspooky.wireshark_lua.md) 👑 | Lua wireshark | 6 | 4335 | [158](https://github.com/binarygolf/BGGP/issues/158) | | |
 
 ## Polyglots
 
