@@ -83,6 +83,12 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 |------|--------|------|------|-------|-------|---------|------|
 | 55   | [mauke](entries/mauke/mauke.com-perl-shell-make.md) 👑 | COM, Perl, Shell, Make | 1, 2 | 4553 | [146](https://github.com/binarygolf/BGGP/issues/146) | [writeup](https://blogs.perl.org/users/mauke/2025/10/a-palindromic-polyglot-program-in-x86-machine-code-perl-shell-and-make.html) | |
 
+### DEB, Shellscript 
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 182 | [dominikr](./entries/dominikr/dominikr.deb-sh.md) 👑 | .deb, .sh | 2 4 5 6 | 4938 | [175](https://github.com/binarygolf/BGGP/issues/175) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main/deb) | |
+
 ### ELF, PDF, RAR, ZIP
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
