@@ -113,6 +113,12 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 |------|--------|------|------|-------|-------|---------|------|
 | 44 | [q3w3e3](./entries/q3w3e3/q3w3e3.bash-perl.no-args.md) 👑 | .sh, .pl | 2 3 4 5 6 | 5332 | [172](https://github.com/binarygolf/BGGP/issues/172) | [writeup](https://www.gaiaonline.com/journal/?mode=view&post_id=48177153&u=44309835) [backup](https://gist.github.com/q3w3e3/2c7809fa92c75c9cac9ca37ef5696ad7) | Works as is |
 
+### Shell, ZIP
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 179 | [mattpass](./entries/mattpass/mattpass.sh-zip.md) 👑 | .sh, .sql, .zip | 1 2 3 4 5 6 | 5453 | [165](https://github.com/binarygolf/BGGP/issues/165) | [writeup](https://gist.github.com/mattpass/8b40b2e2b946f8bf7474a001b30f3a85) | 🔥 Satisfies all 6 BGGPs! |
+
 ### SQL, Shellscript, ZIP
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
