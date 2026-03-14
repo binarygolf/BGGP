@@ -130,11 +130,12 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 |------|--------|------|------|-------|-------|---------|------|
 | 1    | [squiblydoo](./entries/squiblydoo/squiblydoo.ps1-txt.md) 👑 | .ps1, .txt | 2, 6 | 4351 | [153](https://github.com/binarygolf/BGGP/issues/153) | | |
 
-### Shell, Perl (No Args)
+### Shell, Perl
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 44 | [q3w3e3](./entries/q3w3e3/q3w3e3.bash-perl.no-args.md) 👑 | .sh, .pl | 2 3 4 5 6 | 5332 | [172](https://github.com/binarygolf/BGGP/issues/172) | [writeup](https://www.gaiaonline.com/journal/?mode=view&post_id=48177153&u=44309835) [backup](https://gist.github.com/q3w3e3/2c7809fa92c75c9cac9ca37ef5696ad7) | Works as is |
+| 26 | [q3w3e3](./entries/q3w3e3/q3w3e3.bash-perl.crash.md) 👑 | .sh, .pl | 2 3 4 5 6 | 5350 | [171](https://github.com/binarygolf/BGGP/issues/171) | [writeup](https://www.gaiaonline.com/journal/?mode=view&post_id=48177153&u=44309835) [backup](https://gist.github.com/q3w3e3/2c7809fa92c75c9cac9ca37ef5696ad7) | Needs curl 8.10.1 or higher, args in file name |
+| 44 | [q3w3e3](./entries/q3w3e3/q3w3e3.bash-perl.no-args.md) 👑 | .sh, .pl | 2 3 4 5 6 | 5332 | [172](https://github.com/binarygolf/BGGP/issues/172) | [writeup](https://www.gaiaonline.com/journal/?mode=view&post_id=48177153&u=44309835) [backup](https://gist.github.com/q3w3e3/2c7809fa92c75c9cac9ca37ef5696ad7) | Works as is, no args in file name |
 
 ### Shell, ZIP
 
