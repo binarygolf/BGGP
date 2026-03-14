@@ -68,6 +68,11 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 |------|--------|------|------|-------|-------|---------|------|
 | 24 | [q3w3e3](./entries/q3w3e3/q3w3e3.bash.md) 👑 | .sh | 3 4 5 6 | 5096 | [169](https://github.com/binarygolf/BGGP/issues/169) | [writeup](https://www.gaiaonline.com/journal/?mode=view&post_id=48177153&u=44309835) [backup](https://gist.github.com/q3w3e3/2c7809fa92c75c9cac9ca37ef5696ad7) | Works as is |
 
+### TAR
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 148 | [dominikr](./entries/dominikr/dominikr.tar.md) 👑 | .tgz | 5 | 4204 | [178](https://github.com/binarygolf/BGGP/issues/178) | | uses a git hook to download |
 
 ### TXT
 
