@@ -18,6 +18,11 @@ The .curlrc file is a configuration file used by curl. It allows users to define
 |------|--------|------|------|-------|-------|---------|------|
 | 62 | [bah](./entries/bah/bah.curlrc.md) | .curlrc | 4, 5, 6 | 4802 | [154](https://github.com/binarygolf/BGGP/issues/154) | [writeup](https://gist.github.com/bahorn/4a0d8505d84e7acab21358c39fdab4a7) | | 
 
+### C 
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 1368 | [OwOday](./entries/OwOday/OwOday.C.md) | C | 6 | 2984 | [176](https://github.com/binarygolf/BGGP/issues/176) | [writeup](https://github.com/OwOday/bggp6) | |
 
 ### EROFS
 
