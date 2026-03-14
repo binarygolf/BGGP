@@ -28,7 +28,7 @@ EROFS stands for Enhanced Read-Only File System. It aims to form a generic read-
 | 1254 | [bilger321](./entries/bilger321/bilger321.erofs.md) 👑 | .erofs | 6 | 3098 | [149](https://github.com/binarygolf/BGGP/issues/149) | [writeup](https://gist.github.com/bilger321/3359e12f1755cc7928a134115058243f) | don't install fuse on ubuntu 22.04+ because it apparently breaks your system. |
 
 
-## Forth
+### Forth
 
 Forth is a stack-oriented programming language and interactive integrated development environment designed by Charles H. "Chuck" Moore and first used by other programmers in 1970. Forth has a niche in astronomical and space applications as well as a history in embedded systems. The Open Firmware boot ROMs used by Apple, IBM, Sun, and OLPC XO-1 contain a Forth environment. 
 
@@ -36,18 +36,25 @@ Forth is a stack-oriented programming language and interactive integrated develo
 |------|--------|------|------|-------|-------|---------|------|
 | 3 | [continue](./entries/continue/continue.forth.md) 👑 | .forth | 6 | 4349 | [150](https://github.com/binarygolf/BGGP/issues/150) | [writeup](gemini://any-key.press/esoteric/bggp6_4th.gmi) | |
 
-## Python Pip Package
+### Python Pip Package
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
 | 67 | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.pip_pkg.minimal.md) 👑 | .tgz | 6 | 4285 | [161](https://github.com/binarygolf/BGGP/issues/161) | [writeup](https://rap.sh/Python_Pip_Golf) | Doesn't install, but prints "6" in the output. |
 | 127 | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.pip_pkg.valid.md) | .tgz | 6 | 4225 | [162](https://github.com/binarygolf/BGGP/issues/162) | [writeup](https://rap.sh/Python_Pip_Golf) | This one actually installs as a package called UNKNOWN |
 
-## Shell Script with Args
+### Shell Script with Args
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
 | 5 | [mattpass](./entries/mattpass/mattpass.sh.md) 👑 | .sh | 1 5 6 | 4859 | [151](https://github.com/binarygolf/BGGP/issues/151) | [writeup](https://pastebin.com/YBcdvF57) | Tested on debian 13 with chromium. Works as expected. |
+
+### Shell Script no Args
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 24 | [q3w3e3](./q3w3e3/q3w3e3.bash.md) 👑 | .sh | 3 4 5 6 | 5096 | [169](https://github.com/binarygolf/BGGP/issues/169) | [writeup](https://www.gaiaonline.com/journal/?mode=view&post_id=48177153&u=44309835) [backup](https://gist.github.com/q3w3e3/2c7809fa92c75c9cac9ca37ef5696ad7) | Works as is |
+
 
 ### TXT
 
@@ -68,7 +75,7 @@ Forth is a stack-oriented programming language and interactive integrated develo
 |------|--------|------|------|-------|-------|---------|------|
 | 55   | [mauke](entries/mauke/mauke.com-perl-shell-make.md) 👑 | COM, Perl, Shell, Make | 1, 2 | 4553 | [146](https://github.com/binarygolf/BGGP/issues/146) | [writeup](https://blogs.perl.org/users/mauke/2025/10/a-palindromic-polyglot-program-in-x86-machine-code-perl-shell-and-make.html) | |
 
-## ELF, PDF, RAR, ZIP
+### ELF, PDF, RAR, ZIP
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
@@ -86,7 +93,7 @@ Forth is a stack-oriented programming language and interactive integrated develo
 |------|--------|------|------|-------|-------|---------|------|
 | 25 | [deepseagirl](./entries/deepseagirl/deepseagirl.netpbm-shell.md) 👑 | .pbm, .sh | 2, 6 | 4327 | [159](https://github.com/binarygolf/BGGP/issues/159) | | Seems to work only on MacOS |
 
-## Powershell, TXT
+### Powershell, TXT
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
