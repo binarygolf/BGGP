@@ -36,6 +36,14 @@ Forth is a stack-oriented programming language and interactive integrated develo
 |------|--------|------|------|-------|-------|---------|------|
 | 3 | [continue](./entries/continue/continue.forth.md) 👑 | .forth | 6 | 4349 | [150](https://github.com/binarygolf/BGGP/issues/150) | [writeup](gemini://any-key.press/esoteric/bggp6_4th.gmi) | |
 
+### Perl
+
+Perl is a high-level, interpreted, dynamic programming language renowned for powerful text processing, system administration, and web backend development.
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 29 | [dominikr](./entries/dominikr/dominikr.perl.crash.md) 👑 | .pl | 3 6 | 4579 | [168](https://github.com/binarygolf/BGGP/issues/168) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main#perl-crasher) | crashes perl |
+
 ### Python Pip Package
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
