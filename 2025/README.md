@@ -99,6 +99,7 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
 | 512 | [ilya](./entries/ilya/ilya.elf-pdf.md) 👑 | elf pdf | 2 4 6 | 3584 | [180](https://github.com/binarygolf/BGGP/issues/180) | [writeup](https://gist.github.com/ilya-lyapunov/fb2b7f66f9cfe434d664569ca6f6706c) | |
+| 2571 | [EmmaStrck](./entries/EmmaStrck/EmmaStrck.elf-pdf.md) | elf pdf | 2 6 | 1781 | [179](https://github.com/binarygolf/BGGP/issues/179) | | |
 
 ### ELF, PDF, RAR, ZIP
 
