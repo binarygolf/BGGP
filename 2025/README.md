@@ -24,6 +24,13 @@ The .curlrc file is a configuration file used by curl. It allows users to define
 |------|--------|------|------|-------|-------|---------|------|
 | 1368 | [OwOday](./entries/OwOday/OwOday.C.md) | C | 6 | 2984 | [176](https://github.com/binarygolf/BGGP/issues/176) | [writeup](https://github.com/OwOday/bggp6) | |
 
+
+### ELF
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 1696 | [febnug](./entries/febnug/febnug.elf-aarch64.download.md) | ELF | 5, 6 | 2912 | [160](https://github.com/binarygolf/BGGP/issues/160) | [writeup](https://github.com/febnug/bggp6-writeup) | |
+
 ### EROFS
 
 EROFS stands for Enhanced Read-Only File System. It aims to form a generic read-only filesystem solution for various read-only use cases instead of just focusing on storage space saving without considering any side effects of runtime performance.
@@ -116,6 +123,12 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 |------|--------|------|------|-------|-------|---------|------|
 | 512 | [ilya](./entries/ilya/ilya.elf-pdf.md) 👑 | elf pdf | 2 4 6 | 3584 | [180](https://github.com/binarygolf/BGGP/issues/180) | [writeup](https://gist.github.com/ilya-lyapunov/fb2b7f66f9cfe434d664569ca6f6706c) | |
 | 2571 | [EmmaStrck](./entries/EmmaStrck/EmmaStrck.elf-pdf.md) | elf pdf | 2 6 | 1781 | [179](https://github.com/binarygolf/BGGP/issues/179) | | |
+
+### ELF, PDF, JS
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 725 | [febnug](./entries/febnug/febnug.elf-pdf-js.md) | elf pdf js | 2 6 | 3883 | [152](https://github.com/binarygolf/BGGP/issues/152) | [writeup](https://github.com/febnug/bggp6-writeup) | |
 
 ### ELF, PDF, RAR, ZIP
 
