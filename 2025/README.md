@@ -31,7 +31,7 @@ The .curlrc file is a configuration file used by curl. It allows users to define
 | 45   | [dominikr](./entries/dominikr/dominikr.elf32.6.md) 👑 | ELF | 6 | 4307 | [156](https://github.com/binarygolf/BGGP/issues/156) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main#elf-print6) | no args |
 | 45   | [dominikr](./entries/dominikr/dominikr.elf32.download-with-args.md) | ELF | 4 5 6 | 4819 | [174](https://github.com/binarygolf/BGGP/issues/174) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main/download) | uses cli args |
 | 71   | [dominikr](./entries/dominikr/dominikr.elf32.download-no-args.md) | ELF | 5 6 | 4537 | [173](https://github.com/binarygolf/BGGP/issues/173) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main/download) | no cli args |
-| 154  | [dominikr](./entries/dominikr/dominikr.elf32-forth.md) | ELF | 4 5 6 | 4710 | [177](https://github.com/binarygolf/BGGP/issues/177) | [writeup](https://github.com/dominikfhnw/viert/tree/bggp6-release1) | ELF built with a custom forth compiler |
+| 154  | [dominikr](./entries/dominikr/dominikr.elf32-forth.md) | ELF | 3 4 5 6 | 4966 | [177](https://github.com/binarygolf/BGGP/issues/177) | [writeup](https://github.com/dominikfhnw/viert/tree/bggp6-release1) | ELF built with a custom forth compiler |
 | 228  | [febnug](./entries/febnug/febnug.elf.palindrome.md) | ELF | 1, 6 | 4380 | [157](https://github.com/binarygolf/BGGP/issues/157) | [writeup](https://github.com/febnug/bggp6-writeup) | Palindrome |
 
 ### ELF64

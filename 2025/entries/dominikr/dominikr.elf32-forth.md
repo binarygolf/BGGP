@@ -117,7 +117,7 @@ $ ASM="bye" FULL= TOS_ENABLE=0 ./optim.sh bye6.fth && strace -rni ./viert
 - Reviewer: netspooky
 - Review Date: 2026-04-06
 - SHA256: f889f4694929bdbc34f85dd111c0aca3373b623c4bf7c1c0ea10f2bd33c183ad
-- Score: 4710 [ Base: 3942 (4096 - 154) +256 (BGGP4) +256 (BGGP5) +256 (Writeup) ]
+- Score: 4966 [ Base: 3942 (4096 - 154) +256 (BGGP3) +256 (BGGP4) +256 (BGGP5) +256 (Writeup) ]
 - Note: works as is, note that the score is based on the final compiled elf, not the forth source code!
 
 ```
