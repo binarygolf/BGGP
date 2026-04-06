@@ -25,11 +25,16 @@ The .curlrc file is a configuration file used by curl. It allows users to define
 | 1368 | [OwOday](./entries/OwOday/OwOday.C.md) | C | 6 | 2984 | [176](https://github.com/binarygolf/BGGP/issues/176) | [writeup](https://github.com/OwOday/bggp6) | |
 
 
-### ELF
+### ELF32
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
+| 71   | [dominikr](./entries/dominikr/dominikr.elf32.download-no-args.md) | ELF | 5 6 | 4537 | [173](https://github.com/binarygolf/BGGP/issues/173) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main/download) | |
 | 228  | [febnug](./entries/febnug/febnug.elf.palindrome.md) | ELF | 1, 6 | 4380 | [157](https://github.com/binarygolf/BGGP/issues/157) | [writeup](https://github.com/febnug/bggp6-writeup) | Palindrome |
+
+### ELF64
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
 | 1696 | [febnug](./entries/febnug/febnug.elf-aarch64.download.md) | ELF | 5, 6 | 2912 | [160](https://github.com/binarygolf/BGGP/issues/160) | [writeup](https://github.com/febnug/bggp6-writeup) | |
 
 ### EROFS
