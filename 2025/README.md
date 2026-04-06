@@ -82,6 +82,7 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
 | 5 | [mattpass](./entries/mattpass/mattpass.sh.md) 👑 | .sh | 1 5 6 | 4859 | [151](https://github.com/binarygolf/BGGP/issues/151) | [writeup](https://pastebin.com/YBcdvF57) | Tested on debian 13 with chromium. Works as expected. |
+| 86 | [x0](./entries/x0/x0.bash-ansi.md) | .sh | 5 6 | 4266 | [155](https://github.com/binarygolf/BGGP/issues/155) | | Displays ANSI art when run from provided URL |
 
 ### Shell Script no Args
 
