@@ -16,27 +16,28 @@ The .curlrc file is a configuration file used by curl. It allows users to define
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 62 | [bah](./entries/bah/bah.curlrc.md) | .curlrc | 4, 5, 6 | 4802 | [154](https://github.com/binarygolf/BGGP/issues/154) | [writeup](https://gist.github.com/bahorn/4a0d8505d84e7acab21358c39fdab4a7) | | 
+| 62 | [bah](./entries/bah/bah.curlrc.md) 👑 | .curlrc | 4, 5, 6 | 4802 | [154](https://github.com/binarygolf/BGGP/issues/154) | [writeup](https://gist.github.com/bahorn/4a0d8505d84e7acab21358c39fdab4a7) | | 
 
 ### C 
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 1368 | [OwOday](./entries/OwOday/OwOday.C.md) | C | 6 | 2984 | [176](https://github.com/binarygolf/BGGP/issues/176) | [writeup](https://github.com/OwOday/bggp6) | |
+| 1368 | [OwOday](./entries/OwOday/OwOday.C.md) 👑 | C | 6 | 2984 | [176](https://github.com/binarygolf/BGGP/issues/176) | [writeup](https://github.com/OwOday/bggp6) | |
 
 ### ELF32
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 45   | [dominikr](./entries/dominikr/dominikr.elf32.6.md) | ELF | 6 | 4307 | [156](https://github.com/binarygolf/BGGP/issues/156) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main#elf-print6) | no args |
+| 45   | [dominikr](./entries/dominikr/dominikr.elf32.6.md) 👑 | ELF | 6 | 4307 | [156](https://github.com/binarygolf/BGGP/issues/156) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main#elf-print6) | no args |
 | 45   | [dominikr](./entries/dominikr/dominikr.elf32.download-with-args.md) | ELF | 4 5 6 | 4819 | [174](https://github.com/binarygolf/BGGP/issues/174) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main/download) | uses cli args |
 | 71   | [dominikr](./entries/dominikr/dominikr.elf32.download-no-args.md) | ELF | 5 6 | 4537 | [173](https://github.com/binarygolf/BGGP/issues/173) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main/download) | no cli args |
+| 154  | [dominikr](./entries/dominikr/dominikr.elf32-forth.md) | ELF | 4 5 6 | 4710 | [177](https://github.com/binarygolf/BGGP/issues/177) | [writeup](https://github.com/dominikfhnw/viert/tree/bggp6-release1) | ELF built with a custom forth compiler |
 | 228  | [febnug](./entries/febnug/febnug.elf.palindrome.md) | ELF | 1, 6 | 4380 | [157](https://github.com/binarygolf/BGGP/issues/157) | [writeup](https://github.com/febnug/bggp6-writeup) | Palindrome |
 
 ### ELF64
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 1696 | [febnug](./entries/febnug/febnug.elf-aarch64.download.md) | ELF | 5, 6 | 2912 | [160](https://github.com/binarygolf/BGGP/issues/160) | [writeup](https://github.com/febnug/bggp6-writeup) | |
+| 1696 | [febnug](./entries/febnug/febnug.elf-aarch64.download.md) 👑 | ELF | 5, 6 | 2912 | [160](https://github.com/binarygolf/BGGP/issues/160) | [writeup](https://github.com/febnug/bggp6-writeup) | |
 
 ### EROFS
 
@@ -59,7 +60,7 @@ Forth is a stack-oriented programming language and interactive integrated develo
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 126 | [bah](./entries/bah/bah.inputrc.md) | .inputrc | 3 4 5 6 | 3970 | [166](https://github.com/binarygolf/BGGP/issues/166) | [writeup](https://github.com/bahorn/inputrc-bd/tree/main/bggp) | |
+| 126 | [bah](./entries/bah/bah.inputrc.md) 👑 | .inputrc | 3 4 5 6 | 3970 | [166](https://github.com/binarygolf/BGGP/issues/166) | [writeup](https://github.com/bahorn/inputrc-bd/tree/main/bggp) | |
 
 ### Perl
 
@@ -128,13 +129,13 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 223  | [dominikr](./entries/dominikr/dominikr.elf.all-in-one.md) | ELF COM | 1 2 3 4 5 6 | 6433 | [170](https://github.com/binarygolf/BGGP/issues/170) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main/allinone) | 🔥 Satisfies all 6 BGGPs! 🛠️ Bonus awarded for merged PR to fix bugs |
+| 223  | [dominikr](./entries/dominikr/dominikr.elf.all-in-one.md) 👑 | ELF COM | 1 2 3 4 5 6 | 6433 | [170](https://github.com/binarygolf/BGGP/issues/170) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main/allinone) | 🔥 Satisfies all 6 BGGPs! 🛠️ Bonus awarded for merged PR to fix bugs |
 
 ### ELF, DICOM
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 472  | [xcellerator](./entries/xcellerator.elf-dicom.md) | ELF DICOM | 1 2 6 | 4392 | [167](https://github.com/binarygolf/BGGP/issues/167) | [writeup](https://github.com/xcellerator/polydrome) | |
+| 472  | [xcellerator](./entries/xcellerator.elf-dicom.md) 👑 | ELF DICOM | 1 2 6 | 4392 | [167](https://github.com/binarygolf/BGGP/issues/167) | [writeup](https://github.com/xcellerator/polydrome) | |
 
 ### ELF, PDF
 
@@ -147,7 +148,7 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 725 | [febnug](./entries/febnug/febnug.elf-pdf-js.md) | elf pdf js | 2 6 | 3883 | [152](https://github.com/binarygolf/BGGP/issues/152) | [writeup](https://github.com/febnug/bggp6-writeup) | |
+| 725 | [febnug](./entries/febnug/febnug.elf-pdf-js.md) 👑 | elf pdf js | 2 6 | 3883 | [152](https://github.com/binarygolf/BGGP/issues/152) | [writeup](https://github.com/febnug/bggp6-writeup) | |
 
 ### ELF, PDF, RAR, ZIP
 
