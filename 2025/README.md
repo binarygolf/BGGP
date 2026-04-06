@@ -124,6 +124,12 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 |------|--------|------|------|-------|-------|---------|------|
 | 182 | [dominikr](./entries/dominikr/dominikr.deb-sh.md) 👑 | .deb, .sh | 2 4 5 6 | 4938 | [175](https://github.com/binarygolf/BGGP/issues/175) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main/deb) | |
 
+### ELF, DICOM
+
+| Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
+|------|--------|------|------|-------|-------|---------|------|
+| 472  | [xcellerator](./entries/xcellerator.elf-dicom.md) | ELF DICOM | 1 2 6 | 4392 | [167](https://github.com/binarygolf/BGGP/issues/167) | [writeup](https://github.com/xcellerator/polydrome) | |
+
 ### ELF, PDF
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
