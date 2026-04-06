@@ -76,6 +76,7 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 |------|--------|------|------|-------|-------|---------|------|
 | 67 | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.pip_pkg.minimal.md) 👑 | .tgz | 6 | 4285 | [161](https://github.com/binarygolf/BGGP/issues/161) | [writeup](https://rap.sh/Python_Pip_Golf) | Doesn't install, but prints "6" in the output. |
 | 127 | [dtmsecurity](./entries/dtmsecurity/dtmsecurity.pip_pkg.valid.md) | .tgz | 6 | 4225 | [162](https://github.com/binarygolf/BGGP/issues/162) | [writeup](https://rap.sh/Python_Pip_Golf) | This one actually installs as a package called UNKNOWN |
+| 150 | [dtmsecurity]((./entries/dtmsecurity/dtmsecurity.pip_pkg.persist.md)) | .tgz | 6 | 4202 | [163](https://github.com/binarygolf/BGGP/issues/163) | [writeup](https://rap.sh/Python_Pip_Golf) | This package backdoors python to print "6" every time it is ran.
 
 ### Shell Script with Args
 
