@@ -128,7 +128,7 @@ Perl is a high-level, interpreted, dynamic programming language renowned for pow
 
 | Size | Author | Type | BGGP | Score | Issue | Writeup | Note |
 |------|--------|------|------|-------|-------|---------|------|
-| 223  | [dominikr](./entries/dominikr/dominikr.elf.all-in-one.md) | ELF COM | 1 2 3 4 5 6 | 5409 | [170](https://github.com/binarygolf/BGGP/issues/170) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main/allinone) | 🔥 Satisfies all 6 BGGPs! |
+| 223  | [dominikr](./entries/dominikr/dominikr.elf.all-in-one.md) | ELF COM | 1 2 3 4 5 6 | 6433 | [170](https://github.com/binarygolf/BGGP/issues/170) | [writeup](https://github.com/dominikfhnw/bggp6-writeup/tree/main/allinone) | 🔥 Satisfies all 6 BGGPs! 🛠️ Bonus awarded for merged PR to fix bugs |
 
 ### ELF, DICOM
 

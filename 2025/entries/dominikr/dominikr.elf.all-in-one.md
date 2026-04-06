@@ -65,7 +65,7 @@ See the writeup for more info
 - Reviewer: netspooky
 - Review Date: 2026-04-06
 - SHA256: 78a039409f74b66af921f613d9edfd5f252a285e9b409f292e3cab2ecbe6effe
-- Score: 5409 [ Base: 3873 (4096 - 223) +256 (BGGP1) +256 (BGGP2) +256 (BGGP3) +256 (BGGP4) +256 (BGGP5) +256 (Writeup) ]
+- Score: 6433 [ Base: 3873 (4096 - 223) +256 (BGGP1) +256 (BGGP2) +256 (BGGP3) +256 (BGGP4) +256 (BGGP5) +256 (Writeup) +1024 (Merged PR fix for radare2) ]
 - Note: works as is
 
 ```
