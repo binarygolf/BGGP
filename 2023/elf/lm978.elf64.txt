@@ -1,0 +1,41 @@
+---BEGIN BGGP4---
+Submit Date: 20231101
+BGGP Challenge Number: 4
+Author: lm978 (Matthew House)
+Contact Info (Optional): mattlloydhouse@gmail.com
+Online Presence (Website/Social Media): https://github.com/LegionMammal978
+Target File Type: x86-64 Linux ELF
+File Size: 73 bytes
+SHA256 Hash: 721eddf309964601c2c79c52a465678b1a116e252e5b85166362055e1963b464
+
+Target Environment (How do we run the file?):
+This program requires support for 5-level paging both in the processor (bit
+CR4.LA57) and in the kernel (CONFIG_X86_5LEVEL). The environment can be readily
+emulated using QEMU with an official Arch Linux VM image. Additionally, the
+vm.overcommit_memory sysctl must be set to 1 to allow unlimited overcommit of
+writable pages. Any recent version of the kernel should suffice.
+
+$ qemu-system-x86_64 -cpu qemu64,+la57 -m 512 Arch-Linux-x86_64-basic.qcow2
+
+[arch@archlinux ~]$ sudo sysctl vm.overcommit_memory=1
+vm.overcommit_memory = 1
+[arch@archlinux ~]$ ./bggp; echo $?
+4
+[arch@archlinux ~]$ chmod u+r ./4; sha256sum ./bggp ./4
+721eddf309964601c2c79c52a465678b1a116e252e5b85166362055e1963b464  ./bggp
+721eddf309964601c2c79c52a465678b1a116e252e5b85166362055e1963b464  ./4
+
+Any additional info?:
+This program attains the smallest size possible for any 64-bit Linux ELF file
+under current kernel versions. It requires that argc == 1. The file it creates
+doesn't have any permission bits set, so a chmod is needed to read it.
+
+Link to PoC video, screenshot, or console output, if any: See above.
+
+Link to writeup, if any:
+FASM source: https://gist.github.com/LegionMammal978/347c939def56dcba449cb54dd9ee22f4
+
+File contents (base64 encoded please):
+f0VMRrACajRUX+scAQAAAAMAPgAMAAAAAAAAAAwAAAAMAAAAAAAAAGpBXqj0DwVaX5exAFGpOAAB
+AOsAXrJJDwWw52oE68Lruw==
+---END BGGP4---
